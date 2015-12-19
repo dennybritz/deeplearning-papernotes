@@ -2,7 +2,7 @@
 
 TLDR; Authors apply 3-layer seq2seq LSTM with 256 units and attention mechanism to consituency parsing task and achieve new state of the art. Attention made a huge difference for a small dataset (40k examples), but less so for a noisy large dataset (~11M examples).
 
-#### Data Sets and best model performance
+#### Data Sets and model performance
 
 - WSJ (40k examples): 90.5
 - Large distantly supervised corpus (90k gold examples, 11M noisy examples): 92.8
