@@ -5,7 +5,7 @@ TLDR; The authors propose a novel "attention" mechanism that they evaluate on a 
 
 #### Data Sets and model performance
 
-Bidirectional LSTM, 1000 hidden units. Multilayer maxout to compute probabilities.
+Bidirectional LSTM, 1000 hidden units. Multilayer maxout to compute output probabilities in decoder.
 
 WMT '14 BLEU: 36.15
 
@@ -17,3 +17,8 @@ WMT '14 BLEU: 36.15
 - The attention mechanism improves performance across the board, but has a particularly large affect on long sentences, confirming the hyptohesis that the fixed vector encoding is a bottleneck.
 - The authors use a bidirectional-LSTM, concatenating both hidden states into a final state at each time step.
 - It is easy to visualize the attention matrix (for a single input-ouput sequence pair). The authors show that in the case of English to French translations the matrix has large values on the diagonal, showing the these two languages are well aligned in terms of word order.
+
+
+#### Question/Notes
+
+- The attention mechanism seems limited in that it computes a simple weighted average. What about more complex attention functions that allow input states to interact?
