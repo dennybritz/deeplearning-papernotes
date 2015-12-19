@@ -15,7 +15,7 @@ TLDR; Authors apply 3-layer seq2seq LSTM with 256 units and attention mechanism 
 - Reversing the input in seq2seq tasks is common. However, reversing resulted in only a 0.2 point bump in accuracy.
 - Pre-trained word vectors bumped scores by 0.4 (92.9 -> 94.3) only.
 
-#### Questions
+#### Notes/Questions
 
 - How much does the ouput data representation matter? The authors linearized the parse tree using depth-first traversal and parentheses. Are there more efficient representations that may lead to better results?
 - How much does the noise in the auto-labeled training data matter when compared to the data size? Are there systematic errors in the auto-labeled data that put a ceiling on model performance?
