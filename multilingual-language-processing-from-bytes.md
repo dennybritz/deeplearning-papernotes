@@ -4,8 +4,12 @@ TLDR; The authors train a deep seq-2-seq LSTM directly on byte-level input of se
 
 #### Data and model performance
 
-- POS Tagging: 13 languages, 2.87M tokens, 25.3M training segments.
+Data:
+
+- POS Tagging: 13 languages, 2.87M tokens, 25.3M training segments
 - NER: 4 languags, 0.88M tokens, 6M training segments
+
+Results:
 
 - POS CRF Accuracy (average across languages): 95.41
 - POS BTS Accuracy (average across languages): 95.85
