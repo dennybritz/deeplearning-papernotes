@@ -12,7 +12,7 @@ WMT '14 BLEU: 36.15
 
 #### Key Takeaways
 
-- Attention mechanism is a weighted sum of the hidden states computed by the encoder. The weights come from a softmax-normalized attention function (a simple MLP in this paper), which are learned during training.
+- Attention mechanism is a weighted sum of the hidden states computed by the encoder. The weights come from a softmax-normalized attention function (a perceptron in this paper), which are learned during training.
 - Attention can be expensive, because it must be evaluated for each encoder-decoder output pair, resulting in a len(x) * len(y) matrix.
 - The attention mechanism improves performance across the board, but has a particularly large affect on long sentences, confirming the hyptohesis that the fixed vector encoding is a bottleneck.
 - The authors use a bidirectional-GRU, concatenating both hidden states into a final state at each time step.
