@@ -9,6 +9,7 @@
 - Character-level Convolutional Networks for Text Classification (2015-09) [[arXiv](http://arxiv.org/abs/1509.01626)]
 - Listen, Attend and Spell (2015-08) [[arxiv](http://arxiv.org/abs/1508.01211)]
 - Character-Aware Neural Language Models (2015-08) [[arXiv](http://arxiv.org/abs/1508.06615)]
+- Highway Networks (2015-05) [[arXiv](http://arxiv.org/abs/1505.00387)]
 - Text Understanding from Scratch (2015-02) [[arXiv](http://arxiv.org/abs/1502.01710)]
 
 ### 2014
