@@ -34,6 +34,6 @@ All numbers are accuracies on two datasets (CNN, Daily Mail)
 
 - How does document length affect the Deep LSTM reader? The appendix shows an anlysis for attention models, but not for the Deep LSTM. A goal of the paper was to show that attention mechanisms are well suited for long documents because the fixed vector encoding is a bottleneck. The reuslts here aren't clear.
 - Are the gradient truncated? I can't imagine the network is unrolled for 2000 steps. The training parameters details don't mention this.
-- The mathematical notation in this paper is horrible. The concepts are relatively simple, but the formulas are hard to parse.
+- The mathematical notation in this paper needs some love. The concepts are relatively simple, but the formulas are hard to parse.
 - What if you limited the output vocabulary to words appearing in the query document?
 - Can you apply the same "attention-based embedding" mechanism to text classification?
