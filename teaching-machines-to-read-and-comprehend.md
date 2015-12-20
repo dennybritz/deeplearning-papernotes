@@ -32,7 +32,7 @@ Impatient Reader: 63.8 / 68.0
 
 #### Notes:
 
-- How does document length affect the Deep LSTM reader? The appendix shows an anlysis for attention models, but not for the Deep LSTM.
+- How does document length affect the Deep LSTM reader? The appendix shows an anlysis for attention models, but not for the Deep LSTM. A goal of the paper is to show that attention mechanisms are well suited for long documents because the fixed vector encoding is a bottleneck. The authors don't show this.
 - Do they truncate the gradient? I can't imagine they unroll the network for 2000 steps. The training parameters details don't mention it.
 - The mathematical notation in thie paper is horrible. The concepts are relatively simple, but the formulas are hard to parse.
 - What if you limited the output vocabulary to words appearing in the query document? 
