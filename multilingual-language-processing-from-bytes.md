@@ -25,7 +25,7 @@ Results:
 - Training examples for all languages are shuffled together. The biggest improvements in scores are seen observed for low-resource languages.
 - Not clear how to tune recall of the model since non-spans are simply not annotated.
 
-#### Notes / Question
+#### Notes / Questions
 
 - I wonder if the fixed-vector embedding of the input sequence is a bottleneck since the decoder LSTM has to carry information not only about the input sequence, but also about the structure that has been produced so far. I wonder if the authors have experimented with varying `k`, or using attention mechanisms to deal with long sequences (I've seen papers dealing with sequences of 2000 tokens?). 60 seems quite short to me. Of course, output vocabulary size is also a concern with longer sequences.
 - What about LSTM initialization? When feeding spans coming from the same document, is the state kept around or re-initialized? I strongly suspect it's kept since 60 bytes probably don't contain enough information for proper labeling, but didn't see an explicit reference.
