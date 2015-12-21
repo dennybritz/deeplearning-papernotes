@@ -7,6 +7,7 @@
 - Neural Random-Access Machines (2015-11) [[arxiv](http://arxiv.org/abs/1511.06392)]
 - A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification (2015-10) [[arXiv](http://arxiv.org/abs/1510.03820)]
 - Character-level Convolutional Networks for Text Classification (2015-09) [[arXiv](http://arxiv.org/abs/1509.01626)]
+- A Neural Attention Model for Abstractive Sentence Summarization (2015-09) [[arXiv]()]
 - Listen, Attend and Spell (2015-08) [[arxiv](http://arxiv.org/abs/1508.01211)]
 - Character-Aware Neural Language Models (2015-08) [[arXiv](http://arxiv.org/abs/1508.06615)]
 - [Training Very Deep Networks (2015-06)](training-very-deep-networks.md) [[arXiv](http://arxiv.org/abs/1507.06228)]
