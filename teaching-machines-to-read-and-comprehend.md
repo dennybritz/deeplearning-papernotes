@@ -1,4 +1,4 @@
-## [Teaching Machines to Read and Comprehend (2015-11)](http://arxiv.org/abs/1506.03340)
+## [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340)
 
 TLDR; The authors generate a large dataset (~1M examples) for question answering by using cloze deletion on summaries of crawled CNN and Daily Mail articles. They evaluate 2 baselines, 2 symbolic models (frame semantic, word distance), and 4 neural models (Deep LSTM, Uniform Reader, Attentive Reader, Impatient Reader) on the dataset. The neural models, particularly those with attenton, beat the syntactic models.
 

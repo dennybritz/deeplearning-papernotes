@@ -1,4 +1,4 @@
-## [Multilingual Language Processing From Bytes (2015-12)](http://arxiv.org/abs/1512.00103)
+## [Multilingual Language Processing From Bytes](http://arxiv.org/abs/1512.00103)
 
 TLDR; The authors train a deep seq-2-seq LSTM directly on byte-level input of several langauges (shuffling the examples of all languages) and apply it to NER and POS tasks, achieving state-of-the-art or close to that. The model outputs spans of the form `[START_POSITION, LENGTH, LABEL]`, where each span element is a separate token prediction. A single model works well for all languages and learns shared high-level representations. The authors also present a novel way to dropout input tokens (bytes in their case), by randomly replacing them with a `DROP` symbol.
 
