@@ -30,7 +30,7 @@ All numbers are accuracies on two datasets (CNN, Daily Mail)
 - Very nice attention visualizations and negative examples analysis that show the attention-based models focusing on the relevant parts of the document to answer the questions.
 
 
-#### Notes / Question
+#### Notes / Questions
 
 - How does document length affect the Deep LSTM reader? The appendix shows an anlysis for attention models, but not for the Deep LSTM. A goal of the paper was to show that attention mechanisms are well suited for long documents because the fixed vector encoding is a bottleneck. The reuslts here aren't clear.
 - Are the gradient truncated? I can't imagine the network is unrolled for 2000 steps. The training parameters details don't mention this.
