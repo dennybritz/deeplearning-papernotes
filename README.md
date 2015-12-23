@@ -123,7 +123,7 @@
 #### 2014-06
 
 - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[arXiv](http://arxiv.org/abs/1406.1078)]
-- Recurrent Models of Visual Attention [[arXiv](http://arxiv.org/abs/1406.6247)]
+- [Recurrent Models of Visual Attention](recurrent-models-of-visual-attention.md) [[arXiv](http://arxiv.org/abs/1406.6247)]
 
 #### 2014-05
 
