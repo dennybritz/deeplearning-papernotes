@@ -1,6 +1,6 @@
 
 ### 2015
-
+- [Strategies for Training Large Vocabulary Neural Language Models (2015-12)](strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
 - [Multilingual Language Processing From Bytes (2015-12)](multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - [Teaching Machines to Read and Comprehend (2015-11)](teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning (2015-11)](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
