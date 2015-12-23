@@ -7,6 +7,7 @@
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Target-Dependent Sentiment Classification with Long Short Term Memory [[arXiv](http://arxiv.org/abs/1512.01100)]
+- Deep Residual Learning for Image Recognition [[arXiv](http://arxiv.org/abs/1512.03385)]
 
 #### 2015-11
 
