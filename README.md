@@ -96,7 +96,7 @@
 
 #### 2014-12
 
-- Neural Turing Machines [[arxiv](http://arxiv.org/abs/1410.5401)]
+- [Neural Turing Machines](neural-turing-machines.md) [[arxiv](http://arxiv.org/abs/1410.5401)]
 - [Grammar as a Foreign Langauage](grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]]
 - On Using Very Large Target Vocabulary for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1412.2007)]
