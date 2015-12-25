@@ -15,9 +15,9 @@
 - [Semi-supervised Sequence Learning](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
+- Alternative structures for character-level RNNs [[arXiv](http://arxiv.org/abs/1511.06303)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
 - Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
-- Alternative structures for character-level RNNs [[arXiv](http://arxiv.org/abs/1511.06303)]
 - LSTM-based Deep Learning Models for non-factoid answer selection [[arXiv](http://arxiv.org/abs/1511.04108)]
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
@@ -84,7 +84,7 @@
 
 
 - Distilling the Knowledge in a Neural Network [[arXiv](http://arxiv.org/abs/1503.02531)]
-- End-To-End Memory Networks [[arXiv](http://arxiv.org/abs/1503.08895)]
+- [End-To-End Memory Networks](end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
 
 
 #### 2015-02
