@@ -59,7 +59,7 @@
 
 #### 2015-07
 
-- Document Embedding with Paragraph Vectors [[arXiv](http://arxiv.org/abs/1507.07998)]
+- [Document Embedding with Paragraph Vectors](document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
 - [Training Very Deep Networks](training-very-deep-networks.md) [[arXiv](http://arxiv.org/abs/1507.06228)]
 
 #### 2015-06
