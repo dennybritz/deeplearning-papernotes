@@ -129,7 +129,7 @@
 
 #### 2014-05
 
-- Distributed Representations of Sentences and Documents [[arXiv](http://arxiv.org/abs/1405.4053)]
+- [Distributed Representations of Sentences and Documents](distributed-representations-of-sentences-and-documents.md) [[arXiv](http://arxiv.org/abs/1405.4053)]
 
 #### 2014-04
 
