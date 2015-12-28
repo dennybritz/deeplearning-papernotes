@@ -24,6 +24,7 @@
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arXiv](http://arxiv.org/abs/1511.04834)]
 - Learning Simple Algorithms from Examples [[arXiv](http://arxiv.org/abs/1511.07275)]
 - ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
+- Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)]
 - Order Matters: Sequence to sequence for sets [[arXiv](http://arxiv.org/abs/1511.06391)]
 - Multi-task Sequence to Sequence Learning [[arXiv](http://arxiv.org/abs/1511.06114)]
 - Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
@@ -65,10 +66,10 @@
 #### 2015-06
 
 - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses [[arXiv](http://arxiv.org/abs/1506.06714)]
-- Document Embedding with Paragraph Vectors [[arXiv](http://arxiv.org/abs/1507.07998)]
+- [Document Embedding with Paragraph Vectors](document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
 - A Neural Conversational Model [[arXiv](http://arxiv.org/abs/1506.05869)]
-- Skip-Thought Vectors [[arXiv](http://arxiv.org/abs/1506.06726)]
-- Pointer Networks [[arXiv](http://arxiv.org/abs/1506.03134)]
+- [Skip-Thought Vectors](skip-thought-vectors.md) [[arXiv](http://arxiv.org/abs/1506.06726)]
+- [Pointer Networks](pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
 - Spatial Transformer Networks [[arXiv](http://arxiv.org/abs/1506.02025)]
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
 
