@@ -111,7 +111,7 @@
 
 #### 2014-09
 
-- Sequence to Sequence Learning with Neural Networks [[arXiv](http://arxiv.org/abs/1409.3215)]
+- [Sequence to Sequence Learning with Neural Networks](seq2seq-with-neural-networks.md) [[arXiv](http://arxiv.org/abs/1409.3215)]
 - [Neural Machine Translation by Jointly Learning to Align and Translate](nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](properties-of-neural-mt.md) [[arXiv](http://arxiv.org/abs/1409.1259)]
 - [Recurrent Neural Network Regularization](rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
