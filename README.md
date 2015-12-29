@@ -100,7 +100,6 @@
 
 - [Neural Turing Machines](neural-turing-machines.md) [[arxiv](http://arxiv.org/abs/1410.5401)]
 - [Grammar as a Foreign Langauage](grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)
-- Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]]
 - On Using Very Large Target Vocabulary for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1412.2007)]
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]
 
@@ -113,7 +112,7 @@
 #### 2014-09
 
 - Sequence to Sequence Learning with Neural Networks [[arXiv](http://arxiv.org/abs/1409.3215)]
-- Neural Machine Translation by Jointly Learning to Align and Translate [[arXiv](http://arxiv.org/abs/1409.0473v3)]
+- [Neural Machine Translation by Jointly Learning to Align and Translate](nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
 - On the Properties of Neural Machine Translation: Encoder-Decoder Approaches [[arXiv]](http://arxiv.org/abs/1409.1259)
 - [Recurrent Neural Network Regularization](rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
 
@@ -125,7 +124,7 @@
 
 #### 2014-06
 
-- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation [[arXiv](http://arxiv.org/abs/1406.1078)]
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](learning-phrase-representations.md) [[arXiv](http://arxiv.org/abs/1406.1078)]
 - [Recurrent Models of Visual Attention](recurrent-models-of-visual-attention.md) [[arXiv](http://arxiv.org/abs/1406.6247)]
 
 #### 2014-05
@@ -134,7 +133,6 @@
 
 #### 2014-04
 
-- [Neural Machine Translation by Jointly Learning to Align and Translate](nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
 - A Convolutional Neural Network for Modelling Sentences [[arXiv](http://arxiv.org/abs/1404.2188)]
 
 #### 2014-03
