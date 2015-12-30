@@ -92,7 +92,7 @@
 #### 2015-02
 
 - [Text Understanding from Scratch](text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
-- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[arXiv](http://arxiv.org/abs/1502.03044)]
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
 
 #### 2015-01
 
