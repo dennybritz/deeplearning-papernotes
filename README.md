@@ -75,7 +75,7 @@
 
 #### 2015-05
 
-- ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks [[arXiv](http://arxiv.org/abs/1505.00393)]
+- [ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks](renet-rnn-alternative-to-convnet.md) [[arXiv](http://arxiv.org/abs/1505.00393)]
 - Reinforcement Learning Neural Turing Machines [[arXiv](http://arxiv.org/abs/1505.00521)]
 
 #### 2015-04
