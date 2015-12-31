@@ -85,7 +85,7 @@
 #### 2015-03
 
 
-- Distilling the Knowledge in a Neural Network [[arXiv](http://arxiv.org/abs/1503.02531)]
+- [Distilling the Knowledge in a Neural Network](distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
 - [End-To-End Memory Networks](end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
 
 
