@@ -70,7 +70,7 @@
 - A Neural Conversational Model [[arXiv](http://arxiv.org/abs/1506.05869)]
 - [Skip-Thought Vectors](skip-thought-vectors.md) [[arXiv](http://arxiv.org/abs/1506.06726)]
 - [Pointer Networks](pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
-- Spatial Transformer Networks [[arXiv](http://arxiv.org/abs/1506.02025)]
+- [Spatial Transformer Networks](spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
 
 #### 2015-05
