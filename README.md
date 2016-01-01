@@ -102,6 +102,7 @@
 - [Grammar as a Foreign Langauage](grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)]
 - [On Using Very Large Target Vocabulary for Neural Machine Translation](on-using-very-large-target-vocabulary-for-nmt.md) [[arXiv](http://arxiv.org/abs/1412.2007)]
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]
+- Multiple Object Recognition with Visual Attention [[arXiv](http://arxiv.org/abs/1412.7755)]
 
 #### 2014-11
 
