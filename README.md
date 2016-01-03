@@ -111,7 +111,7 @@
 
 #### 2014-10
 
-- Learning to Execute [[arXiv](http://arxiv.org/abs/1410.4615)]
+- [Learning to Execute](learning-to-execute.md) [[arXiv](http://arxiv.org/abs/1410.4615)]
 
 #### 2014-09
 
