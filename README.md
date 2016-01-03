@@ -22,6 +22,7 @@
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arXiv](http://arxiv.org/abs/1511.04834)]
+- Neural Programmer-Interpreters [[arXiv](http://arxiv.org/abs/1511.06279)]
 - Learning Simple Algorithms from Examples [[arXiv](http://arxiv.org/abs/1511.07275)]
 - ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
 - Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)]
@@ -72,6 +73,7 @@
 - [Pointer Networks](pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
 - [Spatial Transformer Networks](spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
+- Learning to Transduce with Unbounded Memory [[arXiv](http://arxiv.org/abs/1506.02516)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arXiv](http://arxiv.org/abs/1506.07285)]
 - Deep Knowledge Tracing [[arXiv](http://arxiv.org/abs/1506.05908)]
 
