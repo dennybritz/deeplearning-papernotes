@@ -72,6 +72,7 @@
 - [Pointer Networks](pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
 - [Spatial Transformer Networks](spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
+- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arXiv](http://arxiv.org/abs/1506.07285)]
 - Deep Knowledge Tracing [[arXiv](http://arxiv.org/abs/1506.05908)]
 
 #### 2015-05
