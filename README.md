@@ -68,7 +68,7 @@
 
 - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses [[arXiv](http://arxiv.org/abs/1506.06714)]
 - [Document Embedding with Paragraph Vectors](document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
-- A Neural Conversational Model [[arXiv](http://arxiv.org/abs/1506.05869)]
+- [A Neural Conversational Model](neural-conversational-model.md) [[arXiv](http://arxiv.org/abs/1506.05869)]
 - [Skip-Thought Vectors](skip-thought-vectors.md) [[arXiv](http://arxiv.org/abs/1506.06726)]
 - [Pointer Networks](pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
 - [Spatial Transformer Networks](spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
