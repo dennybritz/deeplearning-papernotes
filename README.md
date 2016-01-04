@@ -75,7 +75,7 @@
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
 - Learning to Transduce with Unbounded Memory [[arXiv](http://arxiv.org/abs/1506.02516)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arXiv](http://arxiv.org/abs/1506.07285)]
-- Deep Knowledge Tracing [[arXiv](http://arxiv.org/abs/1506.05908)]
+- [Deep Knowledge Tracing](deep-knowledge-tracing.md) [[arXiv](http://arxiv.org/abs/1506.05908)]
 
 #### 2015-05
 
