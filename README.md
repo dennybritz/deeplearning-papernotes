@@ -8,6 +8,7 @@
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Target-Dependent Sentiment Classification with Long Short Term Memory [[arXiv](http://arxiv.org/abs/1512.01100)]
 - Deep Residual Learning for Image Recognition [[arXiv](http://arxiv.org/abs/1512.03385)]
+- Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews [[arXiv](http://arxiv.org/abs/1512.08183)]
 
 #### 2015-11
 
@@ -37,6 +38,7 @@
 - sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings [[arXiv](http://arxiv.org/abs/1511.06388)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
 - Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
+- Larger-Context Language Modelling [[arXiv](http://arxiv.org/abs/1511.03729)]
 
 #### 2015-10
 
