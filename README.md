@@ -57,7 +57,7 @@
 #### 2015-08
 
 - Listen, Attend and Spell [[arxiv](http://arxiv.org/abs/1508.01211)]
-- Character-Aware Neural Language Models [[arXiv](http://arxiv.org/abs/1508.06615)]
+- [Character-Aware Neural Language Models](character-aware-nlm.md) [[arXiv](http://arxiv.org/abs/1508.06615)]
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs [[arXiv](http://arxiv.org/abs/1508.00657)]
 - Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation [[arXiv](http://arxiv.org/abs/1508.02096)]
 
