@@ -51,7 +51,7 @@
 #### 2015-09
 
 - [Character-level Convolutional Networks for Text Classification](character-level-cnn-for-text-classification.md) [[arXiv](http://arxiv.org/abs/1509.01626)]
-- A Neural Attention Model for Abstractive Sentence Summarization [[arXiv]()]
+- [A Neural Attention Model for Abstractive Sentence Summarization](neural-attention-model-for-abstractive-sentence-summarization.md) [[arXiv](http://arxiv.org/abs/1509.00685)]
 - Feature-based Attention in Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1511.06408)]
 
 #### 2015-08
