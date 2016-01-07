@@ -1,3 +1,7 @@
+#### 2016-01
+
+- Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism [[arXiv](http://arxiv.org/abs/1601.01073)]
+- Recurrent Memory Network for Language Modeling [[arXiv](http://arxiv.org/abs/1601.01272)]
 
 #### 2015-12
 
@@ -46,7 +50,6 @@
 - Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
-- Optimizing and Contrasting Recurrent Neural Network Architectures [[arXiv](http://arxiv.org/abs/1510.04953)]
 
 #### 2015-09
 
