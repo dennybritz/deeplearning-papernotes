@@ -1,6 +1,6 @@
 #### 2016-01
 
-- Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism [[arXiv](http://arxiv.org/abs/1601.01073)]
+- [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
 - Recurrent Memory Network for Language Modeling [[arXiv](http://arxiv.org/abs/1601.01272)]
 
 #### 2015-12
@@ -18,9 +18,9 @@
 
 - [Teaching Machines to Read and Comprehend](teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
+- Alternative structures for character-level RNNs [[arXiv](http://arxiv.org/abs/1511.06303)]
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
-- Alternative structures for character-level RNNs [[arXiv](http://arxiv.org/abs/1511.06303)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
 - Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
 - LSTM-based Deep Learning Models for non-factoid answer selection [[arXiv](http://arxiv.org/abs/1511.04108)]
@@ -42,14 +42,15 @@
 - sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings [[arXiv](http://arxiv.org/abs/1511.06388)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
 - Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
-- Larger-Context Language Modelling [[arXiv](http://arxiv.org/abs/1511.03729)]
+- Larger-Context Language Modeling [[arXiv](http://arxiv.org/abs/1511.03729)]
 
 #### 2015-10
 
 - A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification [[arXiv](http://arxiv.org/abs/1510.03820)]
-- Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
+
+- Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
 
 #### 2015-09
 
