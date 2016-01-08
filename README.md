@@ -18,6 +18,7 @@
 
 - [Teaching Machines to Read and Comprehend](teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
+- [Multi-task Sequence to Sequence Learning](multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
 - Alternative structures for character-level RNNs [[arXiv](http://arxiv.org/abs/1511.06303)]
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
@@ -32,7 +33,6 @@
 - ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
 - Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)]
 - Order Matters: Sequence to sequence for sets [[arXiv](http://arxiv.org/abs/1511.06391)]
-- Multi-task Sequence to Sequence Learning [[arXiv](http://arxiv.org/abs/1511.06114)]
 - Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
 - On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models [[arXiv](http://arxiv.org/abs/1511.09249)]
 - A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
