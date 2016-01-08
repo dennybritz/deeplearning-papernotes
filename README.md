@@ -46,7 +46,7 @@
 
 #### 2015-10
 
-- A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification [[arXiv](http://arxiv.org/abs/1510.03820)]
+- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
 - Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
