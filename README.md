@@ -20,8 +20,10 @@
 - [Semi-supervised Sequence Learning](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
 - [Multi-task Sequence to Sequence Learning](multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
 - [Alternative structures for character-level RNNs](alternative-structure-char-rnn.md) [[arXiv](http://arxiv.org/abs/1511.06303)]
+- [Larger-Context Language Modeling](larger-context-lm.md) [[arXiv](http://arxiv.org/abs/1511.03729)]
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
+- Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
 - Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
 - LSTM-based Deep Learning Models for non-factoid answer selection [[arXiv](http://arxiv.org/abs/1511.04108)]
@@ -42,11 +44,11 @@
 - sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings [[arXiv](http://arxiv.org/abs/1511.06388)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
 - Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
-- Larger-Context Language Modeling [[arXiv](http://arxiv.org/abs/1511.03729)]
 
 #### 2015-10
 
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
+- Attention with Intention for a Neural Network Conversation Model [[arXiv](http://arxiv.org/abs/1510.08565)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
 - Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
