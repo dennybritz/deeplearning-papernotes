@@ -19,7 +19,7 @@
 - [Teaching Machines to Read and Comprehend](teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
 - [Multi-task Sequence to Sequence Learning](multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
-- Alternative structures for character-level RNNs [[arXiv](http://arxiv.org/abs/1511.06303)]
+- [Alternative structures for character-level RNNs](alternative-structure-char-rnn.md) [[arXiv](http://arxiv.org/abs/1511.06303)]
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
