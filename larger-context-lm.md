@@ -2,7 +2,7 @@
 
 TLDR; The authors propose new ways to incorporate context (previous sentences) into a Recurrent Language Model (RLM). They propose 3 ways to model the context, and 2 ways to incorporate the context into the predictions for the current sentence. Context can be modeled with BoW, Sequence BoW (BoW for each sentence), and Sequence BoW with attention. Context can be incorporated using "early fusion", which gives the context as an input to the RNN, or "late fusion", which modifies the LSTM to directly incorporate the context. The authors evaluate their architecture on IMDB, BBC and Penn TreeBank corpora, and show that most approaches perform well (reducing perplexity), with Sequence BoW with attention + late fusion outperforming all others.
 
-Key Points:
+#### Key Points:
 
 - Context as BoW: Compress N previous sentences into a single BoW vector
 - Context as Sequential Bow: Compress each of the N previous sentences into a BoW vector and use an LSTM to "embed" them. Alternatively, use an attention mechanism.
@@ -13,7 +13,7 @@ Key Points:
 - Noun phrases seem to benefit the most from the context, which makes intuitive sense.
 
 
-Notes/Questions:
+#### Notes/Questions:
 
 - A problem with current Language Models is that they are corpus-specific. A model trained on one corpus doesn't do well on another corpus because all sentences are treated as being independent. However, if we can correctly incorporate context we may be able to train a general-purpose LM that does well across various corpora. So I think this is important work.
 - I am surprised that the authors did not try using a sentence embedding (skip-thought, paragraph-vector) to construct their context vectors. That seems like an obvious choice over using BoW.
