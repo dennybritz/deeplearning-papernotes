@@ -10,7 +10,7 @@ TLDR; the authors present Recurrent Memory Network. These networks use an attent
 - RM with gating typically outperforms RMR.
 - Memory Bank (MB): Input is current hidden state, and n preceding inputs including the current one. Attention is then calculated over the inputs based on the hidden state. The Output is a new hidden state, which can be calculated with or without gating. Optionally apply temporal bias matrix to attention calculation.
 - Experiments: Hidden states and embeddings all of size 128. Memory size 15. SGD 15 epochs, halved each epoch after the forth.
-- Attention Analysis (Language Model): Obviously, most attention is given to current and recent word. But there are long-distance dependencies that are also captured, for example separable verbs in German. Networks also discovers dependency types. Very cool.
+- Attention Analysis (Language Model): Obviously, most attention is given to current and recent words. But long-distance dependencies are also captured, e.g. separable verbs in German. Networks also discovers dependency types.
 
 
 #### Notes/Questions
