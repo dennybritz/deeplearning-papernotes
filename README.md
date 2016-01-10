@@ -1,7 +1,7 @@
 #### 2016-01
 
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
-- Recurrent Memory Network for Language Modeling [[arXiv](http://arxiv.org/abs/1601.01272)]
+- [Recurrent Memory Network for Language Modeling](rmn-language-modeling.md) [[arXiv](http://arxiv.org/abs/1601.01272)]
 
 #### 2015-12
 
