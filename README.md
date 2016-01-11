@@ -5,14 +5,14 @@
 
 #### 2015-12
 
-NLP:
+NLP
 
 - [Strategies for Training Large Vocabulary Neural Language Models](notes/strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
 - [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](notes/learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
 - Target-Dependent Sentiment Classification with Long Short Term Memory [[arXiv](http://arxiv.org/abs/1512.01100)]
 
-Vision:
+Vision
 
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
@@ -22,7 +22,7 @@ Vision:
 
 #### 2015-11
 
-NLP:
+NLP
 
 - [Teaching Machines to Read and Comprehend](notes/teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](notes/semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
@@ -39,7 +39,7 @@ NLP:
 - sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings [[arXiv](http://arxiv.org/abs/1511.06388)]
 - LSTM-based Deep Learning Models for non-factoid answer selection [[arXiv](http://arxiv.org/abs/1511.04108)]
 
-Programs:
+Programs
 
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arXiv](http://arxiv.org/abs/1511.04834)]
@@ -48,12 +48,12 @@ Programs:
 - Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)]
 - On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models [[arXiv](http://arxiv.org/abs/1511.09249)]
 
-Vision:
+Vision
 
 - ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
 - Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
 
-General:
+General
 
 - Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
