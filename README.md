@@ -9,6 +9,7 @@
 - [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](notes/learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
 - Target-Dependent Sentiment Classification with Long Short Term Memory [[arXiv](http://arxiv.org/abs/1512.01100)]
+
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
 - Deep Residual Learning for Image Recognition [[arXiv](http://arxiv.org/abs/1512.03385)]
@@ -22,29 +23,35 @@
 - [Multi-task Sequence to Sequence Learning](notes/multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
 - [Alternative structures for character-level RNNs](notes/alternative-structure-char-rnn.md) [[arXiv](http://arxiv.org/abs/1511.06303)]
 - [Larger-Context Language Modeling](notes/larger-context-lm.md) [[arXiv](http://arxiv.org/abs/1511.03729)]
-- Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
+- A Unified Tagging Solution: Bidirectional LSTM Recurrent Neural Network with Word Embedding [[arXiv](http://arxiv.org/abs/1511.00215)]
+- Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
+- Order Matters: Sequence to sequence for sets [[arXiv](http://arxiv.org/abs/1511.06391)]
+- Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
-- Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
-- Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
-- Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
-- LSTM-based Deep Learning Models for non-factoid answer selection [[arXiv](http://arxiv.org/abs/1511.04108)]
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
-- Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
+- Natural Language Understanding with Distributed Representation [[arXiv](http://arxiv.org/abs/1511.07916)]
+- sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings [[arXiv](http://arxiv.org/abs/1511.06388)]
+- LSTM-based Deep Learning Models for non-factoid answer selection [[arXiv](http://arxiv.org/abs/1511.04108)]
+
+- Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arXiv](http://arxiv.org/abs/1511.04834)]
 - Neural Programmer-Interpreters [[arXiv](http://arxiv.org/abs/1511.06279)]
 - Learning Simple Algorithms from Examples [[arXiv](http://arxiv.org/abs/1511.07275)]
-- ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
 - Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)]
-- Order Matters: Sequence to sequence for sets [[arXiv](http://arxiv.org/abs/1511.06391)]
-- Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
-- On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models [[arXiv](http://arxiv.org/abs/1511.09249)]
-- A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
-- A Unified Tagging Solution: Bidirectional LSTM Recurrent Neural Network with Word Embedding [[arXiv](http://arxiv.org/abs/1511.00215)]
 - Regularizing RNNs by Stabilizing Activations [[arXiv](http://arxiv.org/abs/1511.08400)]
-- Natural Language Understanding with Distributed Representation [[arXiv](http://arxiv.org/abs/1511.07916)]
-- sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings [[arXiv](http://arxiv.org/abs/1511.06388)]
+- On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models [[arXiv](http://arxiv.org/abs/1511.09249)]
+
+- ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
+- Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
+
+- Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
+- Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
+- Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
+- A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
-- Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
+
+
+
 
 #### 2015-10
 
