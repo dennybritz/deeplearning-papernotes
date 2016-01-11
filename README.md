@@ -29,7 +29,7 @@ NLP
 - [Multi-task Sequence to Sequence Learning](notes/multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
 - [Alternative structures for character-level RNNs](notes/alternative-structure-char-rnn.md) [[arXiv](http://arxiv.org/abs/1511.06303)]
 - [Larger-Context Language Modeling](notes/larger-context-lm.md) [[arXiv](http://arxiv.org/abs/1511.03729)]
-- A Unified Tagging Solution: Bidirectional LSTM Recurrent Neural Network with Word Embedding [[arXiv](http://arxiv.org/abs/1511.00215)]
+- [A Unified Tagging Solution: Bidirectional LSTM Recurrent Neural Network with Word Embedding](notes/unified-tagging-blstm.md) [[arXiv](http://arxiv.org/abs/1511.00215)]
 - Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
 - Order Matters: Sequence to sequence for sets [[arXiv](http://arxiv.org/abs/1511.06391)]
 - Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
