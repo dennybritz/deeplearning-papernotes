@@ -7,7 +7,7 @@
 
 - [Strategies for Training Large Vocabulary Neural Language Models](notes/strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
 - [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
-- [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
+- [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](notes/learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
 - Target-Dependent Sentiment Classification with Long Short Term Memory [[arXiv](http://arxiv.org/abs/1512.01100)]
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
