@@ -1,12 +1,12 @@
 #### 2016-01
 
-- [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
-- [Recurrent Memory Network for Language Modeling](rmn-language-modeling.md) [[arXiv](http://arxiv.org/abs/1601.01272)]
+- [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](notes/multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
+- [Recurrent Memory Network for Language Modeling](notes/rmn-language-modeling.md) [[arXiv](http://arxiv.org/abs/1601.01272)]
 
 #### 2015-12
 
-- [Strategies for Training Large Vocabulary Neural Language Models](strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
-- [Multilingual Language Processing From Bytes](multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
+- [Strategies for Training Large Vocabulary Neural Language Models](notes/strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
+- [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - Deep Speech 2: End-to-End Speech Recognition in English and Mandarin [[arXiv](http://arxiv.org/abs/1512.02595)]
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
@@ -16,11 +16,11 @@
 
 #### 2015-11
 
-- [Teaching Machines to Read and Comprehend](teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
-- [Semi-supervised Sequence Learning](semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
-- [Multi-task Sequence to Sequence Learning](multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
-- [Alternative structures for character-level RNNs](alternative-structure-char-rnn.md) [[arXiv](http://arxiv.org/abs/1511.06303)]
-- [Larger-Context Language Modeling](larger-context-lm.md) [[arXiv](http://arxiv.org/abs/1511.03729)]
+- [Teaching Machines to Read and Comprehend](notes/teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
+- [Semi-supervised Sequence Learning](notes/semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
+- [Multi-task Sequence to Sequence Learning](notes/multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
+- [Alternative structures for character-level RNNs](notes/alternative-structure-char-rnn.md) [[arXiv](http://arxiv.org/abs/1511.06303)]
+- [Larger-Context Language Modeling](notes/larger-context-lm.md) [[arXiv](http://arxiv.org/abs/1511.03729)]
 - Neural Random-Access Machines [[arxiv](http://arxiv.org/abs/1511.06392)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
 - Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
@@ -47,7 +47,7 @@
 
 #### 2015-10
 
-- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
+- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](notes/sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
 - Attention with Intention for a Neural Network Conversation Model [[arXiv](http://arxiv.org/abs/1510.08565)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
@@ -55,38 +55,38 @@
 
 #### 2015-09
 
-- [Character-level Convolutional Networks for Text Classification](character-level-cnn-for-text-classification.md) [[arXiv](http://arxiv.org/abs/1509.01626)]
-- [A Neural Attention Model for Abstractive Sentence Summarization](neural-attention-model-for-abstractive-sentence-summarization.md) [[arXiv](http://arxiv.org/abs/1509.00685)]
+- [Character-level Convolutional Networks for Text Classification](notes/character-level-cnn-for-text-classification.md) [[arXiv](http://arxiv.org/abs/1509.01626)]
+- [A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attention-model-for-abstractive-sentence-summarization.md) [[arXiv](http://arxiv.org/abs/1509.00685)]
 - Feature-based Attention in Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1511.06408)]
 
 #### 2015-08
 
 - Listen, Attend and Spell [[arxiv](http://arxiv.org/abs/1508.01211)]
-- [Character-Aware Neural Language Models](character-aware-nlm.md) [[arXiv](http://arxiv.org/abs/1508.06615)]
+- [Character-Aware Neural Language Models](notes/character-aware-nlm.md) [[arXiv](http://arxiv.org/abs/1508.06615)]
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs [[arXiv](http://arxiv.org/abs/1508.00657)]
 - Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation [[arXiv](http://arxiv.org/abs/1508.02096)]
 
 #### 2015-07
 
-- [Document Embedding with Paragraph Vectors](document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
-- [Training Very Deep Networks](training-very-deep-networks.md) [[arXiv](http://arxiv.org/abs/1507.06228)]
+- [Document Embedding with Paragraph Vectors](notes/document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
+- [Training Very Deep Networks](notes/training-very-deep-networks.md) [[arXiv](http://arxiv.org/abs/1507.06228)]
 
 #### 2015-06
 
 - A Neural Network Approach to Context-Sensitive Generation of Conversational Responses [[arXiv](http://arxiv.org/abs/1506.06714)]
-- [Document Embedding with Paragraph Vectors](document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
-- [A Neural Conversational Model](neural-conversational-model.md) [[arXiv](http://arxiv.org/abs/1506.05869)]
-- [Skip-Thought Vectors](skip-thought-vectors.md) [[arXiv](http://arxiv.org/abs/1506.06726)]
-- [Pointer Networks](pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
-- [Spatial Transformer Networks](spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
+- [Document Embedding with Paragraph Vectors](notes/document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
+- [A Neural Conversational Model](notes/neural-conversational-model.md) [[arXiv](http://arxiv.org/abs/1506.05869)]
+- [Skip-Thought Vectors](notes/skip-thought-vectors.md) [[arXiv](http://arxiv.org/abs/1506.06726)]
+- [Pointer Networks](notes/pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
+- [Spatial Transformer Networks](notes/spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
 - Learning to Transduce with Unbounded Memory [[arXiv](http://arxiv.org/abs/1506.02516)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arXiv](http://arxiv.org/abs/1506.07285)]
-- [Deep Knowledge Tracing](deep-knowledge-tracing.md) [[arXiv](http://arxiv.org/abs/1506.05908)]
+- [Deep Knowledge Tracing](notes/deep-knowledge-tracing.md) [[arXiv](http://arxiv.org/abs/1506.05908)]
 
 #### 2015-05
 
-- [ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks](renet-rnn-alternative-to-convnet.md) [[arXiv](http://arxiv.org/abs/1505.00393)]
+- [ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks](notes/renet-rnn-alternative-to-convnet.md) [[arXiv](http://arxiv.org/abs/1505.00393)]
 - Reinforcement Learning Neural Turing Machines [[arXiv](http://arxiv.org/abs/1505.00521)]
 
 #### 2015-04
@@ -96,23 +96,23 @@
 #### 2015-03
 
 
-- [Distilling the Knowledge in a Neural Network](distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
-- [End-To-End Memory Networks](end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
+- [Distilling the Knowledge in a Neural Network](notes/distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
+- [End-To-End Memory Networks](notes/end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arXiv](http://arxiv.org/abs/1502.03167)]
 
 
 #### 2015-02
 
-- [Text Understanding from Scratch](text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
-- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
+- [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
 
 #### 2015-01
 
 #### 2014-12
 
-- [Neural Turing Machines](neural-turing-machines.md) [[arxiv](http://arxiv.org/abs/1410.5401)]
-- [Grammar as a Foreign Langauage](grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)]
-- [On Using Very Large Target Vocabulary for Neural Machine Translation](on-using-very-large-target-vocabulary-for-nmt.md) [[arXiv](http://arxiv.org/abs/1412.2007)]
+- [Neural Turing Machines](notes/neural-turing-machines.md) [[arxiv](http://arxiv.org/abs/1410.5401)]
+- [Grammar as a Foreign Langauage](notes/grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)]
+- [On Using Very Large Target Vocabulary for Neural Machine Translation](notes/on-using-very-large-target-vocabulary-for-nmt.md) [[arXiv](http://arxiv.org/abs/1412.2007)]
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]
 - Multiple Object Recognition with Visual Attention [[arXiv](http://arxiv.org/abs/1412.7755)]
 
@@ -120,14 +120,14 @@
 
 #### 2014-10
 
-- [Learning to Execute](learning-to-execute.md) [[arXiv](http://arxiv.org/abs/1410.4615)]
+- [Learning to Execute](notes/learning-to-execute.md) [[arXiv](http://arxiv.org/abs/1410.4615)]
 
 #### 2014-09
 
-- [Sequence to Sequence Learning with Neural Networks](seq2seq-with-neural-networks.md) [[arXiv](http://arxiv.org/abs/1409.3215)]
-- [Neural Machine Translation by Jointly Learning to Align and Translate](nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
-- [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](properties-of-neural-mt.md) [[arXiv](http://arxiv.org/abs/1409.1259)]
-- [Recurrent Neural Network Regularization](rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
+- [Sequence to Sequence Learning with Neural Networks](notes/seq2seq-with-neural-networks.md) [[arXiv](http://arxiv.org/abs/1409.3215)]
+- [Neural Machine Translation by Jointly Learning to Align and Translate](notes/nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
+- [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](notes/properties-of-neural-mt.md) [[arXiv](http://arxiv.org/abs/1409.1259)]
+- [Recurrent Neural Network Regularization](notes/rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
 
 #### 2014-08
 
@@ -137,12 +137,12 @@
 
 #### 2014-06
 
-- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](learning-phrase-representations.md) [[arXiv](http://arxiv.org/abs/1406.1078)]
-- [Recurrent Models of Visual Attention](recurrent-models-of-visual-attention.md) [[arXiv](http://arxiv.org/abs/1406.6247)]
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-representations.md) [[arXiv](http://arxiv.org/abs/1406.1078)]
+- [Recurrent Models of Visual Attention](notes/recurrent-models-of-visual-attention.md) [[arXiv](http://arxiv.org/abs/1406.6247)]
 
 #### 2014-05
 
-- [Distributed Representations of Sentences and Documents](distributed-representations-of-sentences-and-documents.md) [[arXiv](http://arxiv.org/abs/1405.4053)]
+- [Distributed Representations of Sentences and Documents](notes/distributed-representations-of-sentences-and-documents.md) [[arXiv](http://arxiv.org/abs/1405.4053)]
 
 #### 2014-04
 
