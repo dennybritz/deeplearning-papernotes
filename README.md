@@ -1,5 +1,6 @@
 #### 2016-01
 
+- Learning to Compose Neural Networks for Question Answering ([arXiv](http://arxiv.org/abs/1601.01705))
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](notes/multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
 - [Recurrent Memory Network for Language Modeling](notes/rmn-language-modeling.md) [[arXiv](http://arxiv.org/abs/1601.01272)]
 
@@ -10,7 +11,7 @@ NLP
 - [Strategies for Training Large Vocabulary Neural Language Models](notes/strategies-for-training-large-vocab-lm.md) [[arXiv](http://arxiv.org/abs/1512.04906)]
 - [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](notes/learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
-- Target-Dependent Sentiment Classification with Long Short Term Memory [[arXiv](http://arxiv.org/abs/1512.01100)]
+- [Target-Dependent Sentiment Classification with Long Short Term Memory](notes/target-dependent-sentiment-lstm.md) [[arXiv](http://arxiv.org/abs/1512.01100)]
 
 Vision
 
@@ -31,8 +32,6 @@ NLP
 - [Larger-Context Language Modeling](notes/larger-context-lm.md) [[arXiv](http://arxiv.org/abs/1511.03729)]
 - [A Unified Tagging Solution: Bidirectional LSTM Recurrent Neural Network with Word Embedding](notes/unified-tagging-blstm.md) [[arXiv](http://arxiv.org/abs/1511.00215)]
 - Towards Universal Paraphrastic Sentence Embeddings [[arXiv](http://arxiv.org/abs/1511.08198)]
-- Order Matters: Sequence to sequence for sets [[arXiv](http://arxiv.org/abs/1511.06391)]
-- Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
 - BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies [[arXiv](http://arxiv.org/abs/1511.06909)]
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - Natural Language Understanding with Distributed Representation [[arXiv](http://arxiv.org/abs/1511.07916)]
@@ -57,6 +56,7 @@ General
 
 - Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
+- Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
 - Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
 - A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
