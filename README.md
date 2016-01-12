@@ -51,6 +51,7 @@ Vision
 
 - ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
 - Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv](http://arxiv.org/abs/1511.06434)]
 
 General
 
@@ -68,16 +69,16 @@ General
 #### 2015-10
 
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](notes/sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
-- Attention with Intention for a Neural Network Conversation Model [[arXiv](http://arxiv.org/abs/1510.08565)]
+- [Attention with Intention for a Neural Network Conversation Model](notes/attention-with-intention.md) [[arXiv](http://arxiv.org/abs/1510.08565)]
+- Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
-- Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
+
 
 #### 2015-09
 
 - [Character-level Convolutional Networks for Text Classification](notes/character-level-cnn-for-text-classification.md) [[arXiv](http://arxiv.org/abs/1509.01626)]
 - [A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attention-model-for-abstractive-sentence-summarization.md) [[arXiv](http://arxiv.org/abs/1509.00685)]
-- Feature-based Attention in Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1511.06408)]
 
 #### 2015-08
 
@@ -100,6 +101,7 @@ General
 - [Pointer Networks](notes/pointer-networks.md) [[arXiv](http://arxiv.org/abs/1506.03134)]
 - [Spatial Transformer Networks](notes/spatial-transformer-networks.md) [[arXiv](http://arxiv.org/abs/1506.02025)]
 - Tree-structured composition in neural networks without tree-structured architectures [[arXiv](http://arxiv.org/abs/1506.04834)]
+- Visualizing and Understanding Neural Models in NLP [[arXiv](http://arxiv.org/abs/1506.01066)]
 - Learning to Transduce with Unbounded Memory [[arXiv](http://arxiv.org/abs/1506.02516)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arXiv](http://arxiv.org/abs/1506.07285)]
 - [Deep Knowledge Tracing](notes/deep-knowledge-tracing.md) [[arXiv](http://arxiv.org/abs/1506.05908)]
