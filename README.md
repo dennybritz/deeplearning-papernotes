@@ -15,9 +15,9 @@ NLP
 
 Vision
 
+- [Deep Residual Learning for Image Recognition](notes/deep-residual-learning.md) [[arXiv](http://arxiv.org/abs/1512.03385)]
 - Rethinking the Inception Architecture for Computer Vision [[arXiv](http://arxiv.org/abs/1512.00567)]
 - Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1512.04143)]
-- Deep Residual Learning for Image Recognition [[arXiv](http://arxiv.org/abs/1512.03385)]
 - Deep Speech 2: End-to-End Speech Recognition in English and Mandarin [[arXiv](http://arxiv.org/abs/1512.02595)]
 
 
@@ -120,6 +120,7 @@ General
 
 - [Distilling the Knowledge in a Neural Network](notes/distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
 - [End-To-End Memory Networks](notes/end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
+- Neural Responding Machine for Short-Text Conversation [[arXiv](http://arxiv.org/abs/1503.02364)]
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arXiv](http://arxiv.org/abs/1502.03167)]
 
 
@@ -150,6 +151,7 @@ General
 - [Neural Machine Translation by Jointly Learning to Align and Translate](notes/nmt-jointly-learning-to-align-and-translate.md) [[arxiv](http://arxiv.org/abs/1409.0473)]
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](notes/properties-of-neural-mt.md) [[arXiv](http://arxiv.org/abs/1409.1259)]
 - [Recurrent Neural Network Regularization](notes/rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
+- Very Deep Convolutional Networks for Large-Scale Image Recognition [[arXiv](http://arxiv.org/abs/1409.1556)]
 
 #### 2014-08
 
@@ -161,6 +163,7 @@ General
 
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](notes/learning-phrase-representations.md) [[arXiv](http://arxiv.org/abs/1406.1078)]
 - [Recurrent Models of Visual Attention](notes/recurrent-models-of-visual-attention.md) [[arXiv](http://arxiv.org/abs/1406.6247)]
+- Generative Adversarial Networks [[arXiv](http://arxiv.org/abs/1406.2661)]
 
 #### 2014-05
 
