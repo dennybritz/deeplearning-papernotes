@@ -1,5 +1,6 @@
 #### 2016-01
 
+- Language to Logical Form with Neural Attention ([arXiv](http://arxiv.org/abs/1601.01280))
 - Learning to Compose Neural Networks for Question Answering ([arXiv](http://arxiv.org/abs/1601.01705))
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](notes/multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
 - [Recurrent Memory Network for Language Modeling](notes/rmn-language-modeling.md) [[arXiv](http://arxiv.org/abs/1601.01272)]
@@ -152,6 +153,7 @@ General
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](notes/properties-of-neural-mt.md) [[arXiv](http://arxiv.org/abs/1409.1259)]
 - [Recurrent Neural Network Regularization](notes/rnn-regularization.md) [[arXiv](http://arxiv.org/abs/1409.2329)]
 - Very Deep Convolutional Networks for Large-Scale Image Recognition [[arXiv](http://arxiv.org/abs/1409.1556)]
+- Going Deeper with Convolutions [[arXiv](http://arxiv.org/abs/1409.4842)]
 
 #### 2014-08
 
@@ -181,6 +183,7 @@ General
 
 #### 2013
 
+- Visualizing and Understanding Convolutional Networks [[arXiv](http://arxiv.org/abs/1311.2901)]
 - DeViSE: A Deep Visual-Semantic Embedding Model [[pub](http://research.google.com/pubs/pub41473.html)]
 - Maxout Networks [[arXiv](http://arxiv.org/abs/1302.4389)]
 - Exploiting Similarities among Languages for Machine Translation [[arXiv](http://arxiv.org/abs/1309.4168)]
