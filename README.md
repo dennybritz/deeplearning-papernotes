@@ -1,5 +1,6 @@
 #### 2016-01
 
+- The Inevitability of Probability: Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback [[arXiv](http://arxiv.org/abs/1601.03060)]
 - Language to Logical Form with Neural Attention ([arXiv](http://arxiv.org/abs/1601.01280))
 - Learning to Compose Neural Networks for Question Answering ([arXiv](http://arxiv.org/abs/1601.01705))
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](notes/multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
