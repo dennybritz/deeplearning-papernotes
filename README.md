@@ -1,5 +1,10 @@
 #### 2016-01
 
+
+- Coverage-based Neural Machine Translation [[arXiv](http://arxiv.org/abs/1601.04811)]
+- Understanding Deep Convolutional Networks [[arXiv](http://arxiv.org/abs/1601.04920)]
+- Training Recurrent Neural Networks by Diffusion [[arXiv](http://arxiv.org/abs/1601.04114)]
+- Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures [[arXiv](http://arxiv.org/abs/1601.03896)]
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](notes/multi-way-nmt-shared-attention.md) [[arXiv](http://arxiv.org/abs/1601.01073)]
 - [Recurrent Memory Network for Language Modeling](notes/rmn-language-modeling.md) [[arXiv](http://arxiv.org/abs/1601.01272)]
 - Language to Logical Form with Neural Attention [[arXiv](http://arxiv.org/abs/1601.01280)]
@@ -81,6 +86,7 @@ General
 
 - [Character-level Convolutional Networks for Text Classification](notes/character-level-cnn-for-text-classification.md) [[arXiv](http://arxiv.org/abs/1509.01626)]
 - [A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attention-model-for-abstractive-sentence-summarization.md) [[arXiv](http://arxiv.org/abs/1509.00685)]
+- Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games [[arXiv](http://arxiv.org/abs/1509.06731)]
 
 #### 2015-08
 
