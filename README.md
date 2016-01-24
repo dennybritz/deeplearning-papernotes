@@ -130,7 +130,7 @@ General
 - [Distilling the Knowledge in a Neural Network](notes/distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
 - [End-To-End Memory Networks](notes/end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
 - Neural Responding Machine for Short-Text Conversation [[arXiv](http://arxiv.org/abs/1503.02364)]
-- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arXiv](http://arxiv.org/abs/1502.03167)]
+  - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](notes/batch-normalization.md) [[arXiv](http://arxiv.org/abs/1502.03167)]
 
 
 #### 2015-02
