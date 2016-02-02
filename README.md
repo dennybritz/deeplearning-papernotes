@@ -1,6 +1,10 @@
+#### 2016-02
+
 #### 2016-01
 
-
+- Pixel Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1601.06759)]
+- Bitwise Neural Networks [[arXiv](http://arxiv.org/abs/1601.06071)]
+- Long Short-Term Memory-Networks for Machine Reading [[arXiv](http://arxiv.org/abs/1601.06733)]
 - Coverage-based Neural Machine Translation [[arXiv](http://arxiv.org/abs/1601.04811)]
 - Understanding Deep Convolutional Networks [[arXiv](http://arxiv.org/abs/1601.04920)]
 - Training Recurrent Neural Networks by Diffusion [[arXiv](http://arxiv.org/abs/1601.04114)]
@@ -10,6 +14,8 @@
 - Language to Logical Form with Neural Attention [[arXiv](http://arxiv.org/abs/1601.01280)]
 - Learning to Compose Neural Networks for Question Answering [[arXiv](http://arxiv.org/abs/1601.01705)]
 - The Inevitability of Probability: Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback [[arXiv](http://arxiv.org/abs/1601.03060)]
+- COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [[arXiv](http://arxiv.org/abs/1601.07140)]
+- Survey on the attention based RNN model and its applications in computer vision [[arXiv](http://arxiv.org/abs/1601.06823)]
 
 #### 2015-12
 
@@ -19,6 +25,7 @@ NLP
 - [Multilingual Language Processing From Bytes](notes/multilingual-language-processing-from-bytes.md) [[arXiv](http://arxiv.org/abs/1512.00103)]
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](notes/learning-document-embeddings-ngrams.md) [[arXiv](http://arxiv.org/abs/1512.08183)]
 - [Target-Dependent Sentiment Classification with Long Short Term Memory](notes/target-dependent-sentiment-lstm.md) [[arXiv](http://arxiv.org/abs/1512.01100)]
+- Reading Text in the Wild with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1842)]
 
 Vision
 
