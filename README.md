@@ -1,6 +1,6 @@
 #### 2016-02
 
-- Exploring the Limits of Language Modeling [[arXiv](http://arxiv.org/abs/1602.02410)]
+- [Exploring the Limits of Language Modeling](notes/exploring-the-limits-of-lm.md) [[arXiv](http://arxiv.org/abs/1602.02410)]
 - Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
 - WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making [[arXiv](http://arxiv.org/abs/1602.02261)]
 - Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers [[arXiv](http://arxiv.org/abs/1602.00367)]
