@@ -4,6 +4,8 @@
 - Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
 - WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making [[arXiv](http://arxiv.org/abs/1602.02261)]
 - Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers [[arXiv](http://arxiv.org/abs/1602.00367)]
+- Associative Long Short-Term Memory [[arXiv](http://arxiv.org/abs/1602.03032)]
+- BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 [[arXiv](http://arxiv.org/abs/1602.02830)]
 - Learning Discriminative Features via Label Consistent Neural Network [[arXiv](http://arxiv.org/abs/1602.01168)]
 
 #### 2016-01
