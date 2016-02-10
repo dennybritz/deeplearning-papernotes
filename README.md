@@ -1,5 +1,11 @@
 #### 2016-02
 
+- Exploring the Limits of Language Modeling [[arXiv](http://arxiv.org/abs/1602.02410)]
+- Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
+- WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making [[arXiv](http://arxiv.org/abs/1602.02261)]
+- Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers [[arXiv](http://arxiv.org/abs/1602.00367)]
+- Learning Discriminative Features via Label Consistent Neural Network [[arXiv](http://arxiv.org/abs/1602.01168)]
+
 #### 2016-01
 
 - Pixel Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1601.06759)]
@@ -149,6 +155,7 @@ General
 
 #### 2014-12
 
+- Learning Longer Memory in Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1412.7753)]
 - [Neural Turing Machines](notes/neural-turing-machines.md) [[arxiv](http://arxiv.org/abs/1410.5401)]
 - [Grammar as a Foreign Langauage](notes/grammar-as-a-foreign-language.md) [[arXiv](http://arxiv.org/abs/1412.7449)]
 - [On Using Very Large Target Vocabulary for Neural Machine Translation](notes/on-using-very-large-target-vocabulary-for-nmt.md) [[arXiv](http://arxiv.org/abs/1412.2007)]
