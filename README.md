@@ -1,6 +1,6 @@
 #### 2016-02
 
-- Contextual LSTM (CLSTM) models for Large scale NLP tasks [[arXiv](http://arxiv.org/abs/1602.06291)]
+- [Contextual LSTM (CLSTM) models for Large scale NLP tasks](notes/clstm-large-scale.md) [[arXiv](http://arxiv.org/abs/1602.06291)]
 - Sequence-to-Sequence RNNs for Text Summarization [[arXiv](http://arxiv.org/abs/1602.06023)]
 - Extraction of Salient Sentences from Labelled Documents [[arXiv](http://arxiv.org/abs/1412.6815)]
 - Learning Distributed Representations of Sentences from Unlabelled Data [[arXiv](http://arxiv.org/abs/1602.03483)]
