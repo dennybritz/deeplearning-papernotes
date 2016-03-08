@@ -1,5 +1,16 @@
+#### 2016-03
+
+- Neural Architectures for Named Entity Recognition [[arXiv](http://arxiv.org/abs/1603.01360)]
+- End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF [[arXiv](http://arxiv.org/abs/1603.01354)]
+- Character-based Neural Machine Translation [[arXiv](http://arxiv.org/abs/1603.00810)]
+- Learning Word Segmentation Representations to Improve Named Entity Recognition for Chinese Social Media [[arXiv](http://arxiv.org/abs/1603.00786)]
+
 #### 2016-02
 
+- Architectural Complexity Measures of Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1602.08210)]
+- Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks [[arXiv](http://arxiv.org/abs/1602.07868)]
+- Recurrent Neural Network Grammars [[arXiv](http://arxiv.org/abs/1602.07776)]
+- Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations [[arXiv](http://arxiv.org/abs/1602.07332)]
 - [Contextual LSTM (CLSTM) models for Large scale NLP tasks](notes/clstm-large-scale.md) [[arXiv](http://arxiv.org/abs/1602.06291)]
 - Sequence-to-Sequence RNNs for Text Summarization [[arXiv](http://arxiv.org/abs/1602.06023)]
 - Extraction of Salient Sentences from Labelled Documents [[arXiv](http://arxiv.org/abs/1412.6815)]
