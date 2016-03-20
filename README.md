@@ -1,5 +1,9 @@
 #### 2016-03
 
+- Recurrent Dropout without Memory Loss [[arXiv](http://arxiv.org/abs/1603.05118)]
+- One-Shot Generalization in Deep Generative Models [[arXiv](http://arxiv.org/abs/1603.05106)]
+- Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [[arXiv](Recursive Recurrent Nets with Attention Modeling for OCR in the Wild)]
+- A New Method to Visualize Deep Neural Networks [[arXiv](A New Method to Visualize Deep Neural Networks)]
 - Neural Architectures for Named Entity Recognition [[arXiv](http://arxiv.org/abs/1603.01360)]
 - End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF [[arXiv](http://arxiv.org/abs/1603.01354)]
 - Character-based Neural Machine Translation [[arXiv](http://arxiv.org/abs/1603.00810)]
