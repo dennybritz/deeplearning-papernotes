@@ -1,5 +1,6 @@
 #### 2016-03
 
+- Neural Variational Inference for Text Processing [[arXiv](http://arxiv.org/abs/1511.06038)]
 - Recurrent Dropout without Memory Loss [[arXiv](http://arxiv.org/abs/1603.05118)]
 - One-Shot Generalization in Deep Generative Models [[arXiv](http://arxiv.org/abs/1603.05106)]
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild [[arXiv](Recursive Recurrent Nets with Attention Modeling for OCR in the Wild)]
