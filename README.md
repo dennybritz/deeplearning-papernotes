@@ -1,5 +1,10 @@
 #### 2016-03
 
+- How NOT To Evaluate Your Dialogue System [[arXiv](http://arxiv.org/abs/1603.08023)]
+- A guide to convolution arithmetic for deep learning [[arXiv](http://arxiv.org/abs/1603.07285)]
+- Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](http://arxiv.org/abs/1603.06807)]
+- A Persona-Based Neural Conversation Model [[arXiv](http://arxiv.org/abs/1603.06155)]
+- A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1603.06147)]
 - Neural Variational Inference for Text Processing [[arXiv](http://arxiv.org/abs/1511.06038)]
 - Recurrent Dropout without Memory Loss [[arXiv](http://arxiv.org/abs/1603.05118)]
 - One-Shot Generalization in Deep Generative Models [[arXiv](http://arxiv.org/abs/1603.05106)]
