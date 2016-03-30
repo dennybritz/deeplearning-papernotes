@@ -1,5 +1,6 @@
 #### 2016-03
 
+- Incorporating Copying Mechanism in Sequence-to-Sequence Learning [[arXiv](http://arxiv.org/abs/1603.06393)]
 - How NOT To Evaluate Your Dialogue System [[arXiv](http://arxiv.org/abs/1603.08023)]
 - A guide to convolution arithmetic for deep learning [[arXiv](http://arxiv.org/abs/1603.07285)]
 - Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](http://arxiv.org/abs/1603.06807)]
