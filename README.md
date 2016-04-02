@@ -1,11 +1,22 @@
+#### 2016-04
+
+- Deep Networks with Stochastic Depth [[arXiv](http://arxiv.org/abs/1603.09382)]
+
+
 #### 2016-03
 
+- Recurrent Batch Normalization [[arXiv](http://arxiv.org/abs/1603.09025)]
+- Neural Language Correction with Character-Based Attention [[arXiv](http://arxiv.org/abs/1603.09727)]
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning [[arXiv](http://arxiv.org/abs/1603.06393)]
 - How NOT To Evaluate Your Dialogue System [[arXiv](http://arxiv.org/abs/1603.08023)]
+- Adaptive Computation Time for Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1603.08983)]
 - A guide to convolution arithmetic for deep learning [[arXiv](http://arxiv.org/abs/1603.07285)]
+- Colorful Image Colorization [[arXiv](http://arxiv.org/abs/1603.08983)]
+- Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[arXiv](http://arxiv.org/abs/1603.09246)]
 - Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](http://arxiv.org/abs/1603.06807)]
 - A Persona-Based Neural Conversation Model [[arXiv](http://arxiv.org/abs/1603.06155)]
 - A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1603.06147)]
+- Multi-Task Cross-Lingual Sequence Tagging from Scratch [[arXiv](http://arxiv.org/abs/1603.06270)]
 - Neural Variational Inference for Text Processing [[arXiv](http://arxiv.org/abs/1511.06038)]
 - Recurrent Dropout without Memory Loss [[arXiv](http://arxiv.org/abs/1603.05118)]
 - One-Shot Generalization in Deep Generative Models [[arXiv](http://arxiv.org/abs/1603.05106)]
