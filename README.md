@@ -1,6 +1,6 @@
 #### 2016-04
 
-- Deep Networks with Stochastic Depth [[arXiv](http://arxiv.org/abs/1603.09382)]
+- [Deep Networks with Stochastic Depth](notes/stochastic-depth.md) [[arXiv](http://arxiv.org/abs/1603.09382)]
 
 
 #### 2016-03
