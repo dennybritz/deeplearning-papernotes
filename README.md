@@ -157,7 +157,7 @@ General
 
 #### 2015-06
 
-- A Neural Network Approach to Context-Sensitive Generation of Conversational Responses [[arXiv](http://arxiv.org/abs/1506.06714)]
+- [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](notes/nn-context-sentitive-responses.md) [[arXiv](http://arxiv.org/abs/1506.06714)]
 - [Document Embedding with Paragraph Vectors](notes/document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
 - [A Neural Conversational Model](notes/neural-conversational-model.md) [[arXiv](http://arxiv.org/abs/1506.05869)]
 - [Skip-Thought Vectors](notes/skip-thought-vectors.md) [[arXiv](http://arxiv.org/abs/1506.06726)]
