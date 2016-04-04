@@ -138,6 +138,7 @@ General
 - Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network [[arXiv](http://arxiv.org/abs/1510.06168)]
 - A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas [[arXiv](http://arxiv.org/abs/1510.04781)]
 - A Primer on Neural Network Models for Natural Language Processing [[arXiv](http://arxiv.org/abs/1510.00726)]
+- [A Diversity-Promoting Objective Function for Neural Conversation Models](notes/diversity-promoting-objective-ncm.md) [[arXiv](http://arxiv.org/abs/1510.03055)]
 
 
 #### 2015-09
