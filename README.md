@@ -1,6 +1,9 @@
 #### 2016-04
 
+- Building Machines That Learn and Think Like People [[arXiv](http://arxiv.org/abs/1604.00289)]
+- A Semisupervised Approach for Language Identification based on Ladder Networks [[arXiv](http://arxiv.org/abs/1604.00317)]
 - [Deep Networks with Stochastic Depth](notes/stochastic-depth.md) [[arXiv](http://arxiv.org/abs/1603.09382)]
+- PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents [[arXiv](http://arxiv.org/abs/1604.00187)]
 
 
 #### 2016-03
