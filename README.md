@@ -1,7 +1,7 @@
 #### 2016-04
 
 - Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves [[arXiv](https://arxiv.org/abs/1604.02038)]
-- Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models [[arXiv](http://arxiv.org/abs/1604.00788)]
+- [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](notes/open-vocab-nmt-hybrid-word-character.md) [[arXiv](http://arxiv.org/abs/1604.00788)]
 - Building Machines That Learn and Think Like People [[arXiv](http://arxiv.org/abs/1604.00289)]
 - A Semisupervised Approach for Language Identification based on Ladder Networks [[arXiv](http://arxiv.org/abs/1604.00317)]
 - [Deep Networks with Stochastic Depth](notes/stochastic-depth.md) [[arXiv](http://arxiv.org/abs/1603.09382)]
