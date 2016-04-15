@@ -1,0 +1,3 @@
+## [Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves](https://arxiv.org/abs/1604.02038)
+
+TLDR; The authors train an RNN-based topic model that takes into consideration word order and assumes words in the same sentence sahre the same topic. The authors sample topic mixtures from a Dirichlet distribution and then train a "topic embedding" together with the rest of the generative LSTM. The model is evaluated quantitatively using perplexity on generated sentences and on classification tasks and clearly beats competing models. Qualitative evaluation shows that the model can generate sensible sentences conditioned on the topic.
