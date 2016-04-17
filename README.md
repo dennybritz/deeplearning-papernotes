@@ -1,5 +1,8 @@
 #### 2016-04
 
+- Visual Storytelling [[arXiv](https://arxiv.org/abs/1604.03968)]
+- Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex [[arXiv](https://arxiv.org/abs/1604.03640)]
+- Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention [[arXiv](https://arxiv.org/abs/1604.03286)]
 - [Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves](notes/slrtm.md) [[arXiv](https://arxiv.org/abs/1604.02038)]
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](notes/open-vocab-nmt-hybrid-word-character.md) [[arXiv](http://arxiv.org/abs/1604.00788)]
 - [Building Machines That Learn and Think Like People](notes/building-machines-that-learn-and-think-like-people.md) [[arXiv](http://arxiv.org/abs/1604.00289)]
@@ -10,6 +13,7 @@
 
 #### 2016-03
 
+- Latent Predictor Networks for Code Generation [[arXiv](http://arxiv.org/abs/1603.06744)]
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arXiv](http://arxiv.org/abs/1603.08575)]
 - Recurrent Batch Normalization [[arXiv](http://arxiv.org/abs/1603.09025)]
 - Neural Language Correction with Character-Based Attention [[arXiv](http://arxiv.org/abs/1603.09727)]
