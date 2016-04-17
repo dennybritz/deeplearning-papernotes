@@ -1,0 +1,3 @@
+## [Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](https://arxiv.org/abs/1604.03640)
+
+TLDR; The authors argue that the human visual cortex doesn't contain ultra-deep networks like ResNet's (100s or 1000s of layers), but that it does contain recurrent connections. The authors then explore ResNets with weight sharing and show how they are equivalent to unrolled standard RNNs with skip connections. The authors find that ResNets with weight sharing perform almost as well as ResNets without weight sharing, while needing drastically fewer parameters. Thus, they argue that the success of ultra-deep networks may actually stem from the fact that they can approximate recurrent computations. 

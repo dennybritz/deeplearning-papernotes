@@ -1,7 +1,7 @@
 #### 2016-04
 
 - Visual Storytelling [[arXiv](https://arxiv.org/abs/1604.03968)]
-- Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex [[arXiv](https://arxiv.org/abs/1604.03640)]
+- [Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](notes/bridging-gap-resnet-rnn.md) [[arXiv](https://arxiv.org/abs/1604.03640)]
 - Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention [[arXiv](https://arxiv.org/abs/1604.03286)]
 - [Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves](notes/slrtm.md) [[arXiv](https://arxiv.org/abs/1604.02038)]
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](notes/open-vocab-nmt-hybrid-word-character.md) [[arXiv](http://arxiv.org/abs/1604.00788)]
