@@ -1,0 +1,3 @@
+## [Latent Predictor Networks for Code Generation](http://arxiv.org/abs/1603.06744)
+
+TLDR; The authors demonstrate how to condition on several predictors when generating text/code. For example, one may need to copy inputs or perform database lookups to produce good results, but training multiple predictors end-to-end is challenging. The authors propose Latent Predictor Networks that combine attention-based character generation with pointer networks to copy tokens from the input. The authors evaluate their model on the task of producing code for Trading Card Games like Magic and Hearthstone, where the card image is the input, and the code implementation of a card is the output. Latent Predictor Networks clearly beat seq2seq and attention-based baselines.

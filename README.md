@@ -13,7 +13,7 @@
 
 #### 2016-03
 
-- Latent Predictor Networks for Code Generation [[arXiv](http://arxiv.org/abs/1603.06744)]
+- [Latent Predictor Networks for Code Generation](notes/latent-predictor-networks.md) [[arXiv](http://arxiv.org/abs/1603.06744)]
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arXiv](http://arxiv.org/abs/1603.08575)]
 - Recurrent Batch Normalization [[arXiv](http://arxiv.org/abs/1603.09025)]
 - Neural Language Correction with Character-Based Attention [[arXiv](http://arxiv.org/abs/1603.09727)]
