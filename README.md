@@ -1,6 +1,12 @@
 #### 2016-04
 
+- Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[arXiv](https://arxiv.org/abs/1604.06057)]
+- Dialog-based Language Learning [[arXiv](https://arxiv.org/abs/1604.06045)]
+- Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss [[arXiv](https://arxiv.org/abs/1604.05529)]
+- Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction [[arXiv](https://arxiv.org/abs/1604.04677)]
+- A Network-based End-to-End Trainable Task-oriented Dialogue System [[arXiv](http://arxiv.org/abs/1604.04562)]
 - Visual Storytelling [[arXiv](https://arxiv.org/abs/1604.03968)]
+- Improving the Robustness of Deep Neural Networks via Stability Training [[arXiv](http://arxiv.org/abs/1604.04326)]
 - [Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](notes/bridging-gap-resnet-rnn.md) [[arXiv](https://arxiv.org/abs/1604.03640)]
 - Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention [[arXiv](https://arxiv.org/abs/1604.03286)]
 - [Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves](notes/slrtm.md) [[arXiv](https://arxiv.org/abs/1604.02038)]
