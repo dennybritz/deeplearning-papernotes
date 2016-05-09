@@ -1,6 +1,15 @@
+#### 2016-05
+
+- AVEC 2016 - Depression, Mood, and Emotion Recognition Workshop and Challenge [[arXiv](https://arxiv.org/abs/1605.01600)]
+
+
+
 #### 2016-04
 
+- Higher Order Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1605.00064)]
+- Joint Line Segmentation and Transcription for End-to-End Handwritten Paragraph Recognition [[arXiv](https://arxiv.org/abs/1604.08352)]
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[arXiv](https://arxiv.org/abs/1604.06057)]
+- The IBM 2016 English Conversational Telephone Speech Recognition System [[arXiv](https://arxiv.org/abs/1604.08242)]
 - Dialog-based Language Learning [[arXiv](https://arxiv.org/abs/1604.06045)]
 - Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss [[arXiv](https://arxiv.org/abs/1604.05529)]
 - Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction [[arXiv](https://arxiv.org/abs/1604.04677)]
