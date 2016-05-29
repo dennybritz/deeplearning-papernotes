@@ -1,7 +1,16 @@
 #### 2016-05
 
+- Wide Residual Networks [[arXiv](http://arxiv.org/abs/1605.07146)]
+- FractalNet: Ultra-Deep Neural Networks without Residuals [[arXiv](https://arxiv.org/abs/1605.07648)]
+- Learning End-to-End Goal-Oriented Dialog [[arXiv](http://arxiv.org/abs/1605.07683)]
+- One-shot Learning with Memory-Augmented Neural Networks [[arXiv](http://arxiv.org/abs/1605.06065)]
+- Deep Learning without Poor Local Minima [[arXiv](http://arxiv.org/abs/1605.07110)]
 - AVEC 2016 - Depression, Mood, and Emotion Recognition Workshop and Challenge [[arXiv](https://arxiv.org/abs/1605.01600)]
-
+- Data Programming: Creating Large Training Sets, Quickly [[arXiv](http://arxiv.org/abs/1605.07723)]
+- Deeply-Fused Nets [[arXiv](http://arxiv.org/abs/1605.07716)]
+- Deep Portfolio Theory [[arXiv](http://arxiv.org/abs/1605.07230)]
+- Unsupervised Learning for Physical Interaction through Video Prediction [[arXiv](http://arxiv.org/abs/1605.07157)]
+- Movie Description [[arXiv](http://arxiv.org/abs/1605.03705)]
 
 
 #### 2016-04
