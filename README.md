@@ -1,8 +1,9 @@
 #### 2016-06
 
+- Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
+- Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
 - Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
-- 
 
 #### 2016-05
 
