@@ -1,7 +1,16 @@
+#### 2016-06
+
+- Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
+- Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
+- 
+
 #### 2016-05
 
+- Hierarchical Memory Networks [[arXiv](https://arxiv.org/abs/1605.07427)]
 - Deep API Learning [[arXiv](http://arxiv.org/abs/1605.08535)]
 - Wide Residual Networks [[arXiv](http://arxiv.org/abs/1605.07146)]
+- Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention [[arXiv](http://arxiv.org/abs/1605.09090)]
+- Aspect Level Sentiment Classification with Deep Memory Network [[arXiv](http://arxiv.org/abs/1605.08900)]
 - FractalNet: Ultra-Deep Neural Networks without Residuals [[arXiv](https://arxiv.org/abs/1605.07648)]
 - Learning End-to-End Goal-Oriented Dialog [[arXiv](http://arxiv.org/abs/1605.07683)]
 - One-shot Learning with Memory-Augmented Neural Networks [[arXiv](http://arxiv.org/abs/1605.06065)]
