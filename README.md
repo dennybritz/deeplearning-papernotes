@@ -8,6 +8,7 @@
 - Very Deep Convolutional Networks for Natural Language Processing [[arXiv](https://arxiv.org/abs/1606.01781)]
 - Neural Net Models for Open-Domain Discourse Coherence [[arXiv](https://arxiv.org/abs/1606.01545)]
 - Neural Architectures for Fine-grained Entity Type Classification [[arXiv](https://arxiv.org/abs/1606.01341)]
+- Gated-Attention Readers for Text Comprehension [[arXiv](http://arxiv.org/abs/1606.01549)]
 - End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning [[arXiv](https://arxiv.org/abs/1606.01269)]
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
 - Memory-enhanced Decoder for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.02003)]
