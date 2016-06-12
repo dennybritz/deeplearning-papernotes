@@ -1,5 +1,16 @@
 #### 2016-06
 
+- Learning Language Games through Interaction [[arXiv](http://arxiv.org/abs/1606.02447)]
+- Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arXiv](https://arxiv.org/abs/1606.01305)]
+- Smart Reply: Automated Response Suggestion for Email [[KDD](http://www.kdd.org/kdd2016/papers/files/Paper_1069.pdf)]
+- Virtual Adversarial Training for Semi-Supervised Text Classification [[arXiv](https://arxiv.org/abs/1605.07725)]
+- Deep Reinforcement Learning for Dialogue Generation [[arXiv](http://arxiv.org/abs/1606.01541)]
+- Very Deep Convolutional Networks for Natural Language Processing [[arXiv](https://arxiv.org/abs/1606.01781)]
+- Neural Net Models for Open-Domain Discourse Coherence [[arXiv](https://arxiv.org/abs/1606.01545)]
+- Neural Architectures for Fine-grained Entity Type Classification [[arXiv](https://arxiv.org/abs/1606.01341)]
+- End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning [[arXiv](https://arxiv.org/abs/1606.01269)]
+- Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
+- Memory-enhanced Decoder for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.02003)]
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
