@@ -10,6 +10,7 @@
 - Hierarchical Memory Networks [[arXiv](https://arxiv.org/abs/1605.07427)]
 - Deep API Learning [[arXiv](http://arxiv.org/abs/1605.08535)]
 - Wide Residual Networks [[arXiv](http://arxiv.org/abs/1605.07146)]
+- TensorFlow: A system for large-scale machine learning [[arXiv](http://arxiv.org/abs/1605.08695)]
 - Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention [[arXiv](http://arxiv.org/abs/1605.09090)]
 - Aspect Level Sentiment Classification with Deep Memory Network [[arXiv](http://arxiv.org/abs/1605.08900)]
 - FractalNet: Ultra-Deep Neural Networks without Residuals [[arXiv](https://arxiv.org/abs/1605.07648)]
