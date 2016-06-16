@@ -1,5 +1,7 @@
 #### 2016-06
 
+- Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
+- Progressive Neural Networks [[arXiv](http://arxiv.org/abs/1606.04671)]
 - Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)])
 - Memory-Efficient Backpropagation Through Time [[arXiv](http://arxiv.org/abs/1606.03401)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.04164)]
@@ -7,7 +9,7 @@
 - Learning to learn by gradient descent by gradient descent [[arXiv](http://arxiv.org/abs/1606.04474)]
 - Learning Language Games through Interaction [[arXiv](http://arxiv.org/abs/1606.02447)]
 - Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arXiv](https://arxiv.org/abs/1606.01305)]
-- Smart Reply: Automated Response Suggestion for Email [[KDD](http://www.kdd.org/kdd2016/papers/files/Paper_1069.pdf)]
+- Smart Reply: Automated Response Suggestion for Email [[arXiv](http://arxiv.org/abs/1606.04870)]
 - Virtual Adversarial Training for Semi-Supervised Text Classification [[arXiv](https://arxiv.org/abs/1605.07725)]
 - Deep Reinforcement Learning for Dialogue Generation [[arXiv](http://arxiv.org/abs/1606.01541)]
 - Very Deep Convolutional Networks for Natural Language Processing [[arXiv](https://arxiv.org/abs/1606.01781)]
