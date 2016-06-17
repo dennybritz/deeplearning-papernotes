@@ -1,10 +1,12 @@
 #### 2016-06
 
+- Conditional Image Generation with PixelCNN Decoders [[arXiv](http://arxiv.org/abs/1606.05328)]
 - Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
 - Progressive Neural Networks [[arXiv](http://arxiv.org/abs/1606.04671)]
 - Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)])
 - Memory-Efficient Backpropagation Through Time [[arXiv](http://arxiv.org/abs/1606.03401)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.04164)]
+- Key-Value Memory Networks for Directly Reading Documents [[arXiv](http://arxiv.org/abs/1606.03126)]
 - Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translatin [[arXiv](http://arxiv.org/abs/1606.04199)]
 - Learning to learn by gradient descent by gradient descent [[arXiv](http://arxiv.org/abs/1606.04474)]
 - Learning Language Games through Interaction [[arXiv](http://arxiv.org/abs/1606.02447)]
