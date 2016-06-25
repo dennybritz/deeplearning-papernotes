@@ -1,5 +1,7 @@
 #### 2016-06
 
+- Online and Offline Handwritten Chinese Character Recognition [[arXiv](https://arxiv.org/abs/1606.05763)]
+- Tutorial on Variational Autoencoders [[arXiv](http://arxiv.org/abs/1606.05908)]
 - Concrete Problems in AI Safety [[arXiv](https://arxiv.org/abs/1606.06565)]
 - Deep Reinforcement Learning Discovers Internal Models [[arXiv](http://arxiv.org/abs/1606.05174v1)]
 - SQuAD: 100,000+ Questions for Machine Comprehension of Text [[arXiv](http://arxiv.org/abs/1606.05250)]
