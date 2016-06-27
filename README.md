@@ -111,7 +111,7 @@
 - Extraction of Salient Sentences from Labelled Documents [[arXiv](http://arxiv.org/abs/1412.6815)]
 - Learning Distributed Representations of Sentences from Unlabelled Data [[arXiv](http://arxiv.org/abs/1602.03483)]
 - Benefits of depth in neural networks [[arXiv](http://arxiv.org/abs/1602.04485)]
-- Associative Long Short-Term Memory [[arXiv](http://arxiv.org/abs/1602.03032)]
+- [Associative Long Short-Term Memory](notes/associative-lstm.md) [[arXiv](http://arxiv.org/abs/1602.03032)]
 - Generating images with recurrent adversarial networks [[arXiv](http://arxiv.org/abs/1602.05110)]
 - [Exploring the Limits of Language Modeling](notes/exploring-the-limits-of-lm.md) [[arXiv](http://arxiv.org/abs/1602.02410)]
 - Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
