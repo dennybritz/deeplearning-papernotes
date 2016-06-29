@@ -7,7 +7,7 @@
 - [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](http://arxiv.org/abs/1606.05250)]
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](http://arxiv.org/abs/1606.05328)]
 - Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
-- Progressive Neural Networks [[arXiv](http://arxiv.org/abs/1606.04671)]
+- [Progressive Neural Networks](notes/progressive-nn.md) [[arXiv](http://arxiv.org/abs/1606.04671)]
 - Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)])
 - Memory-Efficient Backpropagation Through Time [[arXiv](http://arxiv.org/abs/1606.03401)]
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](http://arxiv.org/abs/1606.03657)]
