@@ -4,7 +4,7 @@
 - Tutorial on Variational Autoencoders [[arXiv](http://arxiv.org/abs/1606.05908)]
 - Concrete Problems in AI Safety [[arXiv](https://arxiv.org/abs/1606.06565)]
 - Deep Reinforcement Learning Discovers Internal Models [[arXiv](http://arxiv.org/abs/1606.05174v1)]
-- SQuAD: 100,000+ Questions for Machine Comprehension of Text [[arXiv](http://arxiv.org/abs/1606.05250)]
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](http://arxiv.org/abs/1606.05250)]
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](http://arxiv.org/abs/1606.05328)]
 - Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
 - Progressive Neural Networks [[arXiv](http://arxiv.org/abs/1606.04671)]
