@@ -1,7 +1,7 @@
 #### 2016-06
 
 - On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
-- Wide & Deep Learning for Recommender Systems [[arXiv](https://arxiv.org/abs/1606.07792)]
+- [Wide & Deep Learning for Recommender Systems](wide-and-deep.md) [[arXiv](https://arxiv.org/abs/1606.07792)]
 - Online and Offline Handwritten Chinese Character Recognition [[arXiv](https://arxiv.org/abs/1606.05763)]
 - Tutorial on Variational Autoencoders [[arXiv](http://arxiv.org/abs/1606.05908)]
 - Concrete Problems in AI Safety [[arXiv](https://arxiv.org/abs/1606.06565)]
