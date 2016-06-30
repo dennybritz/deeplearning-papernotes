@@ -1,5 +1,7 @@
 #### 2016-06
 
+- On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
+- Wide & Deep Learning for Recommender Systems [[arXiv](https://arxiv.org/abs/1606.07792)]
 - Online and Offline Handwritten Chinese Character Recognition [[arXiv](https://arxiv.org/abs/1606.05763)]
 - Tutorial on Variational Autoencoders [[arXiv](http://arxiv.org/abs/1606.05908)]
 - Concrete Problems in AI Safety [[arXiv](https://arxiv.org/abs/1606.06565)]
@@ -232,6 +234,7 @@ General
 
 #### 2015-06
 
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning [[arXiv](https://arxiv.org/abs/1506.02142)]
 - [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](notes/nn-context-sentitive-responses.md) [[arXiv](http://arxiv.org/abs/1506.06714)]
 - [Document Embedding with Paragraph Vectors](notes/document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
 - [A Neural Conversational Model](notes/neural-conversational-model.md) [[arXiv](http://arxiv.org/abs/1506.05869)]
