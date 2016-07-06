@@ -1,3 +1,8 @@
+#### 2016-07
+
+- Context-Dependent Word Representation for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1607.00578)]
+- Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arXiv](http://arxiv.org/abs/1607.00036)]
+
 #### 2016-06
 
 - On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
