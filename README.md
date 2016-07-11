@@ -6,6 +6,7 @@
 
 #### 2016-06
 
+- Towards an integration of deep learning and neuroscience [[arXiv](https://arxiv.org/abs/1606.03813)]
 - On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
 - [Wide & Deep Learning for Recommender Systems](wide-and-deep.md) [[arXiv](https://arxiv.org/abs/1606.07792)]
 - Online and Offline Handwritten Chinese Character Recognition [[arXiv](https://arxiv.org/abs/1606.05763)]
@@ -84,6 +85,7 @@
 
 #### 2016-03
 
+- A Fast Unified Model for Parsing and Sentence Understanding [[arXiv](http://arxiv.org/abs/1603.06021)]
 - [Latent Predictor Networks for Code Generation](notes/latent-predictor-networks.md) [[arXiv](http://arxiv.org/abs/1603.06744)]
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arXiv](http://arxiv.org/abs/1603.08575)]
 - Recurrent Batch Normalization [[arXiv](http://arxiv.org/abs/1603.09025)]
@@ -167,6 +169,7 @@ Vision
 
 NLP
 
+- Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - [Teaching Machines to Read and Comprehend](notes/teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](notes/semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
 - [Multi-task Sequence to Sequence Learning](notes/multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
