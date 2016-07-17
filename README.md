@@ -1,5 +1,7 @@
 #### 2016-07
 
+- sk_p: a neural program corrector for MOOCs [[arXiv](http://arxiv.org/abs/1607.02902)]
+- Recurrent Highway Networks [[arXiv](https://arxiv.org/abs/1607.03474)]
 - Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/abs/1607.01759)]
 - Context-Dependent Word Representation for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1607.00578)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arXiv](http://arxiv.org/abs/1607.00036)]
