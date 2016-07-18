@@ -96,7 +96,7 @@
 - Neural Language Correction with Character-Based Attention [[arXiv](http://arxiv.org/abs/1603.09727)]
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning [[arXiv](http://arxiv.org/abs/1603.06393)]
 - How NOT To Evaluate Your Dialogue System [[arXiv](http://arxiv.org/abs/1603.08023)]
-- Adaptive Computation Time for Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1603.08983)]
+- [Adaptive Computation Time for Recurrent Neural Networks](notes/act-rnn.md) [[arXiv](http://arxiv.org/abs/1603.08983)]
 - A guide to convolution arithmetic for deep learning [[arXiv](http://arxiv.org/abs/1603.07285)]
 - Colorful Image Colorization [[arXiv](http://arxiv.org/abs/1603.08983)]
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[arXiv](http://arxiv.org/abs/1603.09246)]
