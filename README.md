@@ -1,5 +1,7 @@
 #### 2016-07
 
+- Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
+- Attention-over-Attention Neural Networks for Reading Comprehension [[arXiv](https://arxiv.org/abs/1607.04423)]
 - sk_p: a neural program corrector for MOOCs [[arXiv](http://arxiv.org/abs/1607.02902)]
 - Recurrent Highway Networks [[arXiv](https://arxiv.org/abs/1607.03474)]
 - Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/abs/1607.01759)]
