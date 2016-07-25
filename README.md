@@ -1,5 +1,6 @@
 #### 2016-07
 
+- Layer Normalization [[arXiv](https://arxiv.org/abs/1607.06450)]
 - [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md) [[arXiv](https://arxiv.org/abs/1607.05108)]
 - Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
 - Attention-over-Attention Neural Networks for Reading Comprehension [[arXiv](https://arxiv.org/abs/1607.04423)]
@@ -42,7 +43,9 @@
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
 - Memory-enhanced Decoder for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.02003)]
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
+- Natural Language Comprehension with the EpiReader [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
+
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
 - Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
 
