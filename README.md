@@ -1,6 +1,6 @@
 #### 2016-07
 
-- Layer Normalization [[arXiv](https://arxiv.org/abs/1607.06450)]
+- [Layer Normalization](notes/layer-norm.md) [[arXiv](https://arxiv.org/abs/1607.06450)]
 - [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md) [[arXiv](https://arxiv.org/abs/1607.05108)]
 - Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
 - Attention-over-Attention Neural Networks for Reading Comprehension [[arXiv](https://arxiv.org/abs/1607.04423)]

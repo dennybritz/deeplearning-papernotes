@@ -1,0 +1,3 @@
+## [Layer Normalization](https://arxiv.org/abs/1607.06450)
+
+TLDR; The authors propose a new normalization scheme called "Layer Normalization" that works especially well for recurrent networks. Layer Normalization is similar to Batch Normalization, but only depends on a single training case. As such, it's well suited for variable length sequences or small batches. In Layer Normalization each hidden unit shares the same normalization term. The authors show through experiments that Layer Normalization converges faster, and sometimes to better solutions, than batch- or unnormalized RNNs. Batch normalization still performs better for CNNs.
