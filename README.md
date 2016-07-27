@@ -3,7 +3,7 @@
 - [Layer Normalization](notes/layer-norm.md) [[arXiv](https://arxiv.org/abs/1607.06450)]
 - [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md) [[arXiv](https://arxiv.org/abs/1607.05108)]
 - Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
-- Attention-over-Attention Neural Networks for Reading Comprehension [[arXiv](https://arxiv.org/abs/1607.04423)]
+- [Attention-over-Attention Neural Networks for Reading Comprehension](notes/att-over-att.md) [[arXiv](https://arxiv.org/abs/1607.04423)]
 - sk_p: a neural program corrector for MOOCs [[arXiv](http://arxiv.org/abs/1607.02902)]
 - Recurrent Highway Networks [[arXiv](https://arxiv.org/abs/1607.03474)]
 - Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/abs/1607.01759)]
