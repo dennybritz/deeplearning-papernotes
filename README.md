@@ -1,5 +1,9 @@
 #### 2016-07
 
+- An Actor-Critic Algorithm for Sequence Prediction [[arXiv](http://arxiv.org/abs/1607.07086)]
+- Cognitive Science in the era of Artificial Intelligence: A roadmap for reverse-engineering the infant language-learner [[arXiv](http://arxiv.org/abs/1607.08723v1)]
+- Recurrent Neural Machine Translation [[arXiv](http://arxiv.org/abs/1607.08725)]
+- MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition [[arXiv](http://arxiv.org/abs/1607.08221)]
 - [Layer Normalization](notes/layer-norm.md) [[arXiv](https://arxiv.org/abs/1607.06450)]
 - [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md) [[arXiv](https://arxiv.org/abs/1607.05108)]
 - Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
