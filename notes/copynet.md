@@ -1,0 +1,3 @@
+## [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](ttp://arxiv.org/abs/1603.06393)
+
+TLDR; The authors introduce CopyNet, a variation on the seq2seq that incorporates a "copying mechanism". With this mechanism, the effective vocabulary is the union of the standard vocab and the words in the current source sentence. CopyNet predicts words based on a mixed probability of the standard attention mechanism and a new copy mechanism. The authors show empirically that on toy and summarization tasks CopNet behaves as expected: The decoder is dominated by copy mode when it tries to replicate something from the source.
