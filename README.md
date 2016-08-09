@@ -1,5 +1,6 @@
 #### 2016-07
 
+- Learning Online Alignments with Continuous Rewards Policy Gradient [[arXiv](https://arxiv.org/abs/1608.01281)]
 - [An Actor-Critic Algorithm for Sequence Prediction](notes/actor-critic-sequence.md) [[arXiv](http://arxiv.org/abs/1607.07086)]
 - Cognitive Science in the era of Artificial Intelligence: A roadmap for reverse-engineering the infant language-learner [[arXiv](http://arxiv.org/abs/1607.08723v1)]
 - [Recurrent Neural Machine Translation](notes/recurrent-nmt.md) [[arXiv](http://arxiv.org/abs/1607.08725)]
@@ -16,6 +17,7 @@
 
 #### 2016-06
 
+- Policy Networks with Two-Stage Training for Dialogue Systems [[arXiv](http://arxiv.org/abs/1606.03152)]
 - Towards an integration of deep learning and neuroscience [[arXiv](https://arxiv.org/abs/1606.03813)]
 - On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
 - [Wide & Deep Learning for Recommender Systems](wide-and-deep.md) [[arXiv](https://arxiv.org/abs/1606.07792)]
@@ -181,6 +183,7 @@ Vision
 
 NLP
 
+- Deep Reinforcement Learning with a Natural Language Action Space [[arXiv](https://arxiv.org/abs/1511.04636)]
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - [Teaching Machines to Read and Comprehend](notes/teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](notes/semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
