@@ -1,0 +1,3 @@
+## [Deep Reinforcement Learning with a Natural Language Action Space](notes/drl-nlp-action.md) [[arXiv](https://arxiv.org/abs/1511.04636)]
+
+TLDR; The authors train a DQN on text-based games. The main difference is that their Q-Value functions embeds the state (textual context) and action (text-based choice) separately and then takes the dot product between them. The authors call this a Deep Reinforcement Learning Relevance network. Basically, just a different Q function implementation. Empirically, the authors show that their network can learn to solve "Saving John" and "Machine of Death" text games.

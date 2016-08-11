@@ -184,7 +184,7 @@ Vision
 
 NLP
 
-- Deep Reinforcement Learning with a Natural Language Action Space [[arXiv](https://arxiv.org/abs/1511.04636)]
+- [Deep Reinforcement Learning with a Natural Language Action Space](notes/drl-nlp-action.md) [[arXiv](https://arxiv.org/abs/1511.04636)]
 - Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - [Teaching Machines to Read and Comprehend](notes/teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](notes/semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
