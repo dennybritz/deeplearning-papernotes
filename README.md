@@ -1,6 +1,11 @@
+#### 2016-08
+
+- Temporal Attention Model for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1608.02927)]
+- Residual Networks of Residual Networks: Multilevel Residual Networks [[arXiv](http://arxiv.org/abs/1608.02908)]
+- [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)]
+
 #### 2016-07
 
-- [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)]
 - [An Actor-Critic Algorithm for Sequence Prediction](notes/actor-critic-sequence.md) [[arXiv](http://arxiv.org/abs/1607.07086)]
 - Cognitive Science in the era of Artificial Intelligence: A roadmap for reverse-engineering the infant language-learner [[arXiv](http://arxiv.org/abs/1607.08723v1)]
 - [Recurrent Neural Machine Translation](notes/recurrent-nmt.md) [[arXiv](http://arxiv.org/abs/1607.08725)]
