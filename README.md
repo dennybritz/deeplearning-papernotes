@@ -1,5 +1,7 @@
 #### 2016-08
 
+- Decoupled Neural Interfaces using Synthetic Gradients [[arXiv](http://arxiv.org/abs/1608.05343)]
+- WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia [[arXiv](https://arxiv.org/abs/1608.03542)]
 - Temporal Attention Model for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1608.02927)]
 - Residual Networks of Residual Networks: Multilevel Residual Networks [[arXiv](http://arxiv.org/abs/1608.02908)]
 - [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)]
