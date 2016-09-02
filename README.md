@@ -225,7 +225,7 @@ General
 
 - Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
-- Generating Sentences from a Continuous Space [[arXiv](http://arxiv.org/abs/1511.06349)]
+- [Generating Sentences from a Continuous Space](notes/generating-sentences-cont-space.md) [[arXiv](http://arxiv.org/abs/1511.06349)]
 - Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
 - A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
