@@ -1,5 +1,7 @@
 #### 2016-08
 
+- Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
+- Stacked Approximated Regression Machine: A Simple Deep Learning Approach [[arXiv](http://arxiv.org/abs/1608.04062)]
 - Decoupled Neural Interfaces using Synthetic Gradients [[arXiv](http://arxiv.org/abs/1608.05343)]
 - WikiReading: A Novel Large-scale Language Understanding Task over Wikipedia [[arXiv](https://arxiv.org/abs/1608.03542)]
 - Temporal Attention Model for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1608.02927)]
