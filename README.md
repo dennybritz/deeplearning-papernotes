@@ -1,3 +1,9 @@
+#### 2016-09
+
+- Hierarchical Multiscale Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1609.01704)]
+- End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arXiv](https://arxiv.org/abs/1609.00777)]
+- Deep Neural Networks for YouTube Recommendations [[paper](https://research.google.com/pubs/pub45530.html)]
+
 #### 2016-08
 
 - Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
