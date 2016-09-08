@@ -1,5 +1,6 @@
 #### 2016-09
 
+- WaveNet: A Generative Model For Raw Audio [[paper](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)]
 - Hierarchical Multiscale Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1609.01704)]
 - End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arXiv](https://arxiv.org/abs/1609.00777)]
 - Deep Neural Networks for YouTube Recommendations [[paper](https://research.google.com/pubs/pub45530.html)]
