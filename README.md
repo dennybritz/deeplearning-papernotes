@@ -1,5 +1,6 @@
 #### 2016-09
 
+- Semi-Supervised Classification with Graph Convolutional Networks [[arXiv](http://arxiv.org/abs/1609.02907)]
 - WaveNet: A Generative Model For Raw Audio [[paper](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)]
 - [Hierarchical Multiscale Recurrent Neural Networks](notes/hm-rnn.md) [[arXiv](https://arxiv.org/abs/1609.01704)]
 - End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arXiv](https://arxiv.org/abs/1609.00777)]
