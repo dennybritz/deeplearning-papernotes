@@ -1,7 +1,8 @@
 #### 2016-09
 
+- Energy-based Generative Adversarial Network [[arXiv](https://arxiv.org/abs/1609.03126)]
 - Semi-Supervised Classification with Graph Convolutional Networks [[arXiv](http://arxiv.org/abs/1609.02907)]
-- WaveNet: A Generative Model For Raw Audio [[paper](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view)]
+- WaveNet: A Generative Model For Raw Audio [[arXiv](https://arxiv.org/abs/1609.03499)]
 - [Hierarchical Multiscale Recurrent Neural Networks](notes/hm-rnn.md) [[arXiv](https://arxiv.org/abs/1609.01704)]
 - End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arXiv](https://arxiv.org/abs/1609.00777)]
 - Deep Neural Networks for YouTube Recommendations [[paper](https://research.google.com/pubs/pub45530.html)]
