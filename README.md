@@ -1,6 +1,9 @@
 #### 2016-09
 
+- Neural Machine Translation with Supervised Attention [[arXiv](https://arxiv.org/abs/1609.04186)]
+- Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks [[arXiv](http://arxiv.org/abs/1609.02993)]
 - Energy-based Generative Adversarial Network [[arXiv](https://arxiv.org/abs/1609.03126)]
+- Stealing Machine Learning Models via Prediction APIs [[arXiv](http://arxiv.org/abs/1609.02943)]
 - Semi-Supervised Classification with Graph Convolutional Networks [[arXiv](http://arxiv.org/abs/1609.02907)]
 - WaveNet: A Generative Model For Raw Audio [[arXiv](https://arxiv.org/abs/1609.03499)]
 - [Hierarchical Multiscale Recurrent Neural Networks](notes/hm-rnn.md) [[arXiv](https://arxiv.org/abs/1609.01704)]
