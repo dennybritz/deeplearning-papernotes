@@ -1,5 +1,6 @@
 #### 2016-09
 
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)]
 - Neural Machine Translation with Supervised Attention [[arXiv](https://arxiv.org/abs/1609.04186)]
 - Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks [[arXiv](http://arxiv.org/abs/1609.02993)]
 - Energy-based Generative Adversarial Network [[arXiv](https://arxiv.org/abs/1609.03126)]
