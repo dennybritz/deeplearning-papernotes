@@ -1,5 +1,6 @@
 #### 2016-09
 
+- Safe and Efficient Off-Policy Reinforcement Learning [[arXiv](http://arxiv.org/abs/1606.02647)]
 - Playing FPS Games with Deep Reinforcement Learning [[arXiv](http://arxiv.org/abs/1609.05521)]
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv](https://arxiv.org/abs/1609.05473)]
 - Neural Machine Translation with Supervised Attention [[arXiv](https://arxiv.org/abs/1609.04186)]
