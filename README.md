@@ -1,5 +1,6 @@
 #### 2016-09
 
+- Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation [[arXiv](http://arxiv.org/abs/1609.08144)]
 - Safe and Efficient Off-Policy Reinforcement Learning [[arXiv](http://arxiv.org/abs/1606.02647)]
 - Playing FPS Games with Deep Reinforcement Learning [[arXiv](http://arxiv.org/abs/1609.05521)]
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](notes/seq-gan.md) [[arXiv](https://arxiv.org/abs/1609.05473)]
