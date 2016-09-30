@@ -1,5 +1,6 @@
 #### 2016-09
 
+- HyperNetworks [[arXiv](https://arxiv.org/abs/1609.09106)]
 - Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation [[arXiv](http://arxiv.org/abs/1609.08144)]
 - Safe and Efficient Off-Policy Reinforcement Learning [[arXiv](http://arxiv.org/abs/1606.02647)]
 - Playing FPS Games with Deep Reinforcement Learning [[arXiv](http://arxiv.org/abs/1609.05521)]
@@ -244,7 +245,7 @@ General
 
 - Towards Principled Unsupervised Learning [[arXiv](http://arxiv.org/abs/1511.06440)]
 - Dynamic Capacity Networks [[arXiv](http://arxiv.org/abs/1511.07838)]
-- [Generating Sentences from a Continuous Space](notes/generating-sentences-cont-space.md) [[arXiv](http://arxiv.org/abs/1511.06349)]
+- [Generating Sentences from a `ous Space](notes/generating-sentences-cont-space.md) [[arXiv](http://arxiv.org/abs/1511.06349)]
 - Net2Net: Accelerating Learning via Knowledge Transfer [[arXiv](http://arxiv.org/abs/1511.05641)]
 - A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
