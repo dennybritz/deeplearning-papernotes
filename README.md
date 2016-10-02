@@ -1,3 +1,7 @@
+#### 2016-10
+
+- Pointer Sentinel Mixture Models [arXiv](https://arxiv.org/abs/1609.07843)
+
 #### 2016-09
 
 - HyperNetworks [[arXiv](https://arxiv.org/abs/1609.09106)]
