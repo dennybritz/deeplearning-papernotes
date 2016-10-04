@@ -1,5 +1,7 @@
 #### 2016-10
 
+- Learning to Translate in Real-time with Neural Machine Translation [[arXiv](https://arxiv.org/abs/1610.00388)]
+- Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search [arXiv](https://arxiv.org/abs/1610.00673)
 - Pointer Sentinel Mixture Models [arXiv](https://arxiv.org/abs/1609.07843)
 
 #### 2016-09
