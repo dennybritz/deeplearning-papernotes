@@ -1,0 +1,3 @@
+## [Learning to Translate in Real-time with Neural Machine Translation](https://arxiv.org/abs/1610.00388)
+
+The authors propose a framework where a Reinforcement Learning agents makes decisions of reading the next input words or producing the next output word to trade off translation quality and time delay (caused by read operations). The reward function is based on both quality (BLEU score) and delay (various metrics and hyperparameters). The authors use Policy Gradient to optimize the model, which is initialized from a pre-trained translation model. They apply to approach to WMT'15 EN-DE and EN-RU translation and show that the model increases translation quality in all settings and is able to trade off effectively between quality and delay.
