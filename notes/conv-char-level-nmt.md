@@ -15,8 +15,7 @@ TLDR; The authors propose a character-level Neural Machine Translation (NMT) arc
 - Bilingual Results: char2char performs as well as or better than bpe2char or bpe2bpe
 - Multilingual Results: char2char outperforms bpe2char
 - Trained model is robust to spelling mistakes and unseen morphologies
-- Training time: Single Titan X training time for bilingual model is ~2 weeks. ~2.5 updates per second with batch size 65.
-
+- Training time: Single Titan X training time for bilingual model is ~2 weeks. ~2.5 updates per second with batch size 64.
 
 
 #### Notes
