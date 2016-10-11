@@ -1,6 +1,6 @@
 #### 2016-10
 
-- [Fully Character-Level Neural Machine Translation without Explicit Segmentation](conv-char-level-nmt.md) [[arXiv](https://arxiv.org/abs/1610.03017)]
+- [Fully Character-Level Neural Machine Translation without Explicit Segmentation](notes/conv-char-level-nmt.md) [[arXiv](https://arxiv.org/abs/1610.03017)]
 - [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](notes/diverse-beam-search.md) [[arXiv](https://arxiv.org/abs/1610.02424)]
 - Video Pixel Networks [[arXiv](https://arxiv.org/abs/1610.00527)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[arXiv](https://arxiv.org/abs/1610.01945)]
