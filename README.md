@@ -1,5 +1,6 @@
 #### 2016-10
 
+- Fully Character-Level Neural Machine Translation without Explicit Segmentation [[arXiv](https://arxiv.org/abs/1610.03017)]
 - Video Pixel Networks [[arXiv](https://arxiv.org/abs/1610.00527)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[arXiv](https://arxiv.org/abs/1610.01945)]
 - [Learning to Translate in Real-time with Neural Machine Translation](notes/learning-to-translate-real-time.md) [[arXiv](https://arxiv.org/abs/1610.00388)]
