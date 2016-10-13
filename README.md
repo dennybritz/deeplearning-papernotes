@@ -53,7 +53,7 @@
 #### 2016-06
 
 - Sequence-to-Sequence Learning as Beam-Search Optimization [[arXiv](https://arxiv.org/abs/1606.02960)]
-- Sequence-Level Knowledge Distillation [[arXiv](https://arxiv.org/abs/1606.07947)]
+- [Sequence-Level Knowledge Distillation](notes/seq-knowledge-distillation.md) [[arXiv](https://arxiv.org/abs/1606.07947)]
 - Policy Networks with Two-Stage Training for Dialogue Systems [[arXiv](http://arxiv.org/abs/1606.03152)]
 - Towards an integration of deep learning and neuroscience [[arXiv](https://arxiv.org/abs/1606.03813)]
 - On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
