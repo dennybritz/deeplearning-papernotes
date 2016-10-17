@@ -10,6 +10,7 @@
 
 #### 2016-09
 
+- Towards Deep Symbolic Reinforcement Learning [[arXiv](https://arxiv.org/abs/1609.05518)]
 - HyperNetworks [[arXiv](https://arxiv.org/abs/1609.09106)]
 - Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation [[arXiv](http://arxiv.org/abs/1609.08144)]
 - Safe and Efficient Off-Policy Reinforcement Learning [[arXiv](http://arxiv.org/abs/1606.02647)]
