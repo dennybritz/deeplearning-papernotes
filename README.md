@@ -1,6 +1,5 @@
 #### 2016-10
 
-- Learning to Reason With Adaptive Computation [[arXiv](https://arxiv.org/abs/1610.07647)]
 - Can Active Memory Replace Attention? [[arXiv](https://arxiv.org/abs/1610.08613)]
 - Using Fast Weights to Attend to the Recent Past [[arXiv](https://arxiv.org/abs/1610.06258)]
 - [Fully Character-Level Neural Machine Translation without Explicit Segmentation](notes/conv-char-level-nmt.md) [[arXiv](https://arxiv.org/abs/1610.03017)]
