@@ -1,5 +1,6 @@
 #### 2016-10
 
+- Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv](https://arxiv.org/abs/1610.06918v1)]
 - Can Active Memory Replace Attention? [[arXiv](https://arxiv.org/abs/1610.08613)]
 - [Using Fast Weights to Attend to the Recent Past](notes/fast-weight-to-attend.md) [[arXiv](https://arxiv.org/abs/1610.06258)]
 - [Fully Character-Level Neural Machine Translation without Explicit Segmentation](notes/conv-char-level-nmt.md) [[arXiv](https://arxiv.org/abs/1610.03017)]
