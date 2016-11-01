@@ -1,5 +1,6 @@
 #### 2016-10
 
+- Neural Machine Translation in Linear Time [[arXiv](https://arxiv.org/abs/1610.10099)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv](https://arxiv.org/abs/1610.06918v1)]
 - Can Active Memory Replace Attention? [[arXiv](https://arxiv.org/abs/1610.08613)]
