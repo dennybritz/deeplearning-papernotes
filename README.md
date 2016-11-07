@@ -1,3 +1,10 @@
+#### 2016-11
+
+- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
+- A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
+- Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
+- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
+
 #### 2016-10
 
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)]
