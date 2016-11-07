@@ -3,26 +3,26 @@
 Reinforcement Learning:
 
 - Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
-- Stochastic Neural Networks for Hierarchical Reinforcement Learningpdf [[OpenReview](http://openreview.net/forum?id=B1oK8aoxe)]
-- Tuning Recurrent Neural Networks with Reinforcement Learning[[OpenReview](http://openreview.net/forum?id=BJ8fyHceg)]
+- Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
+- Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
+- The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
+- Reinforcement Learning with Unsupervised Auxiliary Tasks [[OpenReview](http://openreview.net/forum?id=SJ6yPD5xg)]
+- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
+- Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
+- Improving Policy Gradient by Exploring Under-appreciated Rewards [[OpenReview](http://openreview.net/forum?id=ryT4pvqll)]
+- Stochastic Neural Networks for Hierarchical Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=B1oK8aoxe)]
+- Tuning Recurrent Neural Networks with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=BJ8fyHceg)]
 - RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=HkLXCE9lx)]
 - Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Hyq4yhile)]
 - Learning to Perform Physics Experiments via Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1nTpv9eg)]
 - Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU [[OpenReview](http://openreview.net/forum?id=r1VGvBcxl)]
-- Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
 - Learning to Compose Words into Sentences with Reinforcement Learning[[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Deep Reinforcement Learning for Accelerating the Convergence Rate [[OpenReview](http://openreview.net/forum?id=Syg_lYixe)]
 - Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=SyOvg6jxx)]
 - Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Learning to Compose Words into Sentences with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
-- Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
-- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
-- Reinforcement Learning with Unsupervised Auxiliary Tasks [[OpenReview](http://openreview.net/forum?id=SJ6yPD5xg)]
 - Learning to Navigate in Complex Environments [[OpenReview](http://openreview.net/forum?id=SJMGPrcle)]
-- The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
-- Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
-- Improving Policy Gradient by Exploring Under-appreciated Rewards [[OpenReview](http://openreview.net/forum?id=ryT4pvqll)]
 
 
 Machine Translation & Dialog
@@ -37,6 +37,7 @@ Machine Translation & Dialog
 - Learning through Dialogue Interactions [[OpenReview](http://openreview.net/forum?id=rkE8pVcle)]
 - A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
 - [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
+
 
 Misc
 
