@@ -1,5 +1,6 @@
 #### 2016-11
 
+- Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
 - Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
 - A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
 - Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
