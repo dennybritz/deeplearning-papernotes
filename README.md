@@ -4,6 +4,7 @@
 - A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
 - Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
+- [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
 
 #### 2016-10
 
