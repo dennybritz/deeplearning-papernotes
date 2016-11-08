@@ -23,6 +23,7 @@ Reinforcement Learning:
 - Learning to Compose Words into Sentences with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Learning to Navigate in Complex Environments [[OpenReview](http://openreview.net/forum?id=SJMGPrcle)]
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
+- Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic [[OpenReview](http://openreview.net/forum?id=SJ3rcZcxl)]
 
 
 Machine Translation & Dialog
