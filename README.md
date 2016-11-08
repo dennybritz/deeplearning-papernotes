@@ -6,7 +6,7 @@ Reinforcement Learning:
 - Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
 - Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
 - Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
-- Reinforcement Learning with Unsupervised Auxiliary Tasks [[OpenReview](http://openreview.net/forum?id=SJ6yPD5xg)]
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](notes/rl-auxiliary-tasks.md) [[OpenReview](http://openreview.net/forum?id=SJ6yPD5xg)]
 - Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
 - Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
