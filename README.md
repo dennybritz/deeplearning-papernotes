@@ -41,6 +41,7 @@ Machine Translation & Dialog
 
 Misc
 
+- Quasi-Recurrent Neural Networks [[arXiv](http://openreview.net/forum?id=H1zJ-v5xl)]
 - Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
 - Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
 - Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
