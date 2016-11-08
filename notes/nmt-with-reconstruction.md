@@ -19,7 +19,7 @@ TLDR; The authors add a reconstruction objective to the standard seq2seq model b
   - 1.25M pairs trained for 15 epochs using Adadelta, the train with reconstructor for 10 epochs.
 - Results:
   - Model increases BLEU from 30.65 -> 31.17 (beam size 10) when used for training only and decoding stays unchaged
-  - BLEU increase from 31.17 -> 31.17 (beam size 10) when also used for decoding
+  - BLEU increase from 31.17 -> 31.73 (beam size 10) when also used for decoding
   - Model successfully deals with large decoding spaces, i.e. BLEU now increases together with beam size
 
 
