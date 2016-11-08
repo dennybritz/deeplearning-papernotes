@@ -2,12 +2,13 @@
 
 Reinforcement Learning:
 
+- The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
 - Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
 - Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
 - Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
-- The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
 - Reinforcement Learning with Unsupervised Auxiliary Tasks [[OpenReview](http://openreview.net/forum?id=SJ6yPD5xg)]
 - Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
+- Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
 - Improving Policy Gradient by Exploring Under-appreciated Rewards [[OpenReview](http://openreview.net/forum?id=ryT4pvqll)]
 - Stochastic Neural Networks for Hierarchical Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=B1oK8aoxe)]
@@ -19,7 +20,6 @@ Reinforcement Learning:
 - Learning to Compose Words into Sentences with Reinforcement Learning[[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Deep Reinforcement Learning for Accelerating the Convergence Rate [[OpenReview](http://openreview.net/forum?id=Syg_lYixe)]
 - Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=SyOvg6jxx)]
-- Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Learning to Compose Words into Sentences with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Learning to Navigate in Complex Environments [[OpenReview](http://openreview.net/forum?id=SJMGPrcle)]
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
@@ -27,15 +27,15 @@ Reinforcement Learning:
 
 Machine Translation & Dialog
 
+- Neural Machine Translation with Reconstruction [[arXiv](https://arxiv.org/abs/1611.01874v1)]
+- Iterative Refinement for Machine Translation [[OpenReview](http://openreview.net/forum?id=r1y1aawlg)]
+- A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
 - Improving Neural Language Models with a Continuous Cache [[OpenReview](http://openreview.net/forum?id=B184E5qee)]
 - Vocabulary Selection Strategies for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=Bk8N0RLxx)]
 - Towards an automatic Turing test: Learning to evaluate dialogue responses [[OpenReview](http://openreview.net/forum?id=HJ5PIaseg)]
 - Dialogue Learning With Human-in-the-Loop [[OpenReview](http://openreview.net/forum?id=HJgXCV9xx)]
-- Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models [[OpenReview](http://openreview.net/forum?id=HJV1zP5xg)]
-- Iterative Refinement for Machine Translation [[OpenReview](http://openreview.net/forum?id=r1y1aawlg)]
 - Batch Policy Gradient  Methods for  Improving Neural Conversation Models [[OpenReview](http://openreview.net/forum?id=rJfMusFll)]
 - Learning through Dialogue Interactions [[OpenReview](http://openreview.net/forum?id=rkE8pVcle)]
-- A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
 - [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
 
 
@@ -195,6 +195,7 @@ Misc
 
 #### 2016-03
 
+- Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1603.07954)]
 - A Fast Unified Model for Parsing and Sentence Understanding [[arXiv](http://arxiv.org/abs/1603.06021)]
 - [Latent Predictor Networks for Code Generation](notes/latent-predictor-networks.md) [[arXiv](http://arxiv.org/abs/1603.06744)]
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arXiv](http://arxiv.org/abs/1603.08575)]
