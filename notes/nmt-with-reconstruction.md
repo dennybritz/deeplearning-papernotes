@@ -25,6 +25,7 @@ TLDR; The authors add a reconstruction objective to the standard seq2seq model b
 
 #### Notes
 
+- [See this issue for author's comments](https://github.com/dennybritz/deeplearning-papernotes/issues/3)
 - I feel like "adequacy" is a somewhat strange description of what the authors try to optimize. Wouldn't "coverage" be more appropriate?
 - In Table 1, why does BLEU score still decrease when length normalization is applied? The authors don't go into detail on this.
 - The training curves are a bit confusing/missing. I would've liked to see a standard training curve that shows the MLE objective loss and the finetuning with reconstruction objective side-by-side.

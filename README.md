@@ -30,7 +30,7 @@ Machine Translation & Dialog
 
 - [Neural Machine Translation with Reconstruction](notes/nmt-with-reconstruction.md) [[arXiv](https://arxiv.org/abs/1611.01874v1)]
 - Iterative Refinement for Machine Translation [[OpenReview](http://openreview.net/forum?id=r1y1aawlg)]
-- A Convolutional Encoder Model for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=BJAA4wKxg)]
+- A Convolutional Encoder Model for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1611.02344)]
 - Improving Neural Language Models with a Continuous Cache [[OpenReview](http://openreview.net/forum?id=B184E5qee)]
 - Vocabulary Selection Strategies for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=Bk8N0RLxx)]
 - Towards an automatic Turing test: Learning to evaluate dialogue responses [[OpenReview](http://openreview.net/forum?id=HJ5PIaseg)]
@@ -38,6 +38,7 @@ Machine Translation & Dialog
 - Batch Policy Gradient  Methods for  Improving Neural Conversation Models [[OpenReview](http://openreview.net/forum?id=rJfMusFll)]
 - Learning through Dialogue Interactions [[OpenReview](http://openreview.net/forum?id=rkE8pVcle)]
 - [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
+- Unsupervised Pretraining for Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1611.02683)]
 
 
 Misc
