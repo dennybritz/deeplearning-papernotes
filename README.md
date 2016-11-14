@@ -35,7 +35,7 @@ Machine Translation & Dialog
 - Vocabulary Selection Strategies for Neural Machine Translation [[OpenReview](http://openreview.net/forum?id=Bk8N0RLxx)]
 - Towards an automatic Turing test: Learning to evaluate dialogue responses [[OpenReview](http://openreview.net/forum?id=HJ5PIaseg)]
 - Dialogue Learning With Human-in-the-Loop [[OpenReview](http://openreview.net/forum?id=HJgXCV9xx)]
-- Batch Policy Gradient  Methods for  Improving Neural Conversation Models [[OpenReview](http://openreview.net/forum?id=rJfMusFll)]
+- Batch Policy Gradient Methods for Improving Neural Conversation Models [[OpenReview](http://openreview.net/forum?id=rJfMusFll)]
 - Learning through Dialogue Interactions [[OpenReview](http://openreview.net/forum?id=rkE8pVcle)]
 - [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
 - Unsupervised Pretraining for Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1611.02683)]
@@ -43,7 +43,7 @@ Machine Translation & Dialog
 
 Misc
 
-- Quasi-Recurrent Neural Networks [[arXiv](http://openreview.net/forum?id=H1zJ-v5xl)]
+- Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
 - Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
 - Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
 - Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
