@@ -2,6 +2,7 @@
 
 Reinforcement Learning:
 
+- A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv](https://arxiv.org/abs/1611.03852)]
 - The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
 - Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
 - Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
@@ -21,7 +22,7 @@ Reinforcement Learning:
 - Deep Reinforcement Learning for Accelerating the Convergence Rate [[OpenReview](http://openreview.net/forum?id=Syg_lYixe)]
 - Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=SyOvg6jxx)]
 - Learning to Compose Words into Sentences with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
-- Learning to Navigate in Complex Environments [[OpenReview](http://openreview.net/forum?id=SJMGPrcle)]
+- Learning to Navigate in Complex Environments [[arXiv](https://arxiv.org/abs/1611.03673)]
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
 - Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic [[OpenReview](http://openreview.net/forum?id=SJ3rcZcxl)]
 
