@@ -29,6 +29,7 @@ Reinforcement Learning:
 
 Machine Translation & Dialog
 
+- Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation [[arXiv](https://arxiv.org/abs/1611.04558)]
 - [Neural Machine Translation with Reconstruction](notes/nmt-with-reconstruction.md) [[arXiv](https://arxiv.org/abs/1611.01874v1)]
 - Iterative Refinement for Machine Translation [[OpenReview](http://openreview.net/forum?id=r1y1aawlg)]
 - A Convolutional Encoder Model for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1611.02344)]
@@ -44,6 +45,8 @@ Machine Translation & Dialog
 
 Misc
 
+- [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
+- Importance Sampling with Unequal Support [[arXiv](https://arxiv.org/abs/1611.03451)]
 - Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
 - Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
 - Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
