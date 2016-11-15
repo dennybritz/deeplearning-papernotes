@@ -1,0 +1,3 @@
+## [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)
+
+TLDR; The authors train a multilingual Neural Machine Translation (NMT) system based on the Google NMT architecture by prepend a special `2[lang]` (e.g. `2fr`) token to the input sequence to specify the target language. They empirically evaluate model performance on many-to-one, one-to-many and many-to-many translation tasks and demonstrate evidence for shared representations (interlingua).

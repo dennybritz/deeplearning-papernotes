@@ -29,7 +29,7 @@ Reinforcement Learning:
 
 Machine Translation & Dialog
 
-- Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation [[arXiv](https://arxiv.org/abs/1611.04558)]
+- [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-multilingual.md) [[arXiv](https://arxiv.org/abs/1611.04558)]
 - [Neural Machine Translation with Reconstruction](notes/nmt-with-reconstruction.md) [[arXiv](https://arxiv.org/abs/1611.01874v1)]
 - Iterative Refinement for Machine Translation [[OpenReview](http://openreview.net/forum?id=r1y1aawlg)]
 - A Convolutional Encoder Model for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1611.02344)]
