@@ -1,13 +1,27 @@
 #### 2016-11 (ICLR Edition)
 
+- A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs [[arXiv](https://arxiv.org/abs/1611.05104)]
+- [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
+- Importance Sampling with Unequal Support [[arXiv](https://arxiv.org/abs/1611.03451)]
+- Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
+- Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
+- Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
+- Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
+- Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
+- Incremental Sequence Learning [[arXiv](https://arxiv.org/abs/1611.03068)]
+- b-GAN: Unified Framework of Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=S1JG13oee)]
+- A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
+- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
+- Lip Reading Sentences in the Wild [[arXiv](https://arxiv.org/abs/1611.05358)]
+
 Reinforcement Learning:
 
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv](https://arxiv.org/abs/1611.03852)]
 - The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
-- Third-Person Imitation Learning [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
+- [Third-Person Imitation Learning](notes/third-person-imitation-learning.md) [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
 - Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
 - Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
-- [Reinforcement Learning with Unsupervised Auxiliary Tasks](notes/rl-auxiliary-tasks.md) [[OpenReview](http://openreview.net/forum?id=SJ6yPD5xg)]
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](notes/rl-auxiliary-tasks.md) [[arXiv](https://arxiv.org/abs/1611.05397)]
 - Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
 - Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
@@ -42,20 +56,6 @@ Machine Translation & Dialog
 - [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
 - Unsupervised Pretraining for Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1611.02683)]
 
-
-Misc
-
-- [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
-- Importance Sampling with Unequal Support [[arXiv](https://arxiv.org/abs/1611.03451)]
-- Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
-- Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
-- Unrolled Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=BydrOIcle)]
-- Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
-- Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
-- Incremental Sequence Learning [[OpenReview](http://openreview.net/forum?id=rJg_1L5gg)]
-- b-GAN: Unified Framework of Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=S1JG13oee)]
-- A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
-- Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
 
 
 #### 2016-10
