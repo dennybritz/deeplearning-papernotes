@@ -1,0 +1,5 @@
+## [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
+
+TLDR; The authors encourage exploration by adding a pseudo-reward of the form `beta/sqrt(count(state))` for infrequently visited states. State visits are counted using Locality Sensitive Hashing (LSH) based on an environment-specific feature representation like raw pixels or autoencoder representations. The authors show that this simple technique achieves gains in various classic RL control tasks and several games in the ATARI domain.
+
+While the algorithm itself is simple there are now several more hyperaprameters to tune: The bonus coefficient `beta`, the LSH hashing granularity (how many bits to use for hashing) as well as the type of feature representation based on which the hash is computed, which itself may have more parameters. The experiments don't paint a consistent picture and different environments seem to need vastly different hyperparameter settings, which in my opinion will make this technique difficult to use in practice.

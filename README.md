@@ -34,7 +34,7 @@ Reinforcement Learning:
 - Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU [[OpenReview](http://openreview.net/forum?id=r1VGvBcxl)]
 - Learning to Compose Words into Sentences with Reinforcement Learning[[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Deep Reinforcement Learning for Accelerating the Convergence Rate [[OpenReview](http://openreview.net/forum?id=Syg_lYixe)]
-- Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1611.04717)]
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](notes/count-based-exploration.md) [[arXiv](https://arxiv.org/abs/1611.04717)]
 - Learning to Compose Words into Sentences with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=Skvgqgqxe)]
 - Learning to Navigate in Complex Environments [[arXiv](https://arxiv.org/abs/1611.03673)]
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
