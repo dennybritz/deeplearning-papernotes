@@ -16,6 +16,7 @@
 
 Reinforcement Learning:
 
+-Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv](https://arxiv.org/abs/1611.03852)]
 - The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
 - [Third-Person Imitation Learning](notes/third-person-imitation-learning.md) [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
