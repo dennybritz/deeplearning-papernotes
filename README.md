@@ -1,5 +1,6 @@
 #### 2016-11 (ICLR Edition)
 
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](notes/mixture-experts.md) [[OpenReview](https://openreview.net/forum?id=B1ckMDqlg)]
 - Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
 - A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs [[arXiv](https://arxiv.org/abs/1611.05104)]
 - [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
