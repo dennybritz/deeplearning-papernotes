@@ -1,5 +1,6 @@
 #### 2016-12
 
+- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
 - Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
 
 #### 2016-11 (ICLR Edition)
