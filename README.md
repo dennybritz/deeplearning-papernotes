@@ -1,3 +1,7 @@
+#### 2017-01
+
+- DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)]
+
 #### 2016-12
 
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
