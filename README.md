@@ -1,6 +1,7 @@
 #### 2017-01
 
 - DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)]
+- NIPS 2016 Tutorial: Generative Adversarial Networks [arXiv](https://arxiv.org/abs/1701.00160)
 
 #### 2016-12
 
