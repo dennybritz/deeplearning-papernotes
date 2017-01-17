@@ -235,7 +235,7 @@ Machine Translation & Dialog
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[arXiv](http://arxiv.org/abs/1603.09246)]
 - Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](http://arxiv.org/abs/1603.06807)]
 - A Persona-Based Neural Conversation Model [[arXiv](http://arxiv.org/abs/1603.06155)]
-- A Character-level Decoder without Explicit Segmentation for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1603.06147)]
+- [A Character-level Decoder without Explicit Segmentation for Neural Machine Translation](notes/char-level-decoder.md) [[arXiv](http://arxiv.org/abs/1603.06147)]
 - Multi-Task Cross-Lingual Sequence Tagging from Scratch [[arXiv](http://arxiv.org/abs/1603.06270)]
 - Neural Variational Inference for Text Processing [[arXiv](http://arxiv.org/abs/1511.06038)]
 - Recurrent Dropout without Memory Loss [[arXiv](http://arxiv.org/abs/1603.05118)]
@@ -367,10 +367,12 @@ General
 
 #### 2015-08
 
+- [Neural Machine Translation of Rare Words with Subword Units](notes/nmt-subword.md) [[arXiv](https://arxiv.org/abs/1508.07909)]
 - Listen, Attend and Spell [[arxiv](http://arxiv.org/abs/1508.01211)]
 - [Character-Aware Neural Language Models](notes/character-aware-nlm.md) [[arXiv](http://arxiv.org/abs/1508.06615)]
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs [[arXiv](http://arxiv.org/abs/1508.00657)]
 - Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation [[arXiv](http://arxiv.org/abs/1508.02096)]
+- [Effective Approaches to Attention-based Neural Machine Translation](notes/effective-approaches-nmt-attention.md) [[arXiv](https://arxiv.org/abs/1508.04025)]
 
 #### 2015-07
 
