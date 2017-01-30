@@ -1,5 +1,6 @@
 #### 2017-01
 
+- Wasserstein GAN [arXiv](https://arxiv.org/abs/1701.07875)
 - DyNet: The Dynamic Neural Network Toolkit [[arXiv](https://arxiv.org/abs/1701.03980)]
 - DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)]
 - NIPS 2016 Tutorial: Generative Adversarial Networks [arXiv](https://arxiv.org/abs/1701.00160)
