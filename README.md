@@ -1,6 +1,6 @@
 #### 2017-02
 
-- All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[arXiv](All-but-the-Top: Simple and Effective Postprocessing for Word Representations)]
+- All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[arXiv](https://arxiv.org/abs/1702.01417)]
 - Deep Learning with Dynamic Computation Graphs [[arXiv](https://arxiv.org/abs/1702.02181)]
 - Skip Connections as Effective Symmetry-Breaking [arXiv](https://arxiv.org/abs/1701.09175)
 
