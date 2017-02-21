@@ -1,5 +1,7 @@
 #### 2017-02
 
+- The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI [[arXiv](https://arxiv.org/abs/1702.05663)]
+- Learning to Parse and Translate Improves Neural Machine Translation [[arXiv](https://arxiv.org/abs/1702.03525)]
 - All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[arXiv](All-but-the-Top: Simple and Effective Postprocessing for Word Representations)]
 - Deep Learning with Dynamic Computation Graphs [[arXiv](https://arxiv.org/abs/1702.02181)]
 - Skip Connections as Effective Symmetry-Breaking [arXiv](https://arxiv.org/abs/1701.09175)
