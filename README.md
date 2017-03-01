@@ -1,5 +1,8 @@
 #### 2017-02
 
+- Neural Map: Structured Memory for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08360)]
+- Bridging the Gap Between Value and Policy Based Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08892)]
+- Deep Voice: Real-time Neural Text-to-Speech [[arXiv](https://arxiv.org/abs/1702.07825)]
 - Beating the World's Best at Super Smash Bros. with Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.06230)]
 - The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI [[arXiv](https://arxiv.org/abs/1702.05663)]
 - Learning to Parse and Translate Improves Neural Machine Translation [[arXiv](https://arxiv.org/abs/1702.03525)]
@@ -90,6 +93,7 @@ Machine Translation & Dialog
 
 #### 2016-10
 
+- Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv](https://arxiv.org/abs/1610.06918v1)]
