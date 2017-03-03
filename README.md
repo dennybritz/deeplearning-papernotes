@@ -1,5 +1,10 @@
+#### 2017-03
+
+- Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
+
 #### 2017-02
 
+- The Shattered Gradients Problem: If resnets are the answer, then what is the question? [[arXiv](https://arxiv.org/abs/1702.08591)]
 - Neural Map: Structured Memory for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08360)]
 - Bridging the Gap Between Value and Policy Based Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08892)]
 - Deep Voice: Real-time Neural Text-to-Speech [[arXiv](https://arxiv.org/abs/1702.07825)]
@@ -9,7 +14,7 @@
 - All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[arXiv](https://arxiv.org/abs/1702.01417)]
 - Deep Learning with Dynamic Computation Graphs [[arXiv](https://arxiv.org/abs/1702.02181)]
 - Skip Connections as Effective Symmetry-Breaking [arXiv](https://arxiv.org/abs/1701.09175)
-- Semi-Supervised QA with Generative Domain-Adaptive Nets [[arXiv](https://arxiv.org/abs/1702.02206)]
+- odelSemi-Supervised QA with Generative Domain-Adaptive Nets [[arXiv](https://arxiv.org/abs/1702.02206)]
 
 #### 2017-01
 
