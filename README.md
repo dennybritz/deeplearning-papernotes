@@ -1,6 +1,11 @@
 #### 2017-03
 
+- Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
+- Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
+- Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
+- FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
+
 
 #### 2017-02
 
