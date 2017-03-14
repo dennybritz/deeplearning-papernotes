@@ -1,5 +1,6 @@
 #### 2017-03
 
+- Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.03864)]
 - Controllable Text Generation [[arXiv](https://arxiv.org/abs/1703.00955)]
 - Neural Episodic Control [[arXiv](https://arxiv.org/abs/1703.01988)]
 - A Structured Self-attentive Sentence Embedding [[arXiv](https://arxiv.org/abs/1703.03130)]
