@@ -3,7 +3,7 @@
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.03864)]
 - Controllable Text Generation [[arXiv](https://arxiv.org/abs/1703.00955)]
 - Neural Episodic Control [[arXiv](https://arxiv.org/abs/1703.01988)]
-- A Structured Self-attentive Sentence Embedding [[arXiv](https://arxiv.org/abs/1703.03130)]
+- [A Structured Self-attentive Sentence Embedding](notes/self_attention_embedding.md) [[arXiv](https://arxiv.org/abs/1703.03130)]
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
