@@ -6,7 +6,7 @@ TLDR; The authors propose a web navigation task where an agent must find a targe
 #### Key Points
 
 
-- Datasets: Wiki-[NUM_ALLOWED_HOPS]: WikiNav-4 (6k train), WikiNav-8 (890k train), WikiNav-16 (12M train). Authors evaluate variosu query lengths for all data sets.
+- Datasets: Wiki-[NUM_ALLOWED_HOPS]: WikiNav-4 (6k train), WikiNav-8 (890k train), WikiNav-16 (12M train). Authors evaluate various query lengths for all data sets.
 - Vector representation of pages: BoW of pre-trained word2vec embeddings. 
 - State-dependent action space: All possible outgoing links on the current page. At each step, the agent can peek at the neighboring nodes and see their full content.
 - Training, a single correct path is fed to the agent. Beam search to make predictions.
