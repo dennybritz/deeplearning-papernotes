@@ -1,3 +1,7 @@
+#### 2017-05
+
+- Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)]
+
 #### 2017-04
 
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
