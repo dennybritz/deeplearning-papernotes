@@ -118,6 +118,7 @@ Machine Translation & Dialog
 
 #### 2016-10
 
+- Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
