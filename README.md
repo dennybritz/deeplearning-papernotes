@@ -6,6 +6,7 @@
 
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
+- Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)]
 
 #### 2017-03
 
