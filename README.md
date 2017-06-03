@@ -1,5 +1,8 @@
 #### 2017-05
 
+- Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
+- Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
+- Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)]
 
 #### 2017-04
