@@ -1,3 +1,8 @@
+#### 2017-06
+
+- A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
+- Visual Interaction Networks [[arXiv](https://arxiv.org/abs/1706.01433)]
+
 #### 2017-05
 
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
