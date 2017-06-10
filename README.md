@@ -9,20 +9,31 @@
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)]
+- Discrete Sequential Prediction of Continuous Actions for Deep RL [[arXiv](https://arxiv.org/abs/1705.05035)]
+- Efficient Parallel Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.04862)]
+- Real-Time Adaptive Image Compression [[arXiv](https://arxiv.org/abs/1705.05823)]
 
 #### 2017-04
 
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
 - Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)]
+- Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
+- Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
+- A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)]
+- Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/)]abs/1704.03003
+- Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
+- Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
 
 #### 2017-03
 
+- Improved Training of Wasserstein GANs [[arXiv](https://arxiv.org/abs/1704.00028)]
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.03864)]
 - Controllable Text Generation [[arXiv](https://arxiv.org/abs/1703.00955)]
 - Neural Episodic Control [[arXiv](https://arxiv.org/abs/1703.01988)]
 - [A Structured Self-attentive Sentence Embedding](notes/self_attention_embedding.md) [[arXiv](https://arxiv.org/abs/1703.03130)]
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
+- Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
