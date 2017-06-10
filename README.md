@@ -21,7 +21,7 @@
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
 - A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)]
-- Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/)]abs/1704.03003
+- Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
 - Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
 
