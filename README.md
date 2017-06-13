@@ -1,5 +1,8 @@
 #### 2017-06
 
+- Deep reinforcement learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
+- Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
+- Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
 - Visual Interaction Networks [[arXiv](https://arxiv.org/abs/1706.01433)]
 
@@ -172,6 +175,7 @@ Machine Translation & Dialog
 
 #### 2016-08
 
+- Why does deep and cheap learning work so well? [[arXiv](https://arxiv.org/abs/1608.08225)]
 - Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
 - Stacked Approximated Regression Machine: A Simple Deep Learning Approach [[arXiv](http://arxiv.org/abs/1608.04062)]
 - Decoupled Neural Interfaces using Synthetic Gradients [[arXiv](http://arxiv.org/abs/1608.05343)]
