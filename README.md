@@ -1,6 +1,9 @@
 #### 2017-06
 
-- Deep reinforcement learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
+- Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
+- Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
+- Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
 - Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)]
