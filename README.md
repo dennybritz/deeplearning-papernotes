@@ -8,6 +8,7 @@
 
 #### 2017-05
 
+- The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)] 
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
@@ -59,11 +60,11 @@
 
 #### 2017-01
 
-- Wasserstein GAN [arXiv](https://arxiv.org/abs/1701.07875)
+- Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)]
 - Deep Reinforcement Learning: An Overview [[arXiv](https://arxiv.org/abs/1701.07274)]
 - DyNet: The Dynamic Neural Network Toolkit [[arXiv](https://arxiv.org/abs/1701.03980)]
 - DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)]
-- NIPS 2016 Tutorial: Generative Adversarial Networks [arXiv](https://arxiv.org/abs/1701.00160)
+- NIPS 2016 Tutorial: Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1701.00160)]
 
 #### 2016-12
 
@@ -71,7 +72,7 @@
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
-- DeepMind Lab[[arXiv](https://arxiv.org/abs/1612.03801)]
+- DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)]
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
 - Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
 
@@ -153,8 +154,8 @@ Machine Translation & Dialog
 - Video Pixel Networks [[arXiv](https://arxiv.org/abs/1610.00527)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[arXiv](https://arxiv.org/abs/1610.01945)]
 - [Learning to Translate in Real-time with Neural Machine Translation](notes/learning-to-translate-real-time.md) [[arXiv](https://arxiv.org/abs/1610.00388)]
-- Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search [arXiv](https://arxiv.org/abs/1610.00673)
-- [Pointer Sentinel Mixture Models](notes/pointer-sentinel-mixture.md) [arXiv](https://arxiv.org/abs/1609.07843)
+- Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search [[arXiv](https://arxiv.org/abs/1610.00673)]
+- [Pointer Sentinel Mixture Models](notes/pointer-sentinel-mixture.md) [[arXiv](https://arxiv.org/abs/1609.07843)]
 
 #### 2016-09
 
@@ -191,7 +192,7 @@ Machine Translation & Dialog
 - [Recurrent Neural Machine Translation](notes/recurrent-nmt.md) [[arXiv](http://arxiv.org/abs/1607.08725)]
 - MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition [[arXiv](http://arxiv.org/abs/1607.08221)]
 - [Layer Normalization](notes/layer-norm.md) [[arXiv](https://arxiv.org/abs/1607.06450)]
-- [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md) [[arXiv](https://arxiv.org/abs/1607.05108)]
+- [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md)  [[arXiv](https://arxiv.org/abs/1607.05108)]
 - Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
 - [Attention-over-Attention Neural Networks for Reading Comprehension](notes/att-over-att.md) [[arXiv](https://arxiv.org/abs/1607.04423)]
 - sk_p: a neural program corrector for MOOCs [[arXiv](http://arxiv.org/abs/1607.02902)]
