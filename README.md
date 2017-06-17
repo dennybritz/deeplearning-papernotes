@@ -1,5 +1,6 @@
 #### 2017-06
 
+- Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/)]end-to-end-negotiator.pdf
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
