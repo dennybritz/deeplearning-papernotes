@@ -1,5 +1,8 @@
 #### 2017-06
 
+- One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)]
+- Hybrid Reward Architecture for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1706.04208)]
+- Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
 - Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)]
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
