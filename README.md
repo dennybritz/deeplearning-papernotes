@@ -1,5 +1,9 @@
 #### 2017-06
 
+- Structure Learning in Motor Control:A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
+- Programmable Agents [[arXiv](https://arxiv.org/abs/1706.06383)]
+- Grounded Language Learning in a Simulated 3D World [[arXiv](https://arxiv.org/abs/1706.06551)]
+- Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics [[arXiv](https://arxiv.org/abs/1706.04317)]
 - One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)]
 - Hybrid Reward Architecture for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1706.04208)]
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
