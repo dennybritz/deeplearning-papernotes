@@ -4,11 +4,11 @@
 - Programmable Agents [[arXiv](https://arxiv.org/abs/1706.06383)]
 - Grounded Language Learning in a Simulated 3D World [[arXiv](https://arxiv.org/abs/1706.06551)]
 - Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics [[arXiv](https://arxiv.org/abs/1706.04317)]
-- One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)]
+- One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - Hybrid Reward Architecture for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1706.04208)]
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
-- Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)]
-- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
+- Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)] [[code](https://github.com/facebookresearch/end-to-end-negotiator)]
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
@@ -23,7 +23,7 @@
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
-- Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)]
+- Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)]
 - Discrete Sequential Prediction of Continuous Actions for Deep RL [[arXiv](https://arxiv.org/abs/1705.05035)]
 - Efficient Parallel Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.04862)]
 - Real-Time Adaptive Image Compression [[arXiv](https://arxiv.org/abs/1705.05823)]
@@ -32,7 +32,7 @@
 
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
-- Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)]
+- Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)] [[code](https://github.com/abisee/pointer-generator)]
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
 - A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)]
@@ -153,7 +153,7 @@ Machine Translation & Dialog
 
 #### 2016-10
 
-- Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)]
+- Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)] [[code](https://github.com/deepmind/dnc)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
