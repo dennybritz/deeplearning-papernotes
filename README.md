@@ -228,7 +228,7 @@ Machine Translation & Dialog
 - Conditional Image Generation with PixelCNN Decoders [[arXiv](http://arxiv.org/abs/1606.05328)]
 - Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
 - [Progressive Neural Networks](notes/progressive-nn.md) [[arXiv](http://arxiv.org/abs/1606.04671)]
-- Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)])
+- Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)] [[code](https://github.com/openai/improved-gan)]
 - Memory-Efficient Backpropagation Through Time [[arXiv](http://arxiv.org/abs/1606.03401)]
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](http://arxiv.org/abs/1606.03657)]
 - Zero-Resource Translation with Multi-Lingual Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.04164)]
