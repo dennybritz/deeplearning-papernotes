@@ -1,6 +1,7 @@
 #### 2017-06
 
-- Structure Learning in Motor Control:A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
+- Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study [[arXiv](https://arxiv.org/abs/1706.08606)]
+- Structure Learning in Motor Control: A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
 - Programmable Agents [[arXiv](https://arxiv.org/abs/1706.06383)]
 - Grounded Language Learning in a Simulated 3D World [[arXiv](https://arxiv.org/abs/1706.06551)]
 - Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics [[arXiv](https://arxiv.org/abs/1706.04317)]
@@ -49,6 +50,7 @@
 - [A Structured Self-attentive Sentence Embedding](notes/self_attention_embedding.md) [[arXiv](https://arxiv.org/abs/1703.03130)]
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
+- Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq)]
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
@@ -243,6 +245,7 @@ Machine Translation & Dialog
 - Very Deep Convolutional Networks for Natural Language Processing [[arXiv](https://arxiv.org/abs/1606.01781)]
 - Neural Net Models for Open-Domain Discourse Coherence [[arXiv](https://arxiv.org/abs/1606.01545)]
 - Neural Architectures for Fine-grained Entity Type Classification [[arXiv](https://arxiv.org/abs/1606.01341)]
+- Matching Networks for One Shot Learning [[arXiv](https://arxiv.org/abs/1606.04080)]
 - Gated-Attention Readers for Text Comprehension [[arXiv](http://arxiv.org/abs/1606.01549)]
 - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](notes/e2e-dialog-control-sl-rl.md) [[arXiv](https://arxiv.org/abs/1606.01269)]
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
@@ -250,7 +253,6 @@ Machine Translation & Dialog
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
 - [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
-
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
 - Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
 
@@ -444,7 +446,7 @@ General
 
 #### 2015-08
 
-- [Neural Machine Translation of Rare Words with Subword Units](notes/nmt-subword.md) [[arXiv](https://arxiv.org/abs/1508.07909)]
+- [Neural Machine Translation of Rare Words with Subword Units](notes/nmt-subword.md) [[arXiv](https://arxiv.org/abs/1508.07909)] [[code](https://github.com/rsennrich/subword-nmt)]
 - Listen, Attend and Spell [[arxiv](http://arxiv.org/abs/1508.01211)]
 - [Character-Aware Neural Language Models](notes/character-aware-nlm.md) [[arXiv](http://arxiv.org/abs/1508.06615)]
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs [[arXiv](http://arxiv.org/abs/1508.00657)]
