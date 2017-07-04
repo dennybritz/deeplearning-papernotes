@@ -1,5 +1,9 @@
 #### 2017-06
 
+- Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
+- Gradient Episodic Memory for Continuum Learning [[arXiv](https://arxiv.org/abs/1706.08840)]
+- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)]
+- Deep Interest Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1706.06978)]
 - Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study [[arXiv](https://arxiv.org/abs/1706.08606)]
 - Structure Learning in Motor Control: A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
 - Programmable Agents [[arXiv](https://arxiv.org/abs/1706.06383)]
@@ -10,6 +14,7 @@
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
 - Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)] [[code](https://github.com/facebookresearch/end-to-end-negotiator)]
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)]
+- YellowFin and the Art of Momentum Tuning [[arXiv](https://arxiv.org/abs/1706.03471)] [[code](https://github.com/JianGoForIt/YellowFin)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
