@@ -1,6 +1,6 @@
 #### 2017-07
 
-ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)]
+- ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)]
 
 #### 2017-06
 
