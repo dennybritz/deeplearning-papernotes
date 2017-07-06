@@ -1,3 +1,7 @@
+#### 2017-07
+
+ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)]
+
 #### 2017-06
 
 - Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
@@ -25,8 +29,9 @@
 
 #### 2017-05
 
-- The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)] 
+- The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
+- ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)]
@@ -41,7 +46,7 @@
 - Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)] [[code](https://github.com/abisee/pointer-generator)]
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
-- A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)]
+- A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)]
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
 - Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
@@ -90,7 +95,7 @@
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
-- DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)]
+- DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)] [[code](https://github.com/deepmind/lab)]
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
 - Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
 
@@ -259,6 +264,7 @@ Machine Translation & Dialog
 - [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
+- OpenAI Gym [[arXiv](https://arxiv.org/abs/1606.01540)] [[code](https://github.com/deepmind/lab)]
 - Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
 
 #### 2016-05
@@ -500,6 +506,8 @@ General
 
 #### 2015-02
 
+- Human-level control through deep reinforcement
+learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)] [[code](https://github.com/deepmind/dqn)]
 - [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
 
