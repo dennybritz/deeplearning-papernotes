@@ -1,6 +1,15 @@
+#### 2017-07
+
+- ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)]
+
 #### 2017-06
 
-- Structure Learning in Motor Control:A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
+- Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
+- Gradient Episodic Memory for Continuum Learning [[arXiv](https://arxiv.org/abs/1706.08840)]
+- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)]
+- Deep Interest Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1706.06978)]
+- Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study [[arXiv](https://arxiv.org/abs/1706.08606)]
+- Structure Learning in Motor Control: A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
 - Programmable Agents [[arXiv](https://arxiv.org/abs/1706.06383)]
 - Grounded Language Learning in a Simulated 3D World [[arXiv](https://arxiv.org/abs/1706.06551)]
 - Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics [[arXiv](https://arxiv.org/abs/1706.04317)]
@@ -9,6 +18,7 @@
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
 - Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)] [[code](https://github.com/facebookresearch/end-to-end-negotiator)]
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)]
+- YellowFin and the Art of Momentum Tuning [[arXiv](https://arxiv.org/abs/1706.03471)] [[code](https://github.com/JianGoForIt/YellowFin)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
@@ -19,8 +29,9 @@
 
 #### 2017-05
 
-- The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)] 
+- The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
+- ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)]
@@ -35,7 +46,7 @@
 - Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)] [[code](https://github.com/abisee/pointer-generator)]
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
-- A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)]
+- A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)]
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
 - Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
@@ -49,6 +60,7 @@
 - [A Structured Self-attentive Sentence Embedding](notes/self_attention_embedding.md) [[arXiv](https://arxiv.org/abs/1703.03130)]
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
+- Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq)]
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
@@ -83,7 +95,7 @@
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
-- DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)]
+- DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)] [[code](https://github.com/deepmind/lab)]
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
 - Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
 
@@ -243,6 +255,7 @@ Machine Translation & Dialog
 - Very Deep Convolutional Networks for Natural Language Processing [[arXiv](https://arxiv.org/abs/1606.01781)]
 - Neural Net Models for Open-Domain Discourse Coherence [[arXiv](https://arxiv.org/abs/1606.01545)]
 - Neural Architectures for Fine-grained Entity Type Classification [[arXiv](https://arxiv.org/abs/1606.01341)]
+- Matching Networks for One Shot Learning [[arXiv](https://arxiv.org/abs/1606.04080)]
 - Gated-Attention Readers for Text Comprehension [[arXiv](http://arxiv.org/abs/1606.01549)]
 - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](notes/e2e-dialog-control-sl-rl.md) [[arXiv](https://arxiv.org/abs/1606.01269)]
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
@@ -250,8 +263,8 @@ Machine Translation & Dialog
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
 - [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
-
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
+- OpenAI Gym [[arXiv](https://arxiv.org/abs/1606.01540)] [[code](https://github.com/deepmind/lab)]
 - Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
 
 #### 2016-05
@@ -444,7 +457,7 @@ General
 
 #### 2015-08
 
-- [Neural Machine Translation of Rare Words with Subword Units](notes/nmt-subword.md) [[arXiv](https://arxiv.org/abs/1508.07909)]
+- [Neural Machine Translation of Rare Words with Subword Units](notes/nmt-subword.md) [[arXiv](https://arxiv.org/abs/1508.07909)] [[code](https://github.com/rsennrich/subword-nmt)]
 - Listen, Attend and Spell [[arxiv](http://arxiv.org/abs/1508.01211)]
 - [Character-Aware Neural Language Models](notes/character-aware-nlm.md) [[arXiv](http://arxiv.org/abs/1508.06615)]
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs [[arXiv](http://arxiv.org/abs/1508.00657)]
@@ -493,6 +506,8 @@ General
 
 #### 2015-02
 
+- Human-level control through deep reinforcement
+learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)] [[code](https://github.com/deepmind/dqn)]
 - [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
 
