@@ -4,7 +4,7 @@
 
 #### 2017-06
 
-- Noisy Networks for Exploration [[arXiv](https://arxiv.org/abs/1706.10295)]
+- [Noisy Networks for Exploration](notes/noisy-networks-4-exploration.md) [[arXiv](https://arxiv.org/abs/1706.10295)]
 - Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
 - Gradient Episodic Memory for Continuum Learning [[arXiv](https://arxiv.org/abs/1706.08840)]
 - Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)]
