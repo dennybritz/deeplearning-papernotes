@@ -1,5 +1,11 @@
 #### 2017-07
 
+
+- Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
+- Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
+- Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)]
+- Hindsight Experience Replay [[arXiv](https://arxiv.org/abs/1707.01495)]
+- End-to-End Learning of Semantic Grasping [[arXiv](https://arxiv.org/abs/1707.01932)]
 - ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)]
 
 #### 2017-06
