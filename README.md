@@ -1,5 +1,6 @@
 #### 2017-07
 
+- SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
 - Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
