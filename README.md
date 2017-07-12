@@ -1,9 +1,16 @@
 #### 2017-07
 
+- Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
+- Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
+- Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)]
+- Hindsight Experience Replay [[arXiv](https://arxiv.org/abs/1707.01495)]
+- Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1707.01836)]
+- End-to-End Learning of Semantic Grasping [[arXiv](https://arxiv.org/abs/1707.01932)]
 - ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)]
 
 #### 2017-06
 
+- [Noisy Networks for Exploration](notes/noisy-networks-4-exploration.md) [[arXiv](https://arxiv.org/abs/1706.10295)]
 - Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
 - Gradient Episodic Memory for Continuum Learning [[arXiv](https://arxiv.org/abs/1706.08840)]
 - Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)]
@@ -78,7 +85,7 @@
 - Learning to Parse and Translate Improves Neural Machine Translation [[arXiv](https://arxiv.org/abs/1702.03525)]
 - All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[arXiv](https://arxiv.org/abs/1702.01417)]
 - Deep Learning with Dynamic Computation Graphs [[arXiv](https://arxiv.org/abs/1702.02181)]
-- Skip Connections as Effective Symmetry-Breaking [arXiv](https://arxiv.org/abs/1701.09175)
+- Skip Connections as Effective Symmetry-Breaking [[arXiv](https://arxiv.org/abs/1701.09175)]
 - odelSemi-Supervised QA with Generative Domain-Adaptive Nets [[arXiv](https://arxiv.org/abs/1702.02206)]
 
 #### 2017-01
