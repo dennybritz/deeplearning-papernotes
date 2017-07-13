@@ -1,5 +1,6 @@
 #### 2017-07
 
+- Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
 - SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
