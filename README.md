@@ -1,5 +1,8 @@
 #### 2017-07
 
+- Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
+- SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
+- Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
 - Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
 - Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)]
@@ -27,7 +30,7 @@
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - YellowFin and the Art of Momentum Tuning [[arXiv](https://arxiv.org/abs/1706.03471)] [[code](https://github.com/JianGoForIt/YellowFin)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
-- Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)]
+- Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
 - Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
@@ -42,6 +45,7 @@
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)]
+- Safe and Nested Subgame Solving for Imperfect-Information Games [arXiv](https://arxiv.org/abs/1705.02955)]
 - Discrete Sequential Prediction of Continuous Actions for Deep RL [[arXiv](https://arxiv.org/abs/1705.05035)]
 - Efficient Parallel Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.04862)]
 - Real-Time Adaptive Image Compression [[arXiv](https://arxiv.org/abs/1705.05823)]
@@ -174,7 +178,7 @@ Machine Translation & Dialog
 
 - Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)] [[code](https://github.com/deepmind/dnc)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
-- [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)]
+- [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv](https://arxiv.org/abs/1610.06918v1)]
 - Can Active Memory Replace Attention? [[arXiv](https://arxiv.org/abs/1610.08613)]
@@ -184,6 +188,7 @@ Machine Translation & Dialog
 - Video Pixel Networks [[arXiv](https://arxiv.org/abs/1610.00527)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[arXiv](https://arxiv.org/abs/1610.01945)]
 - [Learning to Translate in Real-time with Neural Machine Translation](notes/learning-to-translate-real-time.md) [[arXiv](https://arxiv.org/abs/1610.00388)]
+- Xception: Deep Learning with Depthwise Separable Convolutions [[arXiv](https://arxiv.org/abs/1610.02357)]
 - Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search [[arXiv](https://arxiv.org/abs/1610.00673)]
 - [Pointer Sentinel Mixture Models](notes/pointer-sentinel-mixture.md) [[arXiv](https://arxiv.org/abs/1609.07843)]
 
@@ -424,7 +429,7 @@ Programs
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arXiv](http://arxiv.org/abs/1511.04834)]
 - Neural Programmer-Interpreters [[arXiv](http://arxiv.org/abs/1511.06279)]
 - Learning Simple Algorithms from Examples [[arXiv](http://arxiv.org/abs/1511.07275)]
-- Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)]
+- Neural GPUs Learn Algorithms [[arXiv](http://arxiv.org/abs/1511.08228)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models [[arXiv](http://arxiv.org/abs/1511.09249)]
 
 Vision
