@@ -1,5 +1,7 @@
 #### 2017-07
 
+- Automatic Recognition of Deceptive Facial Expressions of Emotion [[arXiv](https://arxiv.org/abs/1707.04061)]
+- Distral: Robust Multitask Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.04175)]
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
 - SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
@@ -211,6 +213,7 @@ Machine Translation & Dialog
 
 #### 2016-08
 
+- Semantics derived automatically from language corpora contain human-like biases [[arXiv](https://arxiv.org/abs/1608.07187)]
 - Why does deep and cheap learning work so well? [[arXiv](https://arxiv.org/abs/1608.08225)]
 - Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
 - Stacked Approximated Regression Machine: A Simple Deep Learning Approach [[arXiv](http://arxiv.org/abs/1608.04062)]
