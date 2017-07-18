@@ -126,6 +126,7 @@
 - Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
 - Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
 - Incremental Sequence Learning [[arXiv](https://arxiv.org/abs/1611.03068)]
+- Delving into Transferable Adversarial Examples and Black-box Attacks [[arXiv](https://arxiv.org/abs/1611.02770)]
 - b-GAN: Unified Framework of Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=S1JG13oee)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
