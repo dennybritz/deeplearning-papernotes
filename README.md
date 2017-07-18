@@ -375,6 +375,7 @@ Machine Translation & Dialog
 
 #### 2016-01
 
+- What’s your ML test score? A rubric for ML production systems [[Research at Google](https://research.google.com/pubs/pub45742.html)]
 - Pixel Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1601.06759)]
 - Bitwise Neural Networks [[arXiv](http://arxiv.org/abs/1601.06071)]
 - Long Short-Term Memory-Networks for Machine Reading [[arXiv](http://arxiv.org/abs/1601.06733)]
@@ -529,6 +530,8 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 
 #### 2015-01
 
+- Hidden Technical Debt in Machine Learning Systems [[NIPS](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)]
+
 #### 2014-12
 
 - Learning Longer Memory in Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1412.7753)]
@@ -578,6 +581,8 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 #### 2014-02
 
 #### 2014-01
+
+- Machine Learning: The High Interest Credit Card of Technical Debt [[Research at Google](https://research.google.com/pubs/pub43146.html)]
 
 #### 2013
 
