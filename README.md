@@ -126,7 +126,7 @@
 - Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
 - Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
 - Incremental Sequence Learning [[arXiv](https://arxiv.org/abs/1611.03068)]
-- Delving into Transferable Adversarial Examples and Black-box Attacks [[arXiv](https://arxiv.org/abs/1611.02770)]
+- Delving into Transferable Adversarial Examples and Black-box Attacks [[arXiv](https://arxiv.org/abs/1611.02770)] [[code](https://github.com/ReDeiPirati/transferability-advdnn-pub)]
 - b-GAN: Unified Framework of Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=S1JG13oee)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
@@ -181,6 +181,7 @@ Machine Translation & Dialog
 
 - Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)] [[code](https://github.com/deepmind/dnc)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
+- Universal adversarial perturbations [[arXiv](https://arxiv.org/abs/1610.08401)] [[code](https://github.com/LTS4/universal)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv](https://arxiv.org/abs/1610.06918v1)]
