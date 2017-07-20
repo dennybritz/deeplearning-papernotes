@@ -106,6 +106,7 @@
 
 - [A recurrent neural network without Chaos](notes/rnn_no_chaos.md) [[arXiv](https://arxiv.org/abs/1612.06212)]
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
+- Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv](https://arxiv.org/abs/1612.07828)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
 - DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)] [[code](https://github.com/deepmind/lab)]
