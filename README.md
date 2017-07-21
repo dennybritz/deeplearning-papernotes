@@ -1,5 +1,10 @@
 #### 2017-07
 
+- Imagination-Augmented Agents for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06203)]
+- Learning model-based planning from scratch [[arXiv](https://arxiv.org/abs/1707.06170)]
+- Proximal Policy Optimization Algorithms [[AWSS3](https://openai-public.s3-us-west-2.amazonaws.com/blog/2017-07/ppo/ppo-arxiv.pdf)] [[code](https://github.com/openai/baselines)]
+- Automatic Recognition of Deceptive Facial Expressions of Emotion [[arXiv](https://arxiv.org/abs/1707.04061)]
+- Distral: Robust Multitask Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.04175)]
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
 - SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
@@ -47,6 +52,7 @@
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)]
 - Safe and Nested Subgame Solving for Imperfect-Information Games [arXiv](https://arxiv.org/abs/1705.02955)]
 - Discrete Sequential Prediction of Continuous Actions for Deep RL [[arXiv](https://arxiv.org/abs/1705.05035)]
+- Metacontrol for Adaptive Imagination-Based Optimization [[arXiv](https://arxiv.org/abs/1705.02670)]
 - Efficient Parallel Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.04862)]
 - Real-Time Adaptive Image Compression [[arXiv](https://arxiv.org/abs/1705.05823)]
 
@@ -104,6 +110,7 @@
 
 - [A recurrent neural network without Chaos](notes/rnn_no_chaos.md) [[arXiv](https://arxiv.org/abs/1612.06212)]
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
+- Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv](https://arxiv.org/abs/1612.07828)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
 - DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)] [[code](https://github.com/deepmind/lab)]
@@ -124,6 +131,7 @@
 - Deep Information Propagation [[OpenReview](http://openreview.net/forum?id=H1W1UN9gg)]
 - Structured Attention Networks [[OpenReview](http://openreview.net/forum?id=HkE0Nvqlg)]
 - Incremental Sequence Learning [[arXiv](https://arxiv.org/abs/1611.03068)]
+- Delving into Transferable Adversarial Examples and Black-box Attacks [[arXiv](https://arxiv.org/abs/1611.02770)] [[code](https://github.com/ReDeiPirati/transferability-advdnn-pub)]
 - b-GAN: Unified Framework of Generative Adversarial Networks [[OpenReview](http://openreview.net/forum?id=S1JG13oee)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
@@ -178,6 +186,7 @@ Machine Translation & Dialog
 
 - Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)] [[code](https://github.com/deepmind/dnc)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
+- Universal adversarial perturbations [[arXiv](https://arxiv.org/abs/1610.08401)] [[code](https://github.com/LTS4/universal)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](notes/professor-forcing.md) [[arXiv](https://arxiv.org/abs/1610.09038)]
 - Learning to Protect Communications with Adversarial Neural Cryptography [[arXiv](https://arxiv.org/abs/1610.06918v1)]
@@ -211,6 +220,7 @@ Machine Translation & Dialog
 
 #### 2016-08
 
+- Semantics derived automatically from language corpora contain human-like biases [[arXiv](https://arxiv.org/abs/1608.07187)]
 - Why does deep and cheap learning work so well? [[arXiv](https://arxiv.org/abs/1608.08225)]
 - Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
 - Stacked Approximated Regression Machine: A Simple Deep Learning Approach [[arXiv](http://arxiv.org/abs/1608.04062)]
@@ -371,6 +381,7 @@ Machine Translation & Dialog
 
 #### 2016-01
 
+- What’s your ML test score? A rubric for ML production systems [[Research at Google](https://research.google.com/pubs/pub45742.html)]
 - Pixel Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1601.06759)]
 - Bitwise Neural Networks [[arXiv](http://arxiv.org/abs/1601.06071)]
 - Long Short-Term Memory-Networks for Machine Reading [[arXiv](http://arxiv.org/abs/1601.06733)]
@@ -525,6 +536,8 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 
 #### 2015-01
 
+- Hidden Technical Debt in Machine Learning Systems [[NIPS](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)]
+
 #### 2014-12
 
 - Learning Longer Memory in Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1412.7753)]
@@ -574,6 +587,8 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 #### 2014-02
 
 #### 2014-01
+
+- Machine Learning: The High Interest Credit Card of Technical Debt [[Research at Google](https://research.google.com/pubs/pub43146.html)]
 
 #### 2013
 
