@@ -1,5 +1,8 @@
 #### 2017-07
 
+- Imagination-Augmented Agents for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06203)]
+- Learning model-based planning from scratch [[arXiv](https://arxiv.org/abs/1707.06170)]
+- Proximal Policy Optimization Algorithms [[AWSS3](https://openai-public.s3-us-west-2.amazonaws.com/blog/2017-07/ppo/ppo-arxiv.pdf)] [[code](https://github.com/openai/baselines)]
 - Automatic Recognition of Deceptive Facial Expressions of Emotion [[arXiv](https://arxiv.org/abs/1707.04061)]
 - Distral: Robust Multitask Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.04175)]
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
@@ -49,6 +52,7 @@
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)]
 - Safe and Nested Subgame Solving for Imperfect-Information Games [arXiv](https://arxiv.org/abs/1705.02955)]
 - Discrete Sequential Prediction of Continuous Actions for Deep RL [[arXiv](https://arxiv.org/abs/1705.05035)]
+- Metacontrol for Adaptive Imagination-Based Optimization [[arXiv](https://arxiv.org/abs/1705.02670)]
 - Efficient Parallel Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.04862)]
 - Real-Time Adaptive Image Compression [[arXiv](https://arxiv.org/abs/1705.05823)]
 
