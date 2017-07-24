@@ -1,5 +1,8 @@
 #### 2017-07
 
+- A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)]
+- On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
+- Optimizing the Latent Space of Generative Networks [[arXiv](https://arxiv.org/abs/1707.05776)]
 - Neuroscience-Inspired Artificial Intelligence [[Neuron](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317305093%3Fshowall%3Dtrue)]
 - Imagination-Augmented Agents for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06203)]
 - Learning model-based planning from scratch [[arXiv](https://arxiv.org/abs/1707.06170)]
