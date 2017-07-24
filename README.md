@@ -1,5 +1,6 @@
 #### 2017-07
 
+- Reverse Curriculum Generation for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.05300)]
 - Imagination-Augmented Agents for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06203)]
 - Learning model-based planning from scratch [[arXiv](https://arxiv.org/abs/1707.06170)]
 - Proximal Policy Optimization Algorithms [[AWSS3](https://openai-public.s3-us-west-2.amazonaws.com/blog/2017-07/ppo/ppo-arxiv.pdf)] [[code](https://github.com/openai/baselines)]
