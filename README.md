@@ -42,6 +42,7 @@
 - YellowFin and the Art of Momentum Tuning [[arXiv](https://arxiv.org/abs/1706.03471)] [[code](https://github.com/JianGoForIt/YellowFin)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
+- Parameter Space Noise for Exploration [[arXiv](https://arxiv.org/abs/1706.01905)] [[code](https://github.com/openai/baselines)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
 - Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
