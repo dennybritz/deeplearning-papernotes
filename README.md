@@ -1,6 +1,7 @@
 #### 2017-07
 
 - Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo)
+- Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)]
 - A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)]
 - On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
 - Optimizing the Latent Space of Generative Networks [[arXiv](https://arxiv.org/abs/1707.05776)]
