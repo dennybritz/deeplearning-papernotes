@@ -1,5 +1,6 @@
 #### 2017-07
 
+- DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
 - Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo)
 - Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)]
 - A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)]
@@ -15,6 +16,7 @@
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
 - SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
+- The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously [[arXiv](https://arxiv.org/abs/1707.03300)]
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
 - Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
 - Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)]
