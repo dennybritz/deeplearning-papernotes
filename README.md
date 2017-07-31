@@ -1,5 +1,12 @@
 #### 2017-07
 
+- DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
+- Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo)
+- Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)]
+- A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)]
+- On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
+- Optimizing the Latent Space of Generative Networks [[arXiv](https://arxiv.org/abs/1707.05776)]
+- Neuroscience-Inspired Artificial Intelligence [[Neuron](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317305093%3Fshowall%3Dtrue)]
 - Reverse Curriculum Generation for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.05300)]
 - Imagination-Augmented Agents for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06203)]
 - Learning model-based planning from scratch [[arXiv](https://arxiv.org/abs/1707.06170)]
@@ -9,6 +16,7 @@
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv](https://arxiv.org/abs/1707.03491)]
 - SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
+- The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously [[arXiv](https://arxiv.org/abs/1707.03300)]
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
 - Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
 - Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)]
@@ -37,6 +45,7 @@
 - YellowFin and the Art of Momentum Tuning [[arXiv](https://arxiv.org/abs/1706.03471)] [[code](https://github.com/JianGoForIt/YellowFin)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
+- Parameter Space Noise for Exploration [[arXiv](https://arxiv.org/abs/1706.01905)] [[code](https://github.com/openai/baselines)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)]
 - Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
