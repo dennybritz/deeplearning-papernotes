@@ -1,5 +1,12 @@
+#### 2017-08
+
+- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] (WIP)
+- Natural Language Processing with Small Feed-Forward Networks [[arXiv](https://arxiv.org/abs/1708.00214)]
+
 #### 2017-07
 
+- Photographic Image Synthesis with Cascaded Refinement Networks [[arXiv](https://arxiv.org/abs/1707.09405)]
+- StarCraft II: A New Challenge for Reinforcement Learning [[DeepMind Documents](https://deepmind.com/documents/110/sc2le.pdf)] [[code](https://github.com/deepmind/pysc2)]
 - Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards [[arXiv](https://arxiv.org/abs/1707.08817)]
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
 - Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo)
