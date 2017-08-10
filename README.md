@@ -1,5 +1,13 @@
+#### 2017-08
+
+- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] (WIP)
+- Natural Language Processing with Small Feed-Forward Networks [[arXiv](https://arxiv.org/abs/1708.00214)]
+
 #### 2017-07
 
+- Photographic Image Synthesis with Cascaded Refinement Networks [[arXiv](https://arxiv.org/abs/1707.09405)]
+- StarCraft II: A New Challenge for Reinforcement Learning [[DeepMind Documents](https://deepmind.com/documents/110/sc2le.pdf)] [[code](https://github.com/deepmind/pysc2)]
+- Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards [[arXiv](https://arxiv.org/abs/1707.08817)]
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
 - Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo)
 - Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)]
@@ -17,6 +25,7 @@
 - SCAN: Learning Abstract Hierarchical Compositional Visual Concepts [[arXiv](https://arxiv.org/abs/1707.03389)]
 - Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [[arXiv](https://arxiv.org/abs/1707.02968)]
 - The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously [[arXiv](https://arxiv.org/abs/1707.03300)]
+- Deep Bilateral Learning for Real-Time Image Enhancement [[arXiv]](https://arxiv.org/abs/1707.02880)] [[code](https://github.com/google/hdrnet)] (the code will be available as soon as the authors will init the repo)
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)]
 - Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)]
 - Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)]
@@ -75,6 +84,7 @@
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
 - A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)]
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
+- Neural Message Passing for Quantum Chemistry [[arXiv](https://arxiv.org/abs/1704.01212)]
 - Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
 - Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
 
@@ -88,10 +98,14 @@
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq)]
+- Minimax Regret Bounds for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.05449)]
+- Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
+- Parallel Multiscale Autoregressive Density Estimation [[arXiv](https://arxiv.org/abs/1703.03664)]
 - Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[arXiv](https://arxiv.org/abs/1703.01619)]
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
+- Understanding Synthetic Gradients and Decoupled Neural Interfaces [[arXiv](https://arxiv.org/abs/1703.00522)]
 
 
 #### 2017-02
