@@ -2,7 +2,7 @@
 
 - Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning [[arXiv](https://arxiv.org/abs/1708.02190)]
 - Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]Neural-EM
-- Google Vizier: A Service for Black-Box Optimization [[Research at Google](https://research.google.com/pubs/pub46180.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)]
+- Google Vizier: A Service for Black-Box Optimization [[Research at Google](https://research.google.com/pubs/pub46180.html)]
 - STARDATA: A StarCraft AI Research Dataset [[arXiv](https://arxiv.org/abs/1708.02139)] [[code](https://github.com/TorchCraft/StarData)]
 - Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] (WIP)
 - Natural Language Processing with Small Feed-Forward Networks [[arXiv](https://arxiv.org/abs/1708.00214)]
