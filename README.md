@@ -1,5 +1,7 @@
 #### 2017-08
 
+- Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)] [[code](https://github.com/openai/baselines)]
+- On the Effectiveness of Visible Watermarks [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dekel_On_the_Effectiveness_CVPR_2017_paper.pdf)]
 - Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning [[arXiv](https://arxiv.org/abs/1708.02190)]
 - Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]Neural-EM
 - Google Vizier: A Service for Black-Box Optimization [[Research at Google](https://research.google.com/pubs/pub46180.html)]
