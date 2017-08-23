@@ -1,9 +1,14 @@
 #### 2017-08
 
+- A Brief Survey of Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1708.05866)]
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)] [[code](https://github.com/openai/baselines)]
-- On the Effectiveness of Visible Watermarks [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dekel_On_the_Effectiveness_CVPR_2017_paper.pdf)]
+- On the Effectiveness of Visible Watermarks [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dekel_On_the_Effectiveness_CVPR_2017_paper.pdf)] [[article](https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html)]
+- Practical Network Blocks Design with Q-Learning [[arXiv](https://arxiv.org/abs/1708.05552)]
+- On Ensuring that Intelligent Machines Are Well-Behaved [[arXiv](https://arxiv.org/abs/1708.05448)]
+- Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control [[arXiv](https://arxiv.org/abs/1708.04133)] [[code](https://github.com/Breakend/ReproducibilityInContinuousPolicyGradientMethods)]
+- Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification [[arXiv](https://arxiv.org/abs/1708.03805)] [[article](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/)]
 - Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning [[arXiv](https://arxiv.org/abs/1708.02190)]
-- Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]Neural-EM
+- Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]
 - Google Vizier: A Service for Black-Box Optimization [[Research at Google](https://research.google.com/pubs/pub46180.html)]
 - STARDATA: A StarCraft AI Research Dataset [[arXiv](https://arxiv.org/abs/1708.02139)] [[code](https://github.com/TorchCraft/StarData)]
 - Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] (WIP)
@@ -21,6 +26,7 @@
 - On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
 - Optimizing the Latent Space of Generative Networks [[arXiv](https://arxiv.org/abs/1707.05776)]
 - Neuroscience-Inspired Artificial Intelligence [[Neuron](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317305093%3Fshowall%3Dtrue)]
+- Learning Transferable Architectures for Scalable Image Recognition [[arXiv](https://arxiv.org/abs/1707.07012)]
 - Reverse Curriculum Generation for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.05300)]
 - Imagination-Augmented Agents for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06203)]
 - Learning model-based planning from scratch [[arXiv](https://arxiv.org/abs/1707.06170)]
@@ -308,6 +314,7 @@ Machine Translation & Dialog
 - Neural Net Models for Open-Domain Discourse Coherence [[arXiv](https://arxiv.org/abs/1606.01545)]
 - Neural Architectures for Fine-grained Entity Type Classification [[arXiv](https://arxiv.org/abs/1606.01341)]
 - Matching Networks for One Shot Learning [[arXiv](https://arxiv.org/abs/1606.04080)]
+- Cooperative Inverse Reinforcement Learning [[arXiv](https://arxiv.org/abs/1606.03137)] [[article](http://bair.berkeley.edu/blog/2017/08/17/cooperatively-learning-human-values/)]
 - Gated-Attention Readers for Text Comprehension [[arXiv](http://arxiv.org/abs/1606.01549)]
 - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](notes/e2e-dialog-control-sl-rl.md) [[arXiv](https://arxiv.org/abs/1606.01269)]
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
