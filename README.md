@@ -1,5 +1,8 @@
 #### 2017-08
 
+- Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
+- Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms [[arXiv](https://arxiv.org/abs/1708.07747)] [[code](https://github.com/zalandoresearch/fashion-mnist)]
+- Twin Networks: Using the Future as a Regularizer [[arXiv](https://arxiv.org/abs/1708.06742)]
 - A Brief Survey of Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1708.05866)]
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)] [[code](https://github.com/openai/baselines)]
 - On the Effectiveness of Visible Watermarks [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dekel_On_the_Effectiveness_CVPR_2017_paper.pdf)] [[article](https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html)]
