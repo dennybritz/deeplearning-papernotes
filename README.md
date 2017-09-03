@@ -1,5 +1,9 @@
 #### 2017-08
 
+- Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
+- Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms [[arXiv](https://arxiv.org/abs/1708.07747)] [[code](https://github.com/zalandoresearch/fashion-mnist)]
+- Multi-task Self-Supervised Visual Learning [[arXiv](https://arxiv.org/abs/1708.07860)]
+- Twin Networks: Using the Future as a Regularizer [[arXiv](https://arxiv.org/abs/1708.06742)]
 - A Brief Survey of Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1708.05866)]
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)] [[code](https://github.com/openai/baselines)]
 - On the Effectiveness of Visible Watermarks [[CVPR](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dekel_On_the_Effectiveness_CVPR_2017_paper.pdf)] [[article](https://research.googleblog.com/2017/08/making-visible-watermarks-more-effective.html)]
@@ -62,7 +66,8 @@
 - Hybrid Reward Architecture for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1706.04208)]
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
 - Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)] [[code](https://github.com/facebookresearch/end-to-end-negotiator)] [[article](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)]
-- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)]
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)] [[article](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)]
+- Sobolev Training for Neural Networks [[arXiv](https://arxiv.org/abs/1706.04859)]
 - YellowFin and the Art of Momentum Tuning [[arXiv](https://arxiv.org/abs/1706.03471)] [[code](https://github.com/JianGoForIt/YellowFin)] [[article](http://dawn.cs.stanford.edu/2017/07/05/yellowfin/)]
 - Forward Thinking: Building and Training Neural Networks One Layer at a Time [[arXiv](https://arxiv.org/abs/1706.02480)]
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
@@ -77,6 +82,7 @@
 
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
+- Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
 - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
@@ -119,6 +125,7 @@
 - Large-Scale Evolution of Image Classifiers [[arXiv](https://arxiv.org/abs/1703.01041)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
+- How to Escape Saddle Points Efficiently [[arXiv](https://arxiv.org/abs/1703.00887)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - Understanding Synthetic Gradients and Decoupled Neural Interfaces [[arXiv](https://arxiv.org/abs/1703.00522)]
 
 
@@ -415,6 +422,7 @@ Machine Translation & Dialog
 - Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
 - [WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making](notes/webnav.md) [[arXiv](http://arxiv.org/abs/1602.02261)]
 - [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers](notes/efficient-char-level-document-classification-cnn-rnn.md) [[arXiv](http://arxiv.org/abs/1602.00367)]
+- Gradient Descent Converges to Minimizers [[arXiv](https://arxiv.org/abs/1602.04915)] [[article](http://www.offconvex.org/2016/03/24/saddles-again/)]
 - BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 [[arXiv](http://arxiv.org/abs/1602.02830)]
 - Learning Discriminative Features via Label Consistent Neural Network [[arXiv](http://arxiv.org/abs/1602.01168)]
 
@@ -564,6 +572,7 @@ General
 - [End-To-End Memory Networks](notes/end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
 - [Neural Responding Machine for Short-Text Conversation](notes/neural-responding-machine.md) [[arXiv](http://arxiv.org/abs/1503.02364)]
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](notes/batch-normalization.md) [[arXiv](http://arxiv.org/abs/1502.03167)]
+- Escaping From Saddle Points --- Online Stochastic Gradient for Tensor Decomposition [[arXiv](https://arxiv.org/abs/1503.02101)] [[article](Escaping from Saddle Points)]
 
 
 #### 2015-02
@@ -587,6 +596,8 @@ learning [[Nature](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHass
 - Multiple Object Recognition with Visual Attention [[arXiv](http://arxiv.org/abs/1412.7755)]
 
 #### 2014-11
+
+- The Loss Surfaces of Multilayer Networks [[arXiv](https://arxiv.org/abs/1412.0233)]
 
 #### 2014-10
 
