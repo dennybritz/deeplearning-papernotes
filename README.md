@@ -7,6 +7,7 @@
 - Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
 - Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms [[arXiv](https://arxiv.org/abs/1708.07747)] [[code](https://github.com/zalandoresearch/fashion-mnist)]
 - Multi-task Self-Supervised Visual Learning [[arXiv](https://arxiv.org/abs/1708.07860)]
+- Learning a Multi-View Stereo Machine [[arXiv](https://arxiv.org/abs/1708.05375)] [[article](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/)]
 - Twin Networks: Using the Future as a Regularizer [[arXiv](https://arxiv.org/abs/1708.06742)]
 - A Brief Survey of Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1708.05866)]
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)] [[code](https://github.com/openai/baselines)]
