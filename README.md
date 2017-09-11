@@ -1,8 +1,17 @@
+#### 2017-09
+
+- A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
+
 #### 2017-08
 
+- Design and Analysis of the NIPS 2016 Review Process [[arXiv](https://arxiv.org/abs/1708.09794)]
+- Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1708.08842)] [[article](http://www.symmetrymagazine.org/article/neural-networks-meet-space)]
+- Automated Crowdturfing Attacks and Defenses in Online Review Systems [[arXiv](https://arxiv.org/abs/1708.08151)]
+- Deep Learning for Video Game Playing [[arXiv](https://arxiv.org/abs/1708.07902)]
 - Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
 - Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms [[arXiv](https://arxiv.org/abs/1708.07747)] [[code](https://github.com/zalandoresearch/fashion-mnist)]
 - Multi-task Self-Supervised Visual Learning [[arXiv](https://arxiv.org/abs/1708.07860)]
+- Learning a Multi-View Stereo Machine [[arXiv](https://arxiv.org/abs/1708.05375)] [[article](http://bair.berkeley.edu/blog/2017/09/05/unified-3d/)] [[code]()] (soon)
 - Twin Networks: Using the Future as a Regularizer [[arXiv](https://arxiv.org/abs/1708.06742)]
 - A Brief Survey of Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1708.05866)]
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation [[arXiv](https://arxiv.org/abs/1708.05144)] [[code](https://github.com/openai/baselines)]
@@ -10,6 +19,7 @@
 - Practical Network Blocks Design with Q-Learning [[arXiv](https://arxiv.org/abs/1708.05552)]
 - On Ensuring that Intelligent Machines Are Well-Behaved [[arXiv](https://arxiv.org/abs/1708.05448)]
 - Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control [[arXiv](https://arxiv.org/abs/1708.04133)] [[code](https://github.com/Breakend/ReproducibilityInContinuousPolicyGradientMethods)]
+- Training Deep AutoEncoders for Collaborative Filtering [[arXiv](https://arxiv.org/abs/1708.01715)] [[code](https://github.com/NVIDIA/DeepRecommender)]
 - Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification [[arXiv](https://arxiv.org/abs/1708.03805)] [[article](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/)]
 - Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning [[arXiv](https://arxiv.org/abs/1708.02190)]
 - Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]
