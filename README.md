@@ -1,11 +1,13 @@
 #### 2017-09
 
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
+- Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
 
 #### 2017-08
 
 - Design and Analysis of the NIPS 2016 Review Process [[arXiv](https://arxiv.org/abs/1708.09794)]
 - Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1708.08842)] [[article](http://www.symmetrymagazine.org/article/neural-networks-meet-space)]
+- TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow [[white paper](https://drive.google.com/file/d/0B20Yn-GSaVHGMVlPanRTRlNIRlk/view)] [[code](https://github.com/tensorflow/agents)]
 - Automated Crowdturfing Attacks and Defenses in Online Review Systems [[arXiv](https://arxiv.org/abs/1708.08151)]
 - Deep Learning for Video Game Playing [[arXiv](https://arxiv.org/abs/1708.07902)]
 - Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
@@ -25,7 +27,7 @@
 - Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]
 - Google Vizier: A Service for Black-Box Optimization [[Research at Google](https://research.google.com/pubs/pub46180.html)]
 - STARDATA: A StarCraft AI Research Dataset [[arXiv](https://arxiv.org/abs/1708.02139)] [[code](https://github.com/TorchCraft/StarData)]
-- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] (WIP) [[article](https://www.media.mit.edu/posts/what-can-we-learn-from-emojis/)]
+- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] [[article](https://www.media.mit.edu/posts/what-can-we-learn-from-emojis/)]
 - Natural Language Processing with Small Feed-Forward Networks [[arXiv](https://arxiv.org/abs/1708.00214)]
 
 #### 2017-07
@@ -34,7 +36,7 @@
 - StarCraft II: A New Challenge for Reinforcement Learning [[DeepMind Documents](https://deepmind.com/documents/110/sc2le.pdf)] [[code](https://github.com/deepmind/pysc2)] [[article](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)]
 - Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards [[arXiv](https://arxiv.org/abs/1707.08817)]
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
-- Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo) [[article](https://ytaigman.github.io/loop/)]
+- Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/facebookresearch/loop)] [[article](https://ytaigman.github.io/loop/)]
 - Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)] [[article](https://research.googleblog.com/2017/07/expressions-in-virtual-reality.html)]
 - A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)] [[article](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/)]
 - On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
