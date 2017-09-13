@@ -342,6 +342,7 @@ Machine Translation & Dialog
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
 - Memory-enhanced Decoder for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.02003)]
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
+- Learning to Optimize [[arXiv](https://arxiv.org/abs/1606.01885)] [[article](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)]
 - [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
