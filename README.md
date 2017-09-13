@@ -140,6 +140,7 @@
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
 - How to Escape Saddle Points Efficiently [[arXiv](https://arxiv.org/abs/1703.00887)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - Understanding Synthetic Gradients and Decoupled Neural Interfaces [[arXiv](https://arxiv.org/abs/1703.00522)]
+- Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)] [[article](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)]
 
 
 #### 2017-02
