@@ -98,7 +98,7 @@
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
-- Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
+- Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)] [[code](https://github.com/deepmind/kinetics-i3d)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)] [[article](https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/)]
 - The Kinetics Human Action Video Dataset [[arXiv](https://arxiv.org/abs/1705.06950)] [[article](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)]
 - Safe and Nested Subgame Solving for Imperfect-Information Games [[arXiv](https://arxiv.org/abs/1705.02955)]
