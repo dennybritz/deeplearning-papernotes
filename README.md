@@ -131,6 +131,7 @@
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq)]
+- Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arXiv](https://arxiv.org/abs/1703.07834)] [[article](http://aaronsplace.co.uk/papers/jackson2017recon/)] [[code](https://github.com/AaronJackson/vrn)]
 - Minimax Regret Bounds for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.05449)]
 - Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
 - Parallel Multiscale Autoregressive Density Estimation [[arXiv](https://arxiv.org/abs/1703.03664)]
