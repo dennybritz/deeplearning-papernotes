@@ -1,5 +1,6 @@
 #### 2017-09
 
+- Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
 - Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
 
