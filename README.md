@@ -86,7 +86,7 @@
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - Parameter Space Noise for Exploration [[arXiv](https://arxiv.org/abs/1706.01905)] [[code](https://github.com/openai/baselines)] [[article](https://blog.openai.com/better-exploration-with-parameter-noise/)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)] [[article](https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/)]
-- Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
+- Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)] [[code](https://github.com/bioinf-jku/SNNs)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)] [[article](https://deepmind.com/blog/neural-approach-relational-reasoning/)]
 - Visual Interaction Networks [[arXiv](https://arxiv.org/abs/1706.01433)] [[article](https://deepmind.com/blog/neural-approach-relational-reasoning/)]
