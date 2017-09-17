@@ -1,11 +1,14 @@
 #### 2017-09
 
+- Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
+- Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
 
 #### 2017-08
 
 - Design and Analysis of the NIPS 2016 Review Process [[arXiv](https://arxiv.org/abs/1708.09794)]
 - Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1708.08842)] [[article](http://www.symmetrymagazine.org/article/neural-networks-meet-space)]
+- TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow [[white paper](https://drive.google.com/file/d/0B20Yn-GSaVHGMVlPanRTRlNIRlk/view)] [[code](https://github.com/tensorflow/agents)]
 - Automated Crowdturfing Attacks and Defenses in Online Review Systems [[arXiv](https://arxiv.org/abs/1708.08151)]
 - Deep Learning for Video Game Playing [[arXiv](https://arxiv.org/abs/1708.07902)]
 - Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
@@ -25,7 +28,7 @@
 - Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]
 - Google Vizier: A Service for Black-Box Optimization [[Research at Google](https://research.google.com/pubs/pub46180.html)]
 - STARDATA: A StarCraft AI Research Dataset [[arXiv](https://arxiv.org/abs/1708.02139)] [[code](https://github.com/TorchCraft/StarData)]
-- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] (WIP) [[article](https://www.media.mit.edu/posts/what-can-we-learn-from-emojis/)]
+- Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm [[arXiv](https://arxiv.org/abs/1708.00524)] [[code](https://github.com/bfelbo/deepmoji)] [[article](https://www.media.mit.edu/posts/what-can-we-learn-from-emojis/)]
 - Natural Language Processing with Small Feed-Forward Networks [[arXiv](https://arxiv.org/abs/1708.00214)]
 
 #### 2017-07
@@ -34,7 +37,7 @@
 - StarCraft II: A New Challenge for Reinforcement Learning [[DeepMind Documents](https://deepmind.com/documents/110/sc2le.pdf)] [[code](https://github.com/deepmind/pysc2)] [[article](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)]
 - Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards [[arXiv](https://arxiv.org/abs/1707.08817)]
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
-- Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/ytaigman/loop)] (the code will be available as soon as the authors will init the repo) [[article](https://ytaigman.github.io/loop/)]
+- Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/facebookresearch/loop)] [[article](https://ytaigman.github.io/loop/)]
 - Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)] [[article](https://research.googleblog.com/2017/07/expressions-in-virtual-reality.html)]
 - A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)] [[article](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/)]
 - On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
@@ -83,7 +86,7 @@
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - Parameter Space Noise for Exploration [[arXiv](https://arxiv.org/abs/1706.01905)] [[code](https://github.com/openai/baselines)] [[article](https://blog.openai.com/better-exploration-with-parameter-noise/)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)] [[article](https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/)]
-- Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)]
+- Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)] [[code](https://github.com/bioinf-jku/SNNs)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)] [[article](https://deepmind.com/blog/neural-approach-relational-reasoning/)]
 - Visual Interaction Networks [[arXiv](https://arxiv.org/abs/1706.01433)] [[article](https://deepmind.com/blog/neural-approach-relational-reasoning/)]
@@ -94,8 +97,9 @@
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
 - Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
+- Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
-- Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)]
+- Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arXiv](https://arxiv.org/abs/1705.07750)] [[code](https://github.com/deepmind/kinetics-i3d)]
 - Convolutional Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1705.03122)] [[code](https://github.com/facebookresearch/fairseq)] [[article](https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/)]
 - The Kinetics Human Action Video Dataset [[arXiv](https://arxiv.org/abs/1705.06950)] [[article](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)]
 - Safe and Nested Subgame Solving for Imperfect-Information Games [[arXiv](https://arxiv.org/abs/1705.02955)]
@@ -128,6 +132,7 @@
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq)]
+- Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arXiv](https://arxiv.org/abs/1703.07834)] [[article](http://aaronsplace.co.uk/papers/jackson2017recon/)] [[code](https://github.com/AaronJackson/vrn)]
 - Minimax Regret Bounds for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.05449)]
 - Sharp Minima Can Generalize For Deep Nets [[arXiv](https://arxiv.org/abs/1703.04933)]
 - Parallel Multiscale Autoregressive Density Estimation [[arXiv](https://arxiv.org/abs/1703.03664)]
@@ -137,6 +142,7 @@
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
 - How to Escape Saddle Points Efficiently [[arXiv](https://arxiv.org/abs/1703.00887)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - Understanding Synthetic Gradients and Decoupled Neural Interfaces [[arXiv](https://arxiv.org/abs/1703.00522)]
+- Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)] [[article](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)]
 
 
 #### 2017-02
@@ -339,6 +345,7 @@ Machine Translation & Dialog
 - Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
 - Memory-enhanced Decoder for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.02003)]
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
+- Learning to Optimize [[arXiv](https://arxiv.org/abs/1606.01885)] [[article](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)]
 - [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
