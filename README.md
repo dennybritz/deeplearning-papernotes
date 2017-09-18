@@ -1,5 +1,7 @@
 #### 2017-09
 
+- StarSpace: Embed All The Things! [[arXiv](https://arxiv.org/abs/1709.03856)] [[code](https://github.com/facebookresearch/Starspace)]
+- A Brief Introduction to Machine Learning for Engineers [[arXiv](https://arxiv.org/abs/1709.02840)]
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
 - Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
@@ -77,6 +79,7 @@
 - Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics [[arXiv](https://arxiv.org/abs/1706.04317)]
 - One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)] [[code](https://github.com/tensorflow/tensor2tensor)] [[article](https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html)]
 - Hybrid Reward Architecture for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1706.04208)]
+- Expected Policy Gradients [[arXiv](https://arxiv.org/abs/1706.05374)]
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1706.04987)]
 - Deal or No Deal? End-to-End Learning for Negotiation Dialogues [[S3AWS](https://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)] [[code](https://github.com/facebookresearch/end-to-end-negotiator)] [[article](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)]
 - Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)] [[code](https://github.com/tensorflow/tensor2tensor)] [[article](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)]
@@ -95,6 +98,7 @@
 
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
+- Dilated Residual Networks [[arXiv](https://arxiv.org/abs/1705.09914)] [[code](https://github.com/fyu/drn)]
 - Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
@@ -512,6 +516,7 @@ Vision
 - ReSeg: A Recurrent Neural Network for Object Segmentation [[arXiv](http://arxiv.org/abs/1511.07053)]
 - Deconstructing the Ladder Network Architecture [[arXiv](http://arxiv.org/abs/1511.06430)]
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv](http://arxiv.org/abs/1511.06434)]
+- Multi-Scale Context Aggregation by Dilated Convolutions [[arXiv](https://arxiv.org/abs/1511.07122)] [[code](https://github.com/fyu/drn)]
 
 General
 
@@ -522,8 +527,6 @@ General
 - A Roadmap towards Machine Intelligence [[arXiv](http://arxiv.org/abs/1511.08130)]
 - Session-based Recommendations with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06939)]
 - Regularizing RNNs by Stabilizing Activations [[arXiv](http://arxiv.org/abs/1511.08400)]
-
-
 
 
 #### 2015-10
