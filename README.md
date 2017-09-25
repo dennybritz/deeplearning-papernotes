@@ -1,5 +1,6 @@
 #### 2017-09
 
+- Variational Memory Addressing in Generative Models [[arXiv](https://arxiv.org/abs/1709.07116)]
 - StarSpace: Embed All The Things! [[arXiv](https://arxiv.org/abs/1709.03856)] [[code](https://github.com/facebookresearch/Starspace)]
 - A Brief Introduction to Machine Learning for Engineers [[arXiv](https://arxiv.org/abs/1709.02840)]
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
