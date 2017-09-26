@@ -97,6 +97,7 @@
 
 #### 2017-05
 
+- pix2code: Generating Code from a Graphical User Interface Screenshot [[arXiv](https://arxiv.org/abs/1705.07962)] [[article](https://uizard.io/research#pix2code)] [[code](https://github.com/tonybeltramelli/pix2code)]
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
 - Dilated Residual Networks [[arXiv](https://arxiv.org/abs/1705.09914)] [[code](https://github.com/fyu/drn)]
