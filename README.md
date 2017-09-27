@@ -7,6 +7,7 @@
 - Matterport3D: Learning from RGB-D Data in Indoor Environments [[arXiv](https://arxiv.org/abs/1709.06158)] [[article](https://niessner.github.io/Matterport/)] [[article2](https://hackernoon.com/announcing-the-matterport3d-research-dataset-815cae932939)] [[code](https://github.com/niessner/Matterport)]
 - Deep Reinforcement Learning that Matters [[arXiv](https://arxiv.org/abs/1709.06560)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - The Uncertainty Bellman Equation and Exploration [[arXiv](https://arxiv.org/abs/1709.05380)]
+- Globally Normalized Reader [[arXiv](https://arxiv.org/abs/1709.02828)] [[article](http://research.baidu.com/gnr/)] [[code](https://github.com/baidu-research/GloballyNormalizedReader)]
 - A Brief Introduction to Machine Learning for Engineers [[arXiv](https://arxiv.org/abs/1709.02840)]
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
