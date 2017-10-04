@@ -1,12 +1,17 @@
 #### 2017-10
 
+- Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
 - The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
 
 #### 2017-09
 
 - Variational Memory Addressing in Generative Models [[arXiv](https://arxiv.org/abs/1709.07116)]
+- Overcoming Exploration in Reinforcement Learning with Demonstrations [[arXiv](https://arxiv.org/abs/1709.10089)]
+- A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement [[arXiv](https://arxiv.org/abs/1709.08243)] [[article](https://people.xiph.org/~jm/demo/rnnoise/)] [[code](https://github.com/xiph/rnnoise/)]
 - ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on
 Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CVF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)] [[article](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)] [[dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC)]
+- Generating Sentences by Editing Prototypes [[arXiv](https://arxiv.org/abs/1709.08878)] [[code](https://github.com/kelvinguu/neural-editor)]
+- The Consciousness Prior [[arXiv](https://arxiv.org/abs/1709.08568)]
 - StarSpace: Embed All The Things! [[arXiv](https://arxiv.org/abs/1709.03856)] [[code](https://github.com/facebookresearch/Starspace)]
 - Neural Optimizer Search with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1709.07417)]
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)]
