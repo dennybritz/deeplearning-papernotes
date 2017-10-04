@@ -1,3 +1,7 @@
+#### 2017-10
+
+- The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
+
 #### 2017-09
 
 - Variational Memory Addressing in Generative Models [[arXiv](https://arxiv.org/abs/1709.07116)]
