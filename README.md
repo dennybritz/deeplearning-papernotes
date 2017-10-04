@@ -5,9 +5,12 @@
 #### 2017-09
 
 - Variational Memory Addressing in Generative Models [[arXiv](https://arxiv.org/abs/1709.07116)]
+- ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on
+Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CVF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)] [[article](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)] [[dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC)]
 - StarSpace: Embed All The Things! [[arXiv](https://arxiv.org/abs/1709.03856)] [[code](https://github.com/facebookresearch/Starspace)]
 - Neural Optimizer Search with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1709.07417)]
 - Dynamic Evaluation of Neural Sequence Models [[arXiv](https://arxiv.org/abs/1709.07432)]
+- Neural Machine Translation [[arXiv](https://arxiv.org/abs/1709.07809)]
 - Matterport3D: Learning from RGB-D Data in Indoor Environments [[arXiv](https://arxiv.org/abs/1709.06158)] [[article](https://niessner.github.io/Matterport/)] [[article2](https://hackernoon.com/announcing-the-matterport3d-research-dataset-815cae932939)] [[code](https://github.com/niessner/Matterport)]
 - Deep Reinforcement Learning that Matters [[arXiv](https://arxiv.org/abs/1709.06560)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - The Uncertainty Bellman Equation and Exploration [[arXiv](https://arxiv.org/abs/1709.05380)]
@@ -52,7 +55,7 @@
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
 - Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/facebookresearch/loop)] [[article](https://ytaigman.github.io/loop/)]
 - Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)] [[article](https://research.googleblog.com/2017/07/expressions-in-virtual-reality.html)]
-- A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)] [[article](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/)]
+- A Distributional Perspective on Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.06887)] [[article](https://deepmind.com/blog/going-beyond-average-reinforcement-learning/)] [[video](https://vimeo.com/235922311)]
 - On the State of the Art of Evaluation in Neural Language Models [[arXiv](https://arxiv.org/abs/1707.05589)]
 - Optimizing the Latent Space of Generative Networks [[arXiv](https://arxiv.org/abs/1707.05776)]
 - Neuroscience-Inspired Artificial Intelligence [[Neuron](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317305093%3Fshowall%3Dtrue)] [[article](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)]
