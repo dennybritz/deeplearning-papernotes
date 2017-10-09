@@ -1,5 +1,6 @@
 #### 2017-10
 
+- Lifelong Learning With Dynamically Expandable Networks [[article](https://arxiv.org/abs/1708.01547)]
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
 - The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
 
