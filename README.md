@@ -1,6 +1,8 @@
 #### 2017-10
 
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
+- Neural Task Programming: Learning to Generalize Across Hierarchical Tasks [[arXiv](https://arxiv.org/abs/1710.01813)]
+- Neural Color Transfer between Images [[arXiv](https://arxiv.org/abs/1710.00756)]
 - The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
 
 #### 2017-09
