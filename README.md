@@ -1,5 +1,6 @@
 #### 2017-10
 
+- Deep Lattice Networks and Partial Monotonic Functions [[Research at Google](https://research.google.com/pubs/pub46327.html)] [[article](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)] [[code](https://github.com/tensorflow/lattice)]
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
 - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks [[arXiv](https://arxiv.org/abs/1710.01813)]
 - Neural Color Transfer between Images [[arXiv](https://arxiv.org/abs/1710.00756)]
