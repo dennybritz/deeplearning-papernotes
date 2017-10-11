@@ -274,6 +274,7 @@ Machine Translation & Dialog
 #### 2016-10
 
 - Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)] [[code](https://github.com/deepmind/dnc)]
+- Quantum Machine Learning [[arXiv](https://arxiv.org/abs/1611.09347)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 - Universal adversarial perturbations [[arXiv](https://arxiv.org/abs/1610.08401)] [[code](https://github.com/LTS4/universal)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)] [[code](https://github.com/tensorflow/tensor2tensor)]
