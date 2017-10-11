@@ -26,6 +26,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
 - Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
+- Efficient Methods and Hardware for Deep Learning (Thesis) [[Stanford Digital Repository](https://purl.stanford.edu/qf934gh3708)]
 
 #### 2017-08
 
