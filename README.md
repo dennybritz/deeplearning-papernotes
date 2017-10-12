@@ -1,5 +1,6 @@
 #### 2017-10
 
+- Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
 - Emergent Complexity via Multi-Agent Competition [[arXiv](https://arxiv.org/abs/1710.03748)] [[article](https://blog.openai.com/competitive-self-play/)] [[code](https://github.com/openai/multiagent-competition)]
 - Deep Lattice Networks and Partial Monotonic Functions [[Research at Google](https://research.google.com/pubs/pub46327.html)] [[article](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)] [[code](https://github.com/tensorflow/lattice)]
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
