@@ -1,5 +1,6 @@
 #### 2017-10
 
+<<<<<<< HEAD
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
 - Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
 - Emergent Complexity via Multi-Agent Competition [[arXiv](https://arxiv.org/abs/1710.03748)] [[article](https://blog.openai.com/competitive-self-play/)] [[code](https://github.com/openai/multiagent-competition)]
