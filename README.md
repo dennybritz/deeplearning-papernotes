@@ -176,6 +176,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
 - How to Escape Saddle Points Efficiently [[arXiv](https://arxiv.org/abs/1703.00887)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
+- Opening the Black Box of Deep Neural Networks via Information [[arXiv](https://arxiv.org/abs/1703.00810)] [[video](https://youtu.be/bLqJHjXihK8)]
 - Understanding Synthetic Gradients and Decoupled Neural Interfaces [[arXiv](https://arxiv.org/abs/1703.00522)]
 - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)] [[article](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)]
 
