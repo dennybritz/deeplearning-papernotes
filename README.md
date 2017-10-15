@@ -1,8 +1,14 @@
 #### 2017-10
 
+- Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
+- Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
+- Emergent Complexity via Multi-Agent Competition [[arXiv](https://arxiv.org/abs/1710.03748)] [[article](https://blog.openai.com/competitive-self-play/)] [[code](https://github.com/openai/multiagent-competition)]
+- Deep Lattice Networks and Partial Monotonic Functions [[Research at Google](https://research.google.com/pubs/pub46327.html)] [[article](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)] [[code](https://github.com/tensorflow/lattice)]
 - Rainbow: Combining Improvements in Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1710.02298)]
 - Lifelong Learning With Dynamically Expandable Networks [[arXiv](https://arxiv.org/abs/1708.01547)]
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
+- Neural Task Programming: Learning to Generalize Across Hierarchical Tasks [[arXiv](https://arxiv.org/abs/1710.01813)]
+- Neural Color Transfer between Images [[arXiv](https://arxiv.org/abs/1710.00756)]
 - The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
 
 #### 2017-09
@@ -26,6 +32,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
 - Squeeze-and-Excitation Networks [[arXiv](https://arxiv.org/abs/1709.01507)]
+- Efficient Methods and Hardware for Deep Learning (Thesis) [[Stanford Digital Repository](https://purl.stanford.edu/qf934gh3708)]
 
 #### 2017-08
 
@@ -46,6 +53,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - On Ensuring that Intelligent Machines Are Well-Behaved [[arXiv](https://arxiv.org/abs/1708.05448)]
 - Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control [[arXiv](https://arxiv.org/abs/1708.04133)] [[code](https://github.com/Breakend/ReproducibilityInContinuousPolicyGradientMethods)]
 - Training Deep AutoEncoders for Collaborative Filtering [[arXiv](https://arxiv.org/abs/1708.01715)] [[code](https://github.com/NVIDIA/DeepRecommender)]
+- Learning to Perform a Perched Landing on the GroundUsing Deep Reinforcement Learning [[nature](https://link.springer.com/epdf/10.1007/s10846-017-0696-1?author_access_token=BEvJgzY3QauUddBuQAus2ve4RwlQNchNByi7wbcMAY5xhRRqI6HVNnXt8Pgp850SnuV5ue6mUo3Jc7FIP5FgLmqk34Wob3oqyuGtkg7E_1T0dg02IYhfY-3dvb8R9zEmaGzTogYCIXm4O4vZ_tSGnA%3D%3D)]
 - Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification [[arXiv](https://arxiv.org/abs/1708.03805)] [[article](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/)]
 - Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning [[arXiv](https://arxiv.org/abs/1708.02190)]
 - Neural Expectation Maximization [[arXiv](https://arxiv.org/abs/1708.03498)] [[code](https://github.com/sjoerdvansteenkiste/)]
@@ -59,6 +67,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Photographic Image Synthesis with Cascaded Refinement Networks [[arXiv](https://arxiv.org/abs/1707.09405)] [[code](https://github.com/CQFIO/PhotographicImageSynthesis)]
 - StarCraft II: A New Challenge for Reinforcement Learning [[DeepMind Documents](https://deepmind.com/documents/110/sc2le.pdf)] [[code](https://github.com/deepmind/pysc2)] [[article](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)]
 - Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards [[arXiv](https://arxiv.org/abs/1707.08817)]
+- Reinforcement Learning with Deep Energy-Based Policies [[arXiv](https://arxiv.org/abs/1702.08165)] [[article](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/)] [[code](https://github.com/haarnoja/softqlearning)]
 - DARLA: Improving Zero-Shot Transfer in Reinforcement Learning [[arXiv](https://arxiv.org/abs/1707.08475)]
 - Voice Synthesis for in-the-Wild Speakers via a Phonological Loop [[arXiv](https://arxiv.org/abs/1707.06588)] [[code](https://github.com/facebookresearch/loop)] [[article](https://ytaigman.github.io/loop/)]
 - Eyemotion: Classifying facial expressions in VR using eye-tracking cameras [[arXiv](https://arxiv.org/abs/1707.07204)] [[article](https://research.googleblog.com/2017/07/expressions-in-virtual-reality.html)]
@@ -167,6 +176,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161)]
 - Evolving Deep Neural Networks [[arXiv](https://arxiv.org/abs/1703.00548)]
 - How to Escape Saddle Points Efficiently [[arXiv](https://arxiv.org/abs/1703.00887)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
+- Opening the Black Box of Deep Neural Networks via Information [[arXiv](https://arxiv.org/abs/1703.00810)] [[video](https://youtu.be/bLqJHjXihK8)]
 - Understanding Synthetic Gradients and Decoupled Neural Interfaces [[arXiv](https://arxiv.org/abs/1703.00522)]
 - Learning to Optimize Neural Nets [[arXiv](https://arxiv.org/abs/1703.00441)] [[article](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)]
 
@@ -272,6 +282,7 @@ Machine Translation & Dialog
 #### 2016-10
 
 - Hybrid computing using a neural network with dynamic external memory [[nature](https://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz)] [[code](https://github.com/deepmind/dnc)]
+- Quantum Machine Learning [[arXiv](https://arxiv.org/abs/1611.09347)]
 - Understanding deep learning requires rethinking generalization [[arXiv](https://arxiv.org/abs/1611.03530)]
 - Universal adversarial perturbations [[arXiv](https://arxiv.org/abs/1610.08401)] [[code](https://github.com/LTS4/universal)]
 - [Neural Machine Translation in Linear Time](notes/nmt-linear-time.md) [[arXiv](https://arxiv.org/abs/1610.10099)] [[code](https://github.com/tensorflow/tensor2tensor)]
