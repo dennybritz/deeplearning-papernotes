@@ -1,5 +1,6 @@
 #### 2017-10
 
+-  Mastering the game of Go without Human Knowledge [[article](https://deepmind.com/blog/alphago-zero-learning-scratch/)] [[DeepMind-paper-direct-download](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)]
 - Swish: a Self-Gated Activation Function [[arXiv](https://arxiv.org/abs/1710.05941)]
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
 - Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
