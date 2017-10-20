@@ -1,5 +1,6 @@
 #### 2017-10
 
+- AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [[arXiv](https://arxiv.org/abs/1705.08421)] [[article](https://research.googleblog.com/2017/10/announcing-ava-finely-labeled-video.html)] [[dataset](https://research.google.com/ava/)]
 -  Mastering the game of Go without Human Knowledge [[Nature](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)] [[article](https://deepmind.com/blog/alphago-zero-learning-scratch/)]
 - Swish: a Self-Gated Activation Function [[arXiv](https://arxiv.org/abs/1710.05941)]
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
