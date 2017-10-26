@@ -1,8 +1,14 @@
 #### 2017-10
 
+- Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
 - AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [[arXiv](https://arxiv.org/abs/1705.08421)] [[article](https://research.googleblog.com/2017/10/announcing-ava-finely-labeled-video.html)] [[dataset](https://research.google.com/ava/)]
 -  Mastering the game of Go without Human Knowledge [[Nature](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)] [[article](https://deepmind.com/blog/alphago-zero-learning-scratch/)]
+-  Sim-to-Real Transfer of Robotic Control with Dynamics Randomization [[arXiv](https://arxiv.org/abs/1710.06537)] [[article](https://blog.openai.com/generalizing-from-simulation/)]
+-  Asymmetric Actor Critic for Image-Based Robot Learning [[arXiv](https://arxiv.org/abs/1710.06542)] [[article](https://blog.openai.com/generalizing-from-simulation/)]
+-  A systematic study of the class imbalance problem in convolutional neural networks [[arXiv](https://arxiv.org/abs/1710.05381)]
+-  Generalization in Deep Learning [[arXiv](https://arxiv.org/abs/1710.05468)]
 - Swish: a Self-Gated Activation Function [[arXiv](https://arxiv.org/abs/1710.05941)]
+- Emergent Translation in Multi-Agent Communication [[arXiv](https://arxiv.org/abs/1710.06922)]
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
 - Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
 - Emergent Complexity via Multi-Agent Competition [[arXiv](https://arxiv.org/abs/1710.03748)] [[article](https://blog.openai.com/competitive-self-play/)] [[code](https://github.com/openai/multiagent-competition)]
