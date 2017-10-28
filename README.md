@@ -1,5 +1,7 @@
 #### 2017-10
 
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
+- Meta Learning Shared Hierarchies [[arXiv](https://arxiv.org/abs/1710.09767)] [[article](https://blog.openai.com/learning-a-hierarchy/)] [[code](https://github.com/openai/mlsh)]
 - Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
 - AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [[arXiv](https://arxiv.org/abs/1705.08421)] [[article](https://research.googleblog.com/2017/10/announcing-ava-finely-labeled-video.html)] [[dataset](https://research.google.com/ava/)]
 -  Mastering the game of Go without Human Knowledge [[Nature](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)] [[article](https://deepmind.com/blog/alphago-zero-learning-scratch/)]
