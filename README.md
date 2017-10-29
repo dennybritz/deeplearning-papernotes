@@ -1,9 +1,21 @@
 #### 2017-10
 
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
+- Meta Learning Shared Hierarchies [[arXiv](https://arxiv.org/abs/1710.09767)] [[article](https://blog.openai.com/learning-a-hierarchy/)] [[code](https://github.com/openai/mlsh)]
+- Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
+- AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions [[arXiv](https://arxiv.org/abs/1705.08421)] [[article](https://research.googleblog.com/2017/10/announcing-ava-finely-labeled-video.html)] [[dataset](https://research.google.com/ava/)]
+-  Mastering the game of Go without Human Knowledge [[Nature](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)] [[article](https://deepmind.com/blog/alphago-zero-learning-scratch/)]
+-  Sim-to-Real Transfer of Robotic Control with Dynamics Randomization [[arXiv](https://arxiv.org/abs/1710.06537)] [[article](https://blog.openai.com/generalizing-from-simulation/)]
+-  Asymmetric Actor Critic for Image-Based Robot Learning [[arXiv](https://arxiv.org/abs/1710.06542)] [[article](https://blog.openai.com/generalizing-from-simulation/)]
+-  A systematic study of the class imbalance problem in convolutional neural networks [[arXiv](https://arxiv.org/abs/1710.05381)]
+-  Generalization in Deep Learning [[arXiv](https://arxiv.org/abs/1710.05468)]
+- Swish: a Self-Gated Activation Function [[arXiv](https://arxiv.org/abs/1710.05941)]
+- Emergent Translation in Multi-Agent Communication [[arXiv](https://arxiv.org/abs/1710.06922)]
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
 - Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
 - Emergent Complexity via Multi-Agent Competition [[arXiv](https://arxiv.org/abs/1710.03748)] [[article](https://blog.openai.com/competitive-self-play/)] [[code](https://github.com/openai/multiagent-competition)]
 - Deep Lattice Networks and Partial Monotonic Functions [[Research at Google](https://research.google.com/pubs/pub46327.html)] [[article](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)] [[code](https://github.com/tensorflow/lattice)]
+- The IIT Bombay English-Hindi Parallel Corpus [[arXiv](https://arxiv.org/abs/1710.02855)] [[article](http://www.cfilt.iitb.ac.in/iitb_parallel/)]
 - Rainbow: Combining Improvements in Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1710.02298)]
 - Lifelong Learning With Dynamically Expandable Networks [[arXiv](https://arxiv.org/abs/1708.01547)]
 - Variational Inference & Deep Learning: A New Synthesis (Thesis) [[dropbox](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf)]
@@ -119,6 +131,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Depthwise Separable Convolutions for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1706.03059)] [[code](https://github.com/tensorflow/tensor2tensor)]
 - Parameter Space Noise for Exploration [[arXiv](https://arxiv.org/abs/1706.01905)] [[code](https://github.com/openai/baselines)] [[article](https://blog.openai.com/better-exploration-with-parameter-noise/)]
 - Deep Reinforcement Learning from human preferences [[arXiv](https://arxiv.org/abs/1706.03741)] [[article](https://blog.openai.com/deep-reinforcement-learning-from-human-preferences/)]
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments [[arXiv](https://arxiv.org/abs/1706.02275)] [[code](https://github.com/openai/multiagent-particle-envs)]
 - Self-Normalizing Neural Networks [[arXiv](https://arxiv.org/abs/1706.02515)] [[code](https://github.com/bioinf-jku/SNNs)]
 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[arXiv](https://arxiv.org/abs/1706.02677)]
 - A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427)] [[article](https://deepmind.com/blog/neural-approach-relational-reasoning/)]
@@ -154,7 +167,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Hierarchical Surface Prediction for 3D Object Reconstruction [[arXiv](https://arxiv.org/abs/1704.00710)] [[article](http://bair.berkeley.edu/blog/2017/08/23/high-quality-3d-obj-reconstruction/)]
 - Neural Message Passing for Quantum Chemistry [[arXiv](https://arxiv.org/abs/1704.01212)]
-- Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)]
+- Learning to Generate Reviews and Discovering Sentiment [[arXiv](https://arxiv.org/abs/1704.01444)] [[code](https://github.com/openai/generating-reviews-discovering-sentiment)]
 - Best Practices for Applying Deep Learning to Novel Applications [[arXiv](https://arxiv.org/abs/1704.01568)]
 
 #### 2017-03
