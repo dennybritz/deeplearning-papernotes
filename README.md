@@ -1,5 +1,6 @@
 #### 2017-10
 
+- Unsupervised Machine Translation Using Monolingual Corpora Only [[arXiv](https://arxiv.org/abs/1711.00043)]
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
 - A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs [[Science](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)] [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)] [[code](https://github.com/vicariousinc/science_rcn)]
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
