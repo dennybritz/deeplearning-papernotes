@@ -1,5 +1,7 @@
 #### 2017-11
 
+- A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
+- Don't Decay the Learning Rate, Increase the Batch Size [[arXiv(https://arxiv.org/abs/1711.00489)]]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 
 #### 2017-10
