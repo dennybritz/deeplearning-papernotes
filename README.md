@@ -8,7 +8,6 @@
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
 - A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs [[Science](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)] [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)] [[code](https://github.com/vicariousinc/science_rcn)]
 - Understanding Grounded Language Learning Agents [[arXiv](https://arxiv.org/abs/1710.09867)]
-- 
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
 - Meta Learning Shared Hierarchies [[arXiv](https://arxiv.org/abs/1710.09767)] [[article](https://blog.openai.com/learning-a-hierarchy/)] [[code](https://github.com/openai/mlsh)]
 - Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
@@ -49,6 +48,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Matterport3D: Learning from RGB-D Data in Indoor Environments [[arXiv](https://arxiv.org/abs/1709.06158)] [[article](https://niessner.github.io/Matterport/)] [[article2](https://hackernoon.com/announcing-the-matterport3d-research-dataset-815cae932939)] [[code](https://github.com/niessner/Matterport)]
 - Deep Reinforcement Learning that Matters [[arXiv](https://arxiv.org/abs/1709.06560)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - The Uncertainty Bellman Equation and Exploration [[arXiv](https://arxiv.org/abs/1709.05380)]
+- WESPE: Weakly Supervised Photo Enhancer for Digital Cameras [[arXiv](https://arxiv.org/abs/1709.01118)] [[article](http://people.ee.ethz.ch/~ihnatova/wespe.html)]
 - Globally Normalized Reader [[arXiv](https://arxiv.org/abs/1709.02828)] [[article](http://research.baidu.com/gnr/)] [[code](https://github.com/baidu-research/GloballyNormalizedReader)]
 - A Brief Introduction to Machine Learning for Engineers [[arXiv](https://arxiv.org/abs/1709.02840)]
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
@@ -174,6 +174,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)] [[code](https://github.com/abisee/pointer-generator)] [[article](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)]
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
+- DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks [[arXiv](https://arxiv.org/abs/1704.02470)] [[article](http://people.ee.ethz.ch/~ihnatova/)] [[code](https://github.com/aiff22/DPED)]
 - A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)] [[article](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)]
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Hierarchical Surface Prediction for 3D Object Reconstruction [[arXiv](https://arxiv.org/abs/1704.00710)] [[article](http://bair.berkeley.edu/blog/2017/08/23/high-quality-3d-obj-reconstruction/)]
