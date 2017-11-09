@@ -234,6 +234,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 
 - [A recurrent neural network without Chaos](notes/rnn_no_chaos.md) [[arXiv](https://arxiv.org/abs/1612.06212)]
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
+- EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis [[arXiv](https://arxiv.org/abs/1612.07919)] [[article](http://webdav.tuebingen.mpg.de/pixel/enhancenet/)]
 - Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv](https://arxiv.org/abs/1612.07828)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
