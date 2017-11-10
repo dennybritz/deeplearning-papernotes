@@ -1,7 +1,9 @@
 #### 2017-11
 
+- Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
+- Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
-- Don't Decay the Learning Rate, Increase the Batch Size [[arXiv(https://arxiv.org/abs/1711.00489)]]
+- Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 
 #### 2017-10
@@ -125,7 +127,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - [Noisy Networks for Exploration](notes/noisy-networks-4-exploration.md) [[arXiv](https://arxiv.org/abs/1706.10295)]
 - Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
 - Gradient Episodic Memory for Continuum Learning [[arXiv](https://arxiv.org/abs/1706.08840)]
-- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)]
+- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)] [[code](https://github.com/batra-mlp-lab/lang-emerge)]
 - Deep Interest Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1706.06978)]
 - Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study [[arXiv](https://arxiv.org/abs/1706.08606)] [[article](https://deepmind.com/blog/cognitive-psychology/)]
 - Structure Learning in Motor Control: A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
@@ -156,6 +158,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
 - Dilated Residual Networks [[arXiv](https://arxiv.org/abs/1705.09914)] [[code](https://github.com/fyu/drn)]
+- Bayesian GAN [[arXiv](https://arxiv.org/abs/1705.09558)] [[code](https://github.com/andrewgordonwilson/bayesgan/)]
 - Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
