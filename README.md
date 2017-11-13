@@ -1,5 +1,9 @@
 #### 2017-11
 
+- Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
+- Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
+- A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
+- Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 
 #### 2017-10
@@ -8,7 +12,6 @@
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
 - A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs [[Science](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)] [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)] [[code](https://github.com/vicariousinc/science_rcn)]
 - Understanding Grounded Language Learning Agents [[arXiv](https://arxiv.org/abs/1710.09867)]
-- 
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
 - Meta Learning Shared Hierarchies [[arXiv](https://arxiv.org/abs/1710.09767)] [[article](https://blog.openai.com/learning-a-hierarchy/)] [[code](https://github.com/openai/mlsh)]
 - Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
@@ -49,6 +52,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Matterport3D: Learning from RGB-D Data in Indoor Environments [[arXiv](https://arxiv.org/abs/1709.06158)] [[article](https://niessner.github.io/Matterport/)] [[article2](https://hackernoon.com/announcing-the-matterport3d-research-dataset-815cae932939)] [[code](https://github.com/niessner/Matterport)]
 - Deep Reinforcement Learning that Matters [[arXiv](https://arxiv.org/abs/1709.06560)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - The Uncertainty Bellman Equation and Exploration [[arXiv](https://arxiv.org/abs/1709.05380)]
+- WESPE: Weakly Supervised Photo Enhancer for Digital Cameras [[arXiv](https://arxiv.org/abs/1709.01118)] [[article](http://people.ee.ethz.ch/~ihnatova/wespe.html)]
 - Globally Normalized Reader [[arXiv](https://arxiv.org/abs/1709.02828)] [[article](http://research.baidu.com/gnr/)] [[code](https://github.com/baidu-research/GloballyNormalizedReader)]
 - A Brief Introduction to Machine Learning for Engineers [[arXiv](https://arxiv.org/abs/1709.02840)]
 - Learning with Opponent-Learning Awareness [[arXiv](https://arxiv.org/abs/1709.04326)] [[article](https://blog.openai.com/learning-to-model-other-minds/)]
@@ -123,7 +127,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - [Noisy Networks for Exploration](notes/noisy-networks-4-exploration.md) [[arXiv](https://arxiv.org/abs/1706.10295)]
 - Do GANs actually learn the distribution? An empirical study [[arXiv](https://arxiv.org/abs/1706.08224)]
 - Gradient Episodic Memory for Continuum Learning [[arXiv](https://arxiv.org/abs/1706.08840)]
-- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)]
+- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog [[arXiv](https://arxiv.org/abs/1706.08502)] [[code](https://github.com/batra-mlp-lab/lang-emerge)]
 - Deep Interest Network for Click-Through Rate Prediction [[arXiv](https://arxiv.org/abs/1706.06978)]
 - Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study [[arXiv](https://arxiv.org/abs/1706.08606)] [[article](https://deepmind.com/blog/cognitive-psychology/)]
 - Structure Learning in Motor Control: A Deep Reinforcement Learning Model [[arXiv](https://arxiv.org/abs/1706.06827)]
@@ -154,6 +158,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
 - Dilated Residual Networks [[arXiv](https://arxiv.org/abs/1705.09914)] [[code](https://github.com/fyu/drn)]
+- Bayesian GAN [[arXiv](https://arxiv.org/abs/1705.09558)] [[code](https://github.com/andrewgordonwilson/bayesgan/)]
 - Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
@@ -174,6 +179,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)] [[code](https://github.com/abisee/pointer-generator)] [[article](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)]
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
+- DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks [[arXiv](https://arxiv.org/abs/1704.02470)] [[article](http://people.ee.ethz.ch/~ihnatova/)] [[code](https://github.com/aiff22/DPED)]
 - A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)] [[article](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)]
 - Automated Curriculum Learning for Neural Networks [[arXiv](https://arxiv.org/abs/1704.03003)]
 - Hierarchical Surface Prediction for 3D Object Reconstruction [[arXiv](https://arxiv.org/abs/1704.00710)] [[article](http://bair.berkeley.edu/blog/2017/08/23/high-quality-3d-obj-reconstruction/)]
@@ -231,6 +237,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 
 - [A recurrent neural network without Chaos](notes/rnn_no_chaos.md) [[arXiv](https://arxiv.org/abs/1612.06212)]
 - Language Modeling with Gated Convolutional Networks [[arXiv](https://arxiv.org/abs/1612.08083)]
+- EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis [[arXiv](https://arxiv.org/abs/1612.07919)] [[article](http://webdav.tuebingen.mpg.de/pixel/enhancenet/)]
 - Learning from Simulated and Unsupervised Images through Adversarial Training [[arXiv](https://arxiv.org/abs/1612.07828)]
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
