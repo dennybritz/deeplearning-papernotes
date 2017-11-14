@@ -126,6 +126,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 
 #### 2017-05
 
+- Supervised Learning of Universal Sentence Representations from Natural Language Inference Data [[arXiv](https://arxiv.org/abs/1705.02364)]  [[code](https://github.com/facebookresearch/InferSent)]
 - pix2code: Generating Code from a Graphical User Interface Screenshot [[arXiv](https://arxiv.org/abs/1705.07962)] [[article](https://uizard.io/research#pix2code)] [[code](https://github.com/tonybeltramelli/pix2code)]
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv](https://arxiv.org/abs/1705.10743)]
 - Reinforcement Learning with a Corrupted Reward Channel [[arXiv](https://arxiv.org/abs/1705.08417)]
