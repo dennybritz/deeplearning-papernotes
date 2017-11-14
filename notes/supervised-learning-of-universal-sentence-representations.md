@@ -7,8 +7,13 @@ TLDR; The authors show that supervised training on the NLI task can produce high
 
 - The 4 sentence encoding architectures used are:
     - LSTM/GRU: Essentially the encoder of a seq2seq model
-    - BiLSTM: Bi-directional LSTM where each dim of the two (forwards and backwards) encoding are either summed or max-pooled
+    - BiLSTM: Bi-directional LSTM where each dim of the two (forwards and backwards) encoding are either summed or max-pooled.
     - Self-attentive network:  Weighted linear combination (Attention) over each hidden state vectors of a BiLSTM
-    - Hierarchical ConvNet: The authors introduce a variation of the AdaSent model, where at each layer of the CNN, a max pool is taken over the feature maps. Each of these max pooled vectors are concatenated to obtain the final sentence encoding.
+    - Hierarchical ConvNet: The authors introduce a variation of the AdaSent model, where at each layer of the CNN, a max pool is taken over the feature maps. Each max pooled vector is concatenated to obtain the final sentence encoding.
 
-- The trained models are used to get sentence representations for different tasks such as classification (eg: sentiment analysis, Subj/obj), entailment (eg: SICK dataset), caption-image retrieval and a few other tasks.
+- The BiLSTM-Max w/ 4096 dim encoding performs best out of all on the SNLI task as well as on transfer tasks.
+
+- Some models are sensitive to over to over-specialization on the SNLI training task. This means that some models can perform better on the SNLI task but don't transfer as well compared to other models
+
+- The trained models are used to get sentence representations and test performance on 12 different transfer tasks such as classification (eg: sentiment analysis, Subj/obj), entailment (eg: SICK dataset), caption-image retrieval and a few other tasks.
+
