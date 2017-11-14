@@ -17,3 +17,5 @@ TLDR; The authors show that supervised training on the NLI task can produce high
 
 - The trained models are used to get sentence representations and test performance on 12 different transfer tasks such as classification (eg: sentiment analysis, Subj/obj), entailment (eg: SICK dataset), caption-image retrieval and a few other tasks.
 
+- PyTorch implementation available [here](https://github.com/facebookresearch/InferSent)
+
