@@ -23,6 +23,7 @@
 -  Generalization in Deep Learning [[arXiv](https://arxiv.org/abs/1710.05468)]
 - Swish: a Self-Gated Activation Function [[arXiv](https://arxiv.org/abs/1710.05941)]
 - Emergent Translation in Multi-Agent Communication [[arXiv](https://arxiv.org/abs/1710.06922)]
+- SLING: A framework for frame semantic parsing [[arXiv](https://arxiv.org/abs/1710.07032)] [[article](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)] [[code](https://github.com/google/sling)]
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
 - Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
 - Generative Adversarial Networks: An Overview [[arXiv](https://arxiv.org/abs/1710.07035)]
