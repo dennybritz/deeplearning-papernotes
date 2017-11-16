@@ -1,8 +1,11 @@
 #### 2017-11
 
+- Online Deep Learning: Learning Deep Neural Networks on the Fly [[arXiv](https://arxiv.org/abs/1711.03705)]
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
+- Block-Sparse Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.02782)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
+- Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)] [[article](https://avdnoord.github.io/homepage/vqvae/)]
 - Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 
@@ -162,6 +165,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Dilated Residual Networks [[arXiv](https://arxiv.org/abs/1705.09914)] [[code](https://github.com/fyu/drn)]
 - Bayesian GAN [[arXiv](https://arxiv.org/abs/1705.09558)] [[code](https://github.com/andrewgordonwilson/bayesgan/)]
 - Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
+- Thinking Fast and Slow with Deep Learning and Tree Search [[arXiv]()]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
