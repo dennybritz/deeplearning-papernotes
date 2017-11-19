@@ -1,6 +1,8 @@
 #### 2017-11
 
+- CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)] [[article](https://stanfordmlgroup.github.io/projects/chexnet/)]
 - Online Deep Learning: Learning Deep Neural Networks on the Fly [[arXiv](https://arxiv.org/abs/1711.03705)]
+- Learning Explanatory Rules from Noisy Data [[arXiv](https://arxiv.org/abs/1711.04574)]
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
 - Block-Sparse Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.02782)]
