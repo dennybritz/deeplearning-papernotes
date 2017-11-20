@@ -1,8 +1,13 @@
 #### 2017-11
 
+- CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)] [[article](https://stanfordmlgroup.github.io/projects/chexnet/)]
+- Online Deep Learning: Learning Deep Neural Networks on the Fly [[arXiv](https://arxiv.org/abs/1711.03705)]
+- Learning Explanatory Rules from Noisy Data [[arXiv](https://arxiv.org/abs/1711.04574)]
 - Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
+- Block-Sparse Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1711.02782)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
+- Neural Discrete Representation Learning [[arXiv](https://arxiv.org/abs/1711.00937)] [[article](https://avdnoord.github.io/homepage/vqvae/)]
 - Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 
@@ -23,6 +28,7 @@
 -  Generalization in Deep Learning [[arXiv](https://arxiv.org/abs/1710.05468)]
 - Swish: a Self-Gated Activation Function [[arXiv](https://arxiv.org/abs/1710.05941)]
 - Emergent Translation in Multi-Agent Communication [[arXiv](https://arxiv.org/abs/1710.06922)]
+- SLING: A framework for frame semantic parsing [[arXiv](https://arxiv.org/abs/1710.07032)] [[article](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)] [[code](https://github.com/google/sling)]
 - Meta-Learning for Wrestling [[arXiv](https://arxiv.org/abs/1710.03641)] [[article](https://blog.openai.com/meta-learning-for-wrestling/)] [[code](https://github.com/openai/robosumo)]
 - Mixed Precision Training [[arXiv](https://arxiv.org/abs/1710.03740)] [[article](http://research.baidu.com/mixed-precision-training/)] [[article2](https://devblogs.nvidia.com/parallelforall/mixed-precision-training-deep-neural-networks/)] [[code/docs](http://docs.nvidia.com/deeplearning/sdk/mixed-precision-training/index.html)]
 - Generative Adversarial Networks: An Overview [[arXiv](https://arxiv.org/abs/1710.07035)]
@@ -161,6 +167,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Dilated Residual Networks [[arXiv](https://arxiv.org/abs/1705.09914)] [[code](https://github.com/fyu/drn)]
 - Bayesian GAN [[arXiv](https://arxiv.org/abs/1705.09558)] [[code](https://github.com/andrewgordonwilson/bayesgan/)]
 - Gradient Descent Can Take Exponential Time to Escape Saddle Points [[arXiv](https://arxiv.org/abs/1705.10412)] [[article](http://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)]
+- Thinking Fast and Slow with Deep Learning and Tree Search [[arXiv]()]
 - ParlAI: A Dialog Research Software Platform [[arXiv](https://arxiv.org/abs/1705.06476)] [[code](https://github.com/facebookresearch/ParlAI)] [[article](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research/)]
 - Semantically Decomposing the Latent Spaces of Generative Adversarial Networks [[arXiv](https://arxiv.org/abs/1705.07904)] [[article](https://aws.amazon.com/blogs/ai/combining-deep-learning-networks-gan-and-siamese-to-generate-high-quality-life-like-images/)]
 - Look, Listen and Learn [[arXiv](https://arxiv.org/abs/1705.08168)]
