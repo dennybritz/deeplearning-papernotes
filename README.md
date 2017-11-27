@@ -1,5 +1,6 @@
 #### 2017-11
 
+- StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[arXiv](https://arxiv.org/abs/1711.09020)] [[code](https://github.com/yunjey/StarGAN/)]
 - Parallel WaveNet: Fast High-Fidelity Speech Synthesis [[DeepMind documents](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)] [[article](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)]
 - CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)] [[article](https://stanfordmlgroup.github.io/projects/chexnet/)]
 - Online Deep Learning: Learning Deep Neural Networks on the Fly [[arXiv](https://arxiv.org/abs/1711.03705)]
