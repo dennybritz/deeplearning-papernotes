@@ -77,6 +77,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1708.08842)] [[article](http://www.symmetrymagazine.org/article/neural-networks-meet-space)]
 - TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow [[white paper](https://drive.google.com/file/d/0B20Yn-GSaVHGMVlPanRTRlNIRlk/view)] [[code](https://github.com/tensorflow/agents)]
 - Automated Crowdturfing Attacks and Defenses in Online Review Systems [[arXiv](https://arxiv.org/abs/1708.08151)]
+- Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning [[arXiv](https://arxiv.org/abs/1708.02596)] [[article](http://bair.berkeley.edu/blog/2017/11/30/model-based-rl/)] [[code](https://github.com/nagaban2/nn_dynamics)]
 - Deep Learning for Video Game Playing [[arXiv](https://arxiv.org/abs/1708.07902)]
 - Deep & Cross Network for Ad Click Predictions [[arXiv](https://arxiv.org/abs/1708.05123)]
 - Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms [[arXiv](https://arxiv.org/abs/1708.07747)] [[code](https://github.com/zalandoresearch/fashion-mnist)]
