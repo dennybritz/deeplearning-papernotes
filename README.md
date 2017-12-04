@@ -1,5 +1,6 @@
 #### 2017-11
 
+- High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[arXiv](https://arxiv.org/abs/1711.11585)] [[article](https://tcwang0509.github.io/pix2pixHD/)] [[code](https://github.com/NVIDIA/pix2pixHD)]
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[arXiv](https://arxiv.org/abs/1711.09020)] [[code](https://github.com/yunjey/StarGAN/)]
 - Population Based Training of Neural Networks [[arXiv](https://arxiv.org/abs/1711.09846)] [[article](https://deepmind.com/blog/population-based-training-neural-networks/)]
 - Parallel WaveNet: Fast High-Fidelity Speech Synthesis [[DeepMind documents](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)] [[article](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)]
