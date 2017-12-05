@@ -195,7 +195,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
 - Get To The Point: Summarization with Pointer-Generator Networks [[arXiv](https://arxiv.org/abs/1704.04368)] [[code](https://github.com/abisee/pointer-generator)] [[article](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)]
 - Adversarial Neural Machine Translation [[arXiv](https://arxiv.org/abs/1704.06933)]
-- Deep Q-learning from Demonstrations [[arXiv](https://arxiv.org/abs/1704.03732)]
+- [Deep Q-learning from Demonstrations](notes/dqn-demonstrations.md) [[arXiv](https://arxiv.org/abs/1704.03732)]
 - Learning from Demonstrations for Real World Reinforcement Learning [[arXiv](https://arxiv.org/abs/1704.03732)]
 - DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks [[arXiv](https://arxiv.org/abs/1704.02470)] [[article](http://people.ee.ethz.ch/~ihnatova/)] [[code](https://github.com/aiff22/DPED)]
 - A Neural Representation of Sketch Drawings [[arXiv](https://arxiv.org/abs/1704.03477)] [[code](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn)] [[article](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)]
