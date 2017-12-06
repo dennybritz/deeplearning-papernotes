@@ -1,3 +1,8 @@
+#### 2017-12
+
+- GPU Kernels for Block-Sparse Weights [[arXiv](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)] [[article](https://blog.openai.com/block-sparse-gpu-kernels/)] [[code](https://github.com/openai/blocksparse)]
+- Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm [[arXiv](https://arxiv.org/abs/1712.01815)]
+
 #### 2017-11
 
 - High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[arXiv](https://arxiv.org/abs/1711.11585)] [[article](https://tcwang0509.github.io/pix2pixHD/)] [[code](https://github.com/NVIDIA/pix2pixHD)]
