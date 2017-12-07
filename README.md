@@ -131,7 +131,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - Emergence of Locomotion Behaviours in Rich Environments [[arXiv](https://arxiv.org/abs/1707.02286)] [[article](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/)]
 - Learning human behaviors from motion capture by adversarial imitation [[arXiv](https://arxiv.org/abs/1707.02201)] [[article](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/)]
 - Robust Imitation of Diverse Behaviors [[arXiv](https://deepmind.com/documents/95/diverse_arxiv.pdf)] [[article](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/)]
-- Hindsight Experience Replay [[arXiv](https://arxiv.org/abs/1707.01495)]
+- [Hindsight Experience Replay](notes/hindsight-ep.md) [[arXiv](https://arxiv.org/abs/1707.01495)]
 - Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1707.01836)] [[article](https://stanfordmlgroup.github.io/projects/ecg/)]
 - End-to-End Learning of Semantic Grasping [[arXiv](https://arxiv.org/abs/1707.01932)]
 - ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games [[arXiv](https://arxiv.org/abs/1707.01067)] [[code](https://github.com/facebookresearch/ELF)] [[article](https://code.facebook.com/posts/132985767285406/introducing-elf-an-extensive-lightweight-and-flexible-platform-for-game-research/)]
