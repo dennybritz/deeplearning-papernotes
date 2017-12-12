@@ -1,7 +1,17 @@
+#### 2017-12
+
+- Deliberation Network: Pushing the frontiers of neural machine translation [[Research at Microsoft](https://www.microsoft.com/en-us/research/publication/deliberation-networks-sequence-generation-beyond-one-pass-decoding/)] [[article](https://www.microsoft.com/en-us/research/blog/deliberation-networks/)]
+- GPU Kernels for Block-Sparse Weights [[Research at OpenAI](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)] [[article](https://blog.openai.com/block-sparse-gpu-kernels/)] [[code](https://github.com/openai/blocksparse)]
+- Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm [[arXiv](https://arxiv.org/abs/1712.01815)]
+- Deep Learning Scaling is Predictable, Empirically [[arXiv](https://arxiv.org/abs/1712.00409)] [[article](http://research.baidu.com/deep-learning-scaling-predictable-empirically/)]
+
 #### 2017-11
 
+- High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[arXiv](https://arxiv.org/abs/1711.11585)] [[article](https://tcwang0509.github.io/pix2pixHD/)] [[code](https://github.com/NVIDIA/pix2pixHD)]
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[arXiv](https://arxiv.org/abs/1711.09020)] [[code](https://github.com/yunjey/StarGAN/)]
 - Population Based Training of Neural Networks [[arXiv](https://arxiv.org/abs/1711.09846)] [[article](https://deepmind.com/blog/population-based-training-neural-networks/)]
+- Distilling a Neural Network Into a Soft Decision Tree [[arXiv](https://arxiv.org/abs/1711.09784)]
+- Neural Text Generation: A Practical Guide [[arXiv](https://arxiv.org/abs/1711.09534)]
 - Parallel WaveNet: Fast High-Fidelity Speech Synthesis [[DeepMind documents](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)] [[article](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)]
 - CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning [[arXiv](https://arxiv.org/abs/1711.05225)] [[article](https://stanfordmlgroup.github.io/projects/chexnet/)]
 - Non-local Neural Networks [[arXiv](https://arxiv.org/abs/1711.07971)]
