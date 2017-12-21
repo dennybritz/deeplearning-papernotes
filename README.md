@@ -1,5 +1,7 @@
 #### 2017-12
 
+- The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
+- Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
 - Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
 - Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
 - Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
