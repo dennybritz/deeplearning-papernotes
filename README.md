@@ -1,5 +1,12 @@
 #### 2017-12
 
+- The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
+- Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
+- Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
+- Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
+- Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
+- State-of-the-art Speech Recognition With Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1712.01769)] [[article](https://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)]
+- Peephole: Predicting Network Performance Before Training [[arXiv](https://arxiv.org/abs/1712.03351)]
 - Deliberation Network: Pushing the frontiers of neural machine translation [[Research at Microsoft](https://www.microsoft.com/en-us/research/publication/deliberation-networks-sequence-generation-beyond-one-pass-decoding/)] [[article](https://www.microsoft.com/en-us/research/blog/deliberation-networks/)]
 - GPU Kernels for Block-Sparse Weights [[Research at OpenAI](https://s3-us-west-2.amazonaws.com/openai-assets/blocksparse/blocksparsepaper.pdf)] [[article](https://blog.openai.com/block-sparse-gpu-kernels/)] [[code](https://github.com/openai/blocksparse)]
 - Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm [[arXiv](https://arxiv.org/abs/1712.01815)]
@@ -34,6 +41,7 @@
 - Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
 - A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs [[Science](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)] [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)] [[code](https://github.com/vicariousinc/science_rcn)]
 - Understanding Grounded Language Learning Agents [[arXiv](https://arxiv.org/abs/1710.09867)]
+- Planning, Fast and Slow: A Framework for Adaptive Real-Time Safe Trajectory Planning [[arXiv](https://arxiv.org/abs/1710.04731)] [[article](http://bair.berkeley.edu/blog/2017/12/05/fastrack/)] [[code](https://github.com/HJReachability)] (soon)
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
 - Meta Learning Shared Hierarchies [[arXiv](https://arxiv.org/abs/1710.09767)] [[article](https://blog.openai.com/learning-a-hierarchy/)] [[code](https://github.com/openai/mlsh)]
 - Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
@@ -66,6 +74,7 @@
 - A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement [[arXiv](https://arxiv.org/abs/1709.08243)] [[article](https://people.xiph.org/~jm/demo/rnnoise/)] [[code](https://github.com/xiph/rnnoise/)]
 - ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on
 Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CVF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)] [[article](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)] [[dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC)]
+- NIMA: Neural Image Assessment [[arXiv](https://arxiv.org/abs/1709.05424)] [[article](https://research.googleblog.com/2017/12/introducing-nima-neural-image-assessment.html)]
 - Generating Sentences by Editing Prototypes [[arXiv](https://arxiv.org/abs/1709.08878)] [[code](https://github.com/kelvinguu/neural-editor)]
 - The Consciousness Prior [[arXiv](https://arxiv.org/abs/1709.08568)]
 - StarSpace: Embed All The Things! [[arXiv](https://arxiv.org/abs/1709.03856)] [[code](https://github.com/facebookresearch/Starspace)]
@@ -224,6 +233,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - [A Structured Self-attentive Sentence Embedding](notes/self_attention_embedding.md) [[arXiv](https://arxiv.org/abs/1703.03130)]
 - Multi-step Reinforcement Learning: A Unifying Algorithm [[arXiv](https://arxiv.org/abs/1703.01327)]
 - Deep learning with convolutional neural networks for brain mapping and decoding of movement-related information from the human EEG [[arXiv](https://arxiv.org/abs/1703.05051)]
+- FaSTrack: a Modular Framework for Fast and Guaranteed Safe Motion Planning [[arXiv](https://arxiv.org/abs/1703.07373)] [[article](http://bair.berkeley.edu/blog/2017/12/05/fastrack/)] [[article2](http://sylviaherbert.com/fastrack/)]
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906)] [[code](https://github.com/google/seq2seq)]
 - Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arXiv](https://arxiv.org/abs/1703.07834)] [[article](http://aaronsplace.co.uk/papers/jackson2017recon/)] [[code](https://github.com/AaronJackson/vrn)]
 - Minimax Regret Bounds for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.05449)]
