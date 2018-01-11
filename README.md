@@ -1,5 +1,6 @@
 #### 2018-01
 
+- DeepMind Control Suite [[arXiv](https://arxiv.org/abs/1801.00690)] [[code](https://github.com/deepmind/dm_control)]
 - Deep Learning: A Critical Appraisal [[arXiv](https://arxiv.org/abs/1801.00631)]
 
 
