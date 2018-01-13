@@ -1,8 +1,17 @@
+#### 2018-01
+
+- DeepMind Control Suite [[arXiv](https://arxiv.org/abs/1801.00690)] [[code](https://github.com/deepmind/dm_control)]
+- Deep Learning: A Critical Appraisal [[arXiv](https://arxiv.org/abs/1801.00631)]
+
+
 #### 2017-12
 
+- Adversarial Patch [[arXiv](https://arxiv.org/abs/1712.09665)]
+- CNN Is All You Need [[arXiv](https://arxiv.org/abs/1712.09662)]
 - The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
 - Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
 - Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
+- Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1712.06567)]
 - Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
 - Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
 - State-of-the-art Speech Recognition With Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1712.01769)] [[article](https://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)]
@@ -280,6 +289,7 @@ Weakly-Supervised Classification and Localization of Common Thorax Diseases [[CV
 - How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs [[arXiv](https://arxiv.org/abs/1612.04629)]
 - Improving Neural Language Models with a Continuous Cache [[arXiv](https://arxiv.org/abs/1612.04426)]
 - DeepMind Lab [[arXiv](https://arxiv.org/abs/1612.03801)] [[code](https://github.com/deepmind/lab)]
+- Deep Learning of Robotic Tasks without a Simulator using Strong and Weak Human Supervision [[arXiv](https://arxiv.org/abs/1612.01086)]
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
 - Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
 
