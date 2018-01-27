@@ -89,6 +89,8 @@ Conditional Covariance Minimization [[NIPS paper](https://papers.nips.cc/paper/7
 - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks [[arXiv](https://arxiv.org/abs/1710.01813)]
 - Neural Color Transfer between Images [[arXiv](https://arxiv.org/abs/1710.00756)]
 - The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
+- Scalable and accurate deep learning for electronic health
+records [[arXiv](https://arxiv.org/abs/1801.07860)]
 
 #### 2017-09
 
