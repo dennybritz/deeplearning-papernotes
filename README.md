@@ -1,5 +1,17 @@
 #### 2018-01
 
+- Kernel Feature Selection via Conditional Covariance Minimization [[NIPS paper](https://papers.nips.cc/paper/7270-kernel-feature-selection-via-conditional-covariance-minimization.pdf)] [[article](http://bair.berkeley.edu/blog/2018/01/23/kernels/)] [[code](https://github.com/Jianbo-Lab/CCM)]
+- Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1801.08116)] [[article](https://deepmind.com/blog/open-sourcing-psychlab/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)]
+- Fine-tuned Language Models for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)] [[code]()] (soon)
+- Deep Learning: An Introduction for Applied Mathematicians [[arXiv](https://arxiv.org/abs/1801.05894v1)]
+- Innateness, AlphaZero, and Artificial Intelligence [[arXiv(https://arxiv.org/abs/1801.05667)]]
+- Can Computers Create Art? [[arXiv](https://arxiv.org/abs/1801.04486)]
+- eCommerceGAN : A Generative Adversarial Network for E-commerce [[arXiv](https://arxiv.org/abs/1801.03244)]
+- Expected Policy Gradients for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1801.03326)]
+- DroNet: Learning to Fly by Driving [[UZH docs](http://rpg.ifi.uzh.ch/docs/RAL18_Loquercio.pdf)] [[article](http://rpg.ifi.uzh.ch/dronet.html)] [[code](https://github.com/uzh-rpg/rpg_public_dronet)]
+- Symmetric Decomposition of Asymmetric Games [[Scientific Reports](https://www.nature.com/articles/s41598-018-19194-4)] [[article](https://deepmind.com/blog/game-theory-insights-asymmetric-multi-agent-games/)]
+- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor [[arXiv](https://arxiv.org/abs/1801.01290)] [[code](https://github.com/haarnoja/sac)]
+- SBNet: Sparse Blocks Network for Fast Inference [[arXiv](https://arxiv.org/pdf/1801.02108.pdf)] [[article](https://eng.uber.com/sbnet/)] [[code](https://github.com/uber/sbnet)]
 - DeepMind Control Suite [[arXiv](https://arxiv.org/abs/1801.00690)] [[code](https://github.com/deepmind/dm_control)]
 - Deep Learning: A Critical Appraisal [[arXiv](https://arxiv.org/abs/1801.00631)]
 
@@ -11,7 +23,8 @@
 - The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
 - Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
 - Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
-- Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1712.06567)]
+- Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1712.06567)] [[article](https://eng.uber.com/deep-neuroevolution/)] [[code](https://github.com/uber-common/deep-neuroevolution)]
+- Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents [[arXiv](https://arxiv.org/abs/1712.06560)] [[article](https://eng.uber.com/deep-neuroevolution/)] [[code](https://github.com/uber-common/deep-neuroevolution)]
 - Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/early/2017/12/15/science.aao1733)]
 - Mathematics of Deep Learning [[arXiv](https://arxiv.org/abs/1712.04741)]
 - State-of-the-art Speech Recognition With Sequence-to-Sequence Models [[arXiv](https://arxiv.org/abs/1712.01769)] [[article](https://research.googleblog.com/2017/12/improving-end-to-end-models-for-speech.html)]
@@ -75,6 +88,8 @@
 - Neural Task Programming: Learning to Generalize Across Hierarchical Tasks [[arXiv](https://arxiv.org/abs/1710.01813)]
 - Neural Color Transfer between Images [[arXiv](https://arxiv.org/abs/1710.00756)]
 - The hippocampus as a predictive map [[biorXiv](https://www.biorxiv.org/content/biorxiv/early/2017/07/25/097170.full.pdf)] [[article](https://deepmind.com/blog/hippocampus-predictive-map/)]
+- Scalable and accurate deep learning for electronic health
+records [[arXiv](https://arxiv.org/abs/1801.07860)]
 
 #### 2017-09
 
