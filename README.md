@@ -1,5 +1,16 @@
+#### 2018-02
+
+- The Matrix Calculus You Need For Deep Learning [[arXiv](https://arxiv.org/abs/1802.01528v2)]
+- Behavior is Everything – Towards Representing Concepts with Sensorimotor Contingencies [[paper](https://www.vicarious.com/wp-content/uploads/2018/01/AAAI18-pixelworld.pdf)] [[article](https://www.vicarious.com/2018/02/07/learning-concepts-through-sensorimotor-interactions/)] [[code](https://github.com/vicariousinc/pixelworld)]
+- IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures [[arXiv](https://arxiv.org/abs/1802.01561)] [[article](https://deepmind.com/blog/impala-scalable-distributed-deeprl-dmlab-30/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/dmlab30)]
+- DeepType: Multilingual Entity Linking by Neural Type System Evolution [[arXiv](https://arxiv.org/abs/1802.01021)] [[article](https://blog.openai.com/discovering-types-for-entity-disambiguation/)] [[code](https://github.com/openai/deeptype)]
+- DensePose: Dense Human Pose Estimation In The Wild [[arXiv](https://arxiv.org/abs/1802.00434)] [[article](http://densepose.org/)]
+
 #### 2018-01
 
+- Nested LSTMs [[arXiv](https://arxiv.org/abs/1801.10308)]
+- Generating Wikipedia by Summarizing Long Sequences [[arXiv](https://arxiv.org/abs/1801.10198)]
+- Scalable and accurate deep learning for electronic health records [[arXiv](https://arxiv.org/abs/1801.07860)]
 - Kernel Feature Selection via Conditional Covariance Minimization [[NIPS paper](https://papers.nips.cc/paper/7270-kernel-feature-selection-via-conditional-covariance-minimization.pdf)] [[article](http://bair.berkeley.edu/blog/2018/01/23/kernels/)] [[code](https://github.com/Jianbo-Lab/CCM)]
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1801.08116)] [[article](https://deepmind.com/blog/open-sourcing-psychlab/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)]
 - Fine-tuned Language Models for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)] [[code]()] (soon)
@@ -20,6 +31,7 @@
 
 - Adversarial Patch [[arXiv](https://arxiv.org/abs/1712.09665)]
 - CNN Is All You Need [[arXiv](https://arxiv.org/abs/1712.09662)]
+- Learning Robot Objectives from Physical Human Interaction [[paper](http://proceedings.mlr.press/v78/bajcsy17a/bajcsy17a.pdf)] [[article](http://bair.berkeley.edu/blog/2018/02/06/phri/)]
 - The NarrativeQA Reading Comprehension Challenge [[arXiv](https://arxiv.org/abs/1712.07040v1)] [[dataset](https://github.com/deepmind/narrativeqa)]
 - Objects that Sound [[arXiv](https://arxiv.org/abs/1712.06651)]
 - Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions [[arXiv](https://arxiv.org/abs/1712.05884)] [[article](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)] [[article2](https://google.github.io/tacotron/publications/tacotron2/index.html)]
@@ -64,6 +76,7 @@
 - A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs [[Science](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)] [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)] [[code](https://github.com/vicariousinc/science_rcn)]
 - Understanding Grounded Language Learning Agents [[arXiv](https://arxiv.org/abs/1710.09867)]
 - Planning, Fast and Slow: A Framework for Adaptive Real-Time Safe Trajectory Planning [[arXiv](https://arxiv.org/abs/1710.04731)] [[article](http://bair.berkeley.edu/blog/2017/12/05/fastrack/)] [[code](https://github.com/HJReachability)] (soon)
+- Malware Detection by Eating a Whole EXE [[arXiv](https://arxiv.org/abs/1710.09435)] [[article](https://devblogs.nvidia.com/malware-detection-neural-networks/)]
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[Research at Nvidia](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)] [[article](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)] [[code](https://github.com/tkarras/progressive_growing_of_gans)]
 - Meta Learning Shared Hierarchies [[arXiv](https://arxiv.org/abs/1710.09767)] [[article](https://blog.openai.com/learning-a-hierarchy/)] [[code](https://github.com/openai/mlsh)]
 - Deep Voice 3: 2000-Speaker Neural Text-to-Speech [[arXiv](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)] [[article](http://research.baidu.com/deep-voice-3-2000-speaker-neural-text-speech/)]
