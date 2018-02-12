@@ -1,6 +1,9 @@
 #### 2018-02
 
 - The Matrix Calculus You Need For Deep Learning [[arXiv](https://arxiv.org/abs/1802.01528v2)]
+- Regularized Evolution for Image Classifier Architecture Search [[arXiv](https://arxiv.org/abs/1802.01548)]
+- Online Learning: A Comprehensive Survey [[arXiv](https://arxiv.org/abs/1802.02871)]
+- Visual Interpretability for Deep Learning: a Survey [[arXiv](https://arxiv.org/abs/1802.00614)]
 - Behavior is Everything – Towards Representing Concepts with Sensorimotor Contingencies [[paper](https://www.vicarious.com/wp-content/uploads/2018/01/AAAI18-pixelworld.pdf)] [[article](https://www.vicarious.com/2018/02/07/learning-concepts-through-sensorimotor-interactions/)] [[code](https://github.com/vicariousinc/pixelworld)]
 - IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures [[arXiv](https://arxiv.org/abs/1802.01561)] [[article](https://deepmind.com/blog/impala-scalable-distributed-deeprl-dmlab-30/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/dmlab30)]
 - DeepType: Multilingual Entity Linking by Neural Type System Evolution [[arXiv](https://arxiv.org/abs/1802.01021)] [[article](https://blog.openai.com/discovering-types-for-entity-disambiguation/)] [[code](https://github.com/openai/deeptype)]
@@ -578,6 +581,7 @@ Machine Translation & Dialog
 - Learning Distributed Representations of Sentences from Unlabelled Data [[arXiv](http://arxiv.org/abs/1602.03483)]
 - Benefits of depth in neural networks [[arXiv](http://arxiv.org/abs/1602.04485)]
 - [Associative Long Short-Term Memory](notes/associative-lstm.md) [[arXiv](http://arxiv.org/abs/1602.03032)]
+- Why Should I Trust You?": Explaining the Predictions of Any Classifier [[arXiv](https://arxiv.org/abs/1602.04938)] [[code](https://github.com/marcotcr/lime)]
 - Generating images with recurrent adversarial networks [[arXiv](http://arxiv.org/abs/1602.05110)]
 - [Exploring the Limits of Language Modeling](notes/exploring-the-limits-of-lm.md) [[arXiv](http://arxiv.org/abs/1602.02410)]
 - Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
