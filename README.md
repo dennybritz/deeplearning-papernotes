@@ -15,7 +15,7 @@
 - Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1801.08116)] [[article](https://deepmind.com/blog/open-sourcing-psychlab/)] [[code](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab)]
 - Fine-tuned Language Models for Text Classification [[arXiv](https://arxiv.org/abs/1801.06146)] [[code]()] (soon)
 - Deep Learning: An Introduction for Applied Mathematicians [[arXiv](https://arxiv.org/abs/1801.05894v1)]
-- Innateness, AlphaZero, and Artificial Intelligence [[arXiv(https://arxiv.org/abs/1801.05667)]]
+- Innateness, AlphaZero, and Artificial Intelligence [[arXiv](https://arxiv.org/abs/1801.05667)]
 - Can Computers Create Art? [[arXiv](https://arxiv.org/abs/1801.04486)]
 - eCommerceGAN : A Generative Adversarial Network for E-commerce [[arXiv](https://arxiv.org/abs/1801.03244)]
 - Expected Policy Gradients for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1801.03326)]
